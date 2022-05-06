@@ -1,45 +1,7 @@
 {
 .appVersion = "1361";
 DisplayStrings = (
-"Brexit/space :/space/lcaron opposition/space britannique/space tente/space/dcaron empêcher/space une/space sortie/space sans/space accord\012/Lcaron autoroute/space urbaine/space qui/space déchire/space Bombay\012/Lcaron arrêté/space antipesticides/space du/space maire/space de/space Langouët/space suspendu/space par/space la/space justice\012S/eogonek dziowie/space oskar/zdotaccent ani/space o/space akcj/eogonek/space przeciwá/space Ma/lslash gorzacie/space Gersdorf/space/zdotaccent/aogonek daj/aogonek/space zado/sacute/cacute uczynienia\012Dlaczego/space zgin/aogonek/lslash/space kolarz/space Bjorg/space Lambvrecht./space Jest/space wynik/space prokuratorskiego/space/sacute ledztwa\012Deal/space to/space develop/space three/space high-tech/space agriculture/space/space/space",
-"/brevecomb_hookabovecomb.case",
-"/brevecomb_tildecomb.case",
-"/brevecomb_tildecomb.case",
-"/Lcaron/lcaron/dcaron/tcaron/sacutedotaccent/scarondotaccent ,/lcommaaccent/abrevehookabove",
-"3/primemod 3/doubleprimemod 5/primemod \0121/primemod 1/doubleprimemod 2/primemod \0122/primemod 2/doubleprimemod 3/primemod \0123/primemod 3/doubleprimemod 4/primemod \0124/primemod 4/doubleprimemod 5/primemod \0125/primemod 5/doubleprimemod 6/primemod \0126/primemod 6/doubleprimemod 7/primemod \0127/primemod 7/doubleprimemod 8/primemod \0128/primemod 8/doubleprimemod 9/primemod \0129/primemod 9/doubleprimemod 0/primemod \0120/primemod 0/doubleprimemod 1/primemod",
-"/Ccedillaacute/Ecedillabreve ,/Scedilla ,;/Tcedilla ç/ccedillaacute/ecedillabreve/scedilla/cedillacomb ¸/cedillacomb.case",
-"/Abrevehookabove/abrevehookabove/acircumflexhookabove/ecircumflexhookabove/ocircumflexhookabove/ohornhookabove",
-"/Lcaron d/dcaron na/caroncomb.alt/lcaron noa/tcaron/sacutedotaccent/scarondotaccent ,/commaaccentcomb/lcommaaccent/brevecomb_hookabovecomb/abrevehookabove/acircumflexhookabove/ecircumflexhookabove \012Ldnala/space nn/lcaron no/lcaron oo\012/lcaron oiseau\012lail/space lultime\012/lcaron ail/space/lcaron ultime\012lo/space/lcaron etoile\012/lcaron/oe il/space/lcaron homme/space \012linnocence\012/lcaron innocence",
-"/Lcaron/dcaron/lcaron/scarondotaccent/tcaron/udieresiscaron \012/lcaron oiseau\012/lcaron eau\012/lcaron",
-"/Gcommaaccent/Kcommaaccent/Lcommaaccent/Ncommaaccent/Rcommaaccent/Scommaaccent/Tcommaaccent/space/commaturnedabovecomb/gcommaaccent/kcommaaccent/commaaccentcomb/lcommaaccent/ncommaaccent/rcommaaccent/scommaaccent/commaaccentcomb/tcommaaccent ,/commaturnedmod/commaturnedabovecomb/commaaccentcomb/commaturnedabovecomb.case/commaaccentcomb.case",
-"/cedillacomb.case",
-"/brevecomb_hookabovecomb.case/Abrevehookabove/Acircumflexhookabove/Ahookabove/Ecircumflexhookabove/Ehookabove/hookabovecomb/hookabovecomb.case/Ihookabove/Ocircumflexhookabove/Ohookabove/Ohornhookabove/Uhookabove/Uhornhookabove/Yhookabove/brevecomb_hookabovecomb/abrevehookabove/circumflexcomb_hookabovecomb/acircumflexhookabove/ahookabove/ecircumflexhookabove/ehookabove/hookabovecomb/ihookabove/ocircumflexhookabove/ohookabove/ohornhookabove/uhookabove/uhornhookabove/yhookabove/hookabovecomb/hookabovecomb.case/brevecomb_hookabovecomb/circumflexcomb_hookabovecomb/brevecomb_hookabovecomb.case/circumflexcomb_hookabovecomb.case",
-"<",
-"|",
-"¦",
-"^",
-"¬",
-"/greaterequal",
-"/lessequal",
-"/infinity",
-"/rightanglebracket-math",
-"/guillemetleft.case",
-"/guillemetright.case",
-"/guilsinglleft.case",
-"/guilsinglright.case",
-"/cedi ¢/colonsign ¤$/dong/euro/florin/franc",
-"/upArrow",
-"/northEastArrow",
-"S/Sdotbelowdotaccent",
-"/zero.tosf.zero",
-"/zero.osf.zero",
-"/guarani",
-"/Saltillo",
-"/vturned",
-"/circumflexcomb/dotaccentcomb.case",
-"/circumflexbelowcomb",
-"/Vturned",
-n
+"/Ccedillaacute/Ecedillabreve ,/Scedilla ,;/Tcedilla ç/ccedillaacute/ecedillabreve/scedilla/cedillacomb ¸/cedillacomb.case"
 );
 classes = (
 {
@@ -126,7 +88,7 @@ name = "Enforce Compatibility Check";
 value = 1;
 }
 );
-date = "2021-07-14 15:42:36 +0000";
+date = "2022-05-06 18:46:54 +0000";
 designer = "Eben Sorkin";
 designerURL = sorkintype.com;
 familyName = Gelasio;
@@ -12569,7 +12531,7 @@ unicode = 1E64;
 {
 color = 6;
 glyphname = Saltillo;
-lastChange = "2022-05-06 17:32:14 +0000";
+lastChange = "2022-05-06 18:01:18 +0000";
 layers = (
 {
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
@@ -12577,14 +12539,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"556 176 LINE",
-"626 1419 LINE",
-"289 1419 LINE",
-"355 176 LINE"
+"466 176 LINE",
+"536 1419 LINE",
+"199 1419 LINE",
+"265 176 LINE"
 );
 }
 );
-width = 915;
+width = 735;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -12592,16 +12554,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"556 176 LINE",
-"626 1419 LINE",
-"289 1419 LINE",
-"355 176 LINE"
+"430 176 LINE",
+"500 1419 LINE",
+"163 1419 LINE",
+"229 176 LINE"
 );
 }
 );
-width = 915;
+width = 663;
 }
 );
+leftMetricsKey = exclam;
+rightMetricsKey = "=|";
 unicode = A78B;
 },
 {
@@ -28430,16 +28394,41 @@ unicode = 1E65;
 },
 {
 glyphname = saltillo;
+lastChange = "2022-05-06 18:00:59 +0000";
 layers = (
 {
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
-width = 1200;
+paths = (
+{
+closed = 1;
+nodes = (
+"366 403 LINE",
+"416 1536 LINE",
+"199 1536 LINE",
+"245 403 LINE"
+);
+}
+);
+width = 615;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
-width = 1200;
+paths = (
+{
+closed = 1;
+nodes = (
+"430 289 LINE",
+"500 1532 LINE",
+"163 1532 LINE",
+"229 289 LINE"
+);
 }
 );
+width = 663;
+}
+);
+leftMetricsKey = exclam;
+rightMetricsKey = "=|";
 unicode = A78C;
 },
 {
@@ -67668,10 +67657,10 @@ name = preferredSubfamilyName;
 value = Medium;
 }
 );
-interpolationWeight = 220;
+interpolationWeight = 210;
 instanceInterpolations = {
-"62CA62AF-CD91-478A-AB8B-28A62CC47DA0" = 0.26562;
-"DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F" = 0.73438;
+"62CA62AF-CD91-478A-AB8B-28A62CC47DA0" = 0.1875;
+"DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F" = 0.8125;
 };
 name = Medium;
 weightClass = Medium;
@@ -67687,10 +67676,10 @@ name = preferredSubfamilyName;
 value = SemiBold;
 }
 );
-interpolationWeight = 280;
+interpolationWeight = 275;
 instanceInterpolations = {
-"62CA62AF-CD91-478A-AB8B-28A62CC47DA0" = 0.73438;
-"DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F" = 0.26562;
+"62CA62AF-CD91-478A-AB8B-28A62CC47DA0" = 0.69531;
+"DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F" = 0.30469;
 };
 name = SemiBold;
 weightClass = SemiBold;
