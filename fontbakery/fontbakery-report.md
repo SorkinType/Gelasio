@@ -22,7 +22,7 @@ Fontbakery version: 0.8.8
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
 	* aringacute
-	* brokenbar and bar
+	* bar and brokenbar
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -31,10 +31,10 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb
-	- NULL
-	- .null 
-	- And ij_acutecomb
+	- ij_acutecomb
+	- .null
+	- IJ_acutecomb 
+	- And NULL
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -54,7 +54,7 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
 	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
-	- And 19 more.
+	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -128,8 +128,18 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Aringacute
-	* uni2113 and uni01EA
+	* uni1EC2
+	* uni1ED2
+	* uni2113
+	* uni03020300.case
+	* uni03020303.case
+	* uni1EC4
+	* uni01EA
+	* uni03020309.case
+	* uni1EA8
+	* uni1ED4 and 9 more.
+
+Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -138,8 +148,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb 
-	- And ij_acutecomb
+	- ij_acutecomb 
+	- And IJ_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -157,9 +167,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
-	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
-	- Glyph name: uni1E09	Contours detected: 3	Expected: 2 
-	- And 13 more.
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
+	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -184,7 +194,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* arrowleft (U+2190): L<<435.0,780.0>--<568.0,793.0>> -> L<<568.0,793.0>--<1459.0,793.0>>
 	* arrowright (U+2192): L<<87.0,793.0>--<978.0,793.0>> -> L<<978.0,793.0>--<1111.0,780.0>>
 	* arrowup (U+2191): L<<580.0,-5.0>--<580.0,886.0>> -> L<<580.0,886.0>--<593.0,1019.0>>
-	* arrowup (U+2191): L<<775.0,1019.0>--<788.0,886.0>> -> L<<788.0,886.0>--<788.0,-5.0>> and 48 more.
+	* arrowup (U+2191): L<<775.0,1019.0>--<788.0,886.0>> -> L<<788.0,886.0>--<788.0,-5.0>> and 51 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
@@ -222,13 +232,18 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Aringacute
-	* Uogonek
 	* uni03A9
-	* eogonek
 	* uni2126
-	* scedilla
-	* Scedilla and uni0163
+	* uni1EC2
+	* uni1ED2
+	* uni03020300.case
+	* uni03020303.case
+	* uni1EC4
+	* eogonek
+	* uni03020309.case
+	* uni1EA8 and 14 more.
+
+Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -237,8 +252,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb 
-	- And ij_acutecomb
+	- ij_acutecomb 
+	- And IJ_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -256,9 +271,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
-	- Glyph name: uni1E08	Contours detected: 3	Expected: 2
-	- Glyph name: uni1E09	Contours detected: 3	Expected: 2 
-	- And 13 more.
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
+	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -283,7 +298,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* arrowleft (U+2190): L<<434.0,780.0>--<567.0,793.0>> -> L<<567.0,793.0>--<1458.0,793.0>>
 	* arrowright (U+2192): L<<87.0,793.0>--<978.0,793.0>> -> L<<978.0,793.0>--<1111.0,780.0>>
 	* arrowup (U+2191): L<<580.0,-5.0>--<580.0,886.0>> -> L<<580.0,886.0>--<593.0,1019.0>>
-	* arrowup (U+2191): L<<775.0,1019.0>--<788.0,886.0>> -> L<<788.0,886.0>--<788.0,-5.0>> and 48 more.
+	* arrowup (U+2191): L<<775.0,1019.0>--<788.0,886.0>> -> L<<788.0,886.0>--<788.0,-5.0>> and 51 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
@@ -299,13 +314,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* agrave (U+00E0): B<<851.5,343.0>-<861.0,386.0>-<864.0,404.0>>/B<<864.0,404.0>-<839.0,347.0>-<792.5,274.5>> = 14.219765516512819
 	* amacron (U+0101): B<<851.5,343.0>-<861.0,386.0>-<864.0,404.0>>/B<<864.0,404.0>-<839.0,347.0>-<792.5,274.5>> = 14.219765516512819
 	* aogonek (U+0105): B<<851.5,343.0>-<861.0,386.0>-<864.0,404.0>>/B<<864.0,404.0>-<839.0,347.0>-<792.5,274.5>> = 14.219765516512819
-	* aring (U+00E5): B<<851.5,343.0>-<861.0,386.0>-<864.0,404.0>>/B<<864.0,404.0>-<839.0,347.0>-<792.5,274.5>> = 14.219765516512819 and 25 more.
+	* aring (U+00E5): B<<851.5,343.0>-<861.0,386.0>-<864.0,404.0>>/B<<864.0,404.0>-<839.0,347.0>-<792.5,274.5>> = 14.219765516512819 and 26 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><br></div></details><details><summary><b>[12] Gelasio-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2 usWeightClass is '479' when it should be '500'. [code: bad-value]
+* 🔥 **FAIL** OS/2 usWeightClass is '456' when it should be '500'. [code: bad-value]
 </div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
@@ -325,16 +340,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* bullet
-	* uni1EA9
-	* uni022B
-	* braceleft.case
-	* uni1E0C
-	* Aringacute
-	* D
-	* ordmasculine
-	* uni1ED1
-	* Rcaron and 649 more.
+	* uni03A9
+	* Ograve
+	* zero.zero
+	* nacute
+	* uni0206
+	* uni0231
+	* uni0230
+	* eight.tosf
+	* infinity
+	* uni01D1 and 723 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -345,136 +360,10 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb
-	- NULL
-	- .null 
-	- And ij_acutecomb
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: dieresis	Contours detected: 1	Expected: 2
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
-	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
-	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
-	- And 23 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-	* M (U+004D): L<<646.0,1419.0>--<908.0,644.0>> -> L<<908.0,644.0>--<1006.0,397.0>>
-	* OE (U+0152): L<<1003.0,142.0>--<1004.0,973.0>> -> L<<1004.0,973.0>--<1004.0,1279.0>>
-	* Z (U+005A): L<<107.0,123.0>--<816.0,1202.0>> -> L<<816.0,1202.0>--<910.0,1336.0>>
-	* Z (U+005A): L<<1200.0,1340.0>--<476.0,239.0>> -> L<<476.0,239.0>--<368.0,83.0>>
-	* Zacute (U+0179): L<<107.0,123.0>--<816.0,1202.0>> -> L<<816.0,1202.0>--<910.0,1336.0>>
-	* Zacute (U+0179): L<<1200.0,1340.0>--<476.0,239.0>> -> L<<476.0,239.0>--<368.0,83.0>>
-	* Zcaron (U+017D): L<<107.0,123.0>--<816.0,1202.0>> -> L<<816.0,1202.0>--<910.0,1336.0>>
-	* Zcaron (U+017D): L<<1200.0,1340.0>--<476.0,239.0>> -> L<<476.0,239.0>--<368.0,83.0>>
-	* Zdotaccent (U+017B): L<<107.0,123.0>--<816.0,1202.0>> -> L<<816.0,1202.0>--<910.0,1336.0>>
-	* Zdotaccent (U+017B): L<<1200.0,1340.0>--<476.0,239.0>> -> L<<476.0,239.0>--<368.0,83.0>> and 67 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-	* B (U+0042): B<<1075.5,827.0>-<1007.0,786.0>-<927.0,773.0>>/B<<927.0,773.0>-<1022.0,765.0>-<1111.0,728.0>> = 14.043437137434244
-	* dieresis (U+00A8): B<<489.0,1417.0>-<496.0,1401.0>-<499.0,1384.0>>/B<<499.0,1384.0>-<498.0,1412.0>-<511.5,1436.0>> = 7.962571312554069
-	* dieresis (U+00A8): B<<512.0,1330.0>-<504.0,1347.0>-<501.0,1364.0>>/B<<501.0,1364.0>-<502.0,1336.0>-<489.0,1312.0>> = 7.962571312554069
-	* hungarumlaut (U+02DD): B<<502.0,1230.5>-<526.0,1270.0>-<547.0,1306.0>>/B<<547.0,1306.0>-<509.0,1266.0>-<464.0,1214.0>> = 13.274762122084901
-	* three (U+0033): B<<833.5,523.0>-<756.0,471.0>-<681.0,456.0>>/B<<681.0,456.0>-<782.0,455.0>-<874.5,415.0>> = 11.877198883878117
-	* threeeighths (U+215C): B<<664.0,1054.5>-<606.0,1024.0>-<543.0,1014.0>>/B<<543.0,1014.0>-<626.0,1013.0>-<695.5,990.0>> = 9.709599629246755
-	* threequarters (U+00BE): B<<736.0,1054.5>-<678.0,1024.0>-<615.0,1014.0>>/B<<615.0,1014.0>-<698.0,1013.0>-<767.5,990.0>> = 9.709599629246755
-	* trademark (U+2122): L<<1347.0,850.0>--<1348.0,855.0>>/L<<1348.0,855.0>--<1346.0,850.0>> = 10.491477012331565
-	* underscore (U+005F): L<<371.0,-190.0>--<1375.0,-218.0>>/L<<1375.0,-218.0>--<979.0,-296.0>> = 12.740366055584952
-	* underscore (U+005F): L<<979.0,-296.0>--<-25.0,-268.0>>/L<<-25.0,-268.0>--<371.0,-190.0>> = 12.740366055584923 and 6 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
- * AE (U+00C6): L<<1148.0,1320.0>--<1147.0,752.0>>
- * AE (U+00C6): L<<1895.0,1.0>--<751.0,0.0>>
- * AE (U+00C6): L<<470.0,1419.0>--<1805.0,1418.0>>
- * AEacute (U+01FC): L<<1148.0,1320.0>--<1147.0,752.0>>
- * AEacute (U+01FC): L<<1895.0,1.0>--<751.0,0.0>>
- * AEacute (U+01FC): L<<470.0,1419.0>--<1805.0,1418.0>>
- * B (U+0042): L<<286.0,152.0>--<287.0,1234.0>>
- * D (U+0044): L<<532.0,1322.0>--<531.0,168.0>>
- * Dcaron (U+010E): L<<532.0,1322.0>--<531.0,168.0>>
- * Dcroat (U+0110): L<<523.0,694.0>--<522.0,168.0>> and 532 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[12] Gelasio-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 usWeightClass is '620' when it should be '600'. [code: bad-value]
-</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
-
-
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
-* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
-* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
- [code: http]
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
-
-
-* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* bullet
-	* three.numr
-	* uni0324
-	* uni1EA9
-	* uni022B
-	* braceleft.case
-	* uni1E0C
-	* Aringacute
-	* D
-	* ordmasculine and 673 more.
-
-Use -F or --full-lists to disable shortening of long lists.
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb
-	- NULL
-	- .null 
-	- And ij_acutecomb
+	- ij_acutecomb
+	- .null
+	- IJ_acutecomb 
+	- And NULL
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -494,6 +383,127 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
 	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
+	- And 17 more.
+
+Use -F or --full-lists to disable shortening of long lists.
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
+
+
+* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
+</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+	* M (U+004D): L<<636.0,1419.0>--<926.0,563.0>> -> L<<926.0,563.0>--<998.0,388.0>>
+	* OE (U+0152): L<<998.0,141.0>--<999.0,1062.0>> -> L<<999.0,1062.0>--<999.0,1278.0>>
+	* Z (U+005A): L<<107.0,123.0>--<815.0,1202.0>> -> L<<815.0,1202.0>--<908.0,1336.0>>
+	* Z (U+005A): L<<1187.0,1340.0>--<466.0,242.0>> -> L<<466.0,242.0>--<358.0,83.0>>
+	* Zacute (U+0179): L<<107.0,123.0>--<815.0,1202.0>> -> L<<815.0,1202.0>--<908.0,1336.0>>
+	* Zacute (U+0179): L<<1187.0,1340.0>--<466.0,242.0>> -> L<<466.0,242.0>--<358.0,83.0>>
+	* Zcaron (U+017D): L<<107.0,123.0>--<815.0,1202.0>> -> L<<815.0,1202.0>--<908.0,1336.0>>
+	* Zcaron (U+017D): L<<1187.0,1340.0>--<466.0,242.0>> -> L<<466.0,242.0>--<358.0,83.0>>
+	* Zdotaccent (U+017B): L<<107.0,123.0>--<815.0,1202.0>> -> L<<815.0,1202.0>--<908.0,1336.0>>
+	* Zdotaccent (U+017B): L<<1187.0,1340.0>--<466.0,242.0>> -> L<<466.0,242.0>--<358.0,83.0>> and 66 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+	* three (U+0033): B<<822.5,523.0>-<745.0,471.0>-<672.0,456.0>>/B<<672.0,456.0>-<770.0,455.0>-<862.0,415.5>> = 12.196116944593669
+	* threeeighths (U+215C): B<<656.0,1052.5>-<598.0,1022.0>-<536.0,1012.0>>/B<<536.0,1012.0>-<618.0,1011.0>-<687.5,989.0>> = 9.861041428705136
+	* threequarters (U+00BE): B<<735.0,1052.5>-<677.0,1022.0>-<615.0,1012.0>>/B<<615.0,1012.0>-<697.0,1011.0>-<766.5,989.0>> = 9.861041428705136
+	* trademark (U+2122): L<<1347.0,850.0>--<1348.0,855.0>>/L<<1348.0,855.0>--<1346.0,850.0>> = 10.491477012331565
+	* uni00B3 (U+00B3): B<<716.0,1302.5>-<658.0,1272.0>-<596.0,1262.0>>/B<<596.0,1262.0>-<678.0,1261.0>-<747.5,1239.0>> = 9.861041428705136
+	* uni2083 (U+2083): B<<716.0,310.5>-<658.0,280.0>-<596.0,270.0>>/B<<596.0,270.0>-<678.0,269.0>-<747.5,247.0>> = 9.861041428705136
+	* uni2153 (U+2153): B<<1856.0,546.5>-<1798.0,516.0>-<1736.0,506.0>>/B<<1736.0,506.0>-<1818.0,505.0>-<1887.5,483.0>> = 9.861041428705136 and uni2154 (U+2154): B<<1903.0,546.5>-<1845.0,516.0>-<1783.0,506.0>>/B<<1783.0,506.0>-<1865.0,505.0>-<1934.5,483.0>> = 9.861041428705136 [code: found-jaggy-segments]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+ * AE (U+00C6): L<<1128.0,1320.0>--<1127.0,750.0>>
+ * AE (U+00C6): L<<1870.0,1.0>--<741.0,0.0>>
+ * AE (U+00C6): L<<465.0,1419.0>--<1784.0,1418.0>>
+ * AEacute (U+01FC): L<<1128.0,1320.0>--<1127.0,750.0>>
+ * AEacute (U+01FC): L<<1870.0,1.0>--<741.0,0.0>>
+ * AEacute (U+01FC): L<<465.0,1419.0>--<1784.0,1418.0>>
+ * B (U+0042): L<<282.0,152.0>--<283.0,1234.0>>
+ * D (U+0044): L<<521.0,1322.0>--<520.0,168.0>>
+ * Dcaron (U+010E): L<<521.0,1322.0>--<520.0,168.0>>
+ * Dcroat (U+0110): L<<515.0,694.0>--<514.0,168.0>> and 477 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
+</div></details><br></div></details><details><summary><b>[12] Gelasio-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
+
+
+* 🔥 **FAIL** OS/2 usWeightClass is '608' when it should be '600'. [code: bad-value]
+</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+
+
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
+ [code: http]
+</div></details><details><summary>⚠ <b>WARN:</b> License URL matches License text on name table? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license_url">com.google.fonts/check/name/license_url</a>)</summary><div>
+
+
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
+* ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=14] [code: http-in-license-info]
+* ⚠ **WARN** For now we're still accepting http URLs, but you should consider using https instead.
+ [code: http]
+</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+
+
+* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* uni03A9
+	* Ograve
+	* zero.zero
+	* nacute
+	* uni0206
+	* uni0231
+	* uni0230
+	* eight.tosf
+	* infinity
+	* uni01D1 and 376 more.
+
+Use -F or --full-lists to disable shortening of long lists.
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+	- ij_acutecomb
+	- .null
+	- IJ_acutecomb 
+	- And NULL
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: dieresis	Contours detected: 1	Expected: 2
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
+	- Glyph name: aogonek	Contours detected: 3	Expected: 2
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
+	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
 	- And 21 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -510,48 +520,48 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
-	* M (U+004D): L<<705.0,1419.0>--<800.0,1136.0>> -> L<<800.0,1136.0>--<1049.0,451.0>>
-	* OE (U+0152): L<<1028.0,142.0>--<1029.0,442.0>> -> L<<1029.0,442.0>--<1029.0,1286.0>>
-	* Z (U+005A): L<<107.0,123.0>--<823.0,1204.0>> -> L<<823.0,1204.0>--<920.0,1336.0>>
-	* Z (U+005A): L<<1277.0,1340.0>--<535.0,223.0>> -> L<<535.0,223.0>--<434.0,83.0>>
-	* Zacute (U+0179): L<<107.0,123.0>--<823.0,1204.0>> -> L<<823.0,1204.0>--<920.0,1336.0>>
-	* Zacute (U+0179): L<<1277.0,1340.0>--<535.0,223.0>> -> L<<535.0,223.0>--<434.0,83.0>>
-	* Zcaron (U+017D): L<<107.0,123.0>--<823.0,1204.0>> -> L<<823.0,1204.0>--<920.0,1336.0>>
-	* Zcaron (U+017D): L<<1277.0,1340.0>--<535.0,223.0>> -> L<<535.0,223.0>--<434.0,83.0>>
-	* Zdotaccent (U+017B): L<<107.0,123.0>--<823.0,1204.0>> -> L<<823.0,1204.0>--<920.0,1336.0>>
-	* Zdotaccent (U+017B): L<<1277.0,1340.0>--<535.0,223.0>> -> L<<535.0,223.0>--<434.0,83.0>> and 68 more.
+	* M (U+004D): L<<700.0,1419.0>--<809.0,1095.0>> -> L<<809.0,1095.0>--<1046.0,447.0>>
+	* OE (U+0152): L<<1026.0,142.0>--<1027.0,486.0>> -> L<<1027.0,486.0>--<1027.0,1285.0>>
+	* Z (U+005A): L<<107.0,123.0>--<822.0,1204.0>> -> L<<822.0,1204.0>--<919.0,1336.0>>
+	* Z (U+005A): L<<1271.0,1340.0>--<530.0,224.0>> -> L<<530.0,224.0>--<429.0,83.0>>
+	* Zacute (U+0179): L<<107.0,123.0>--<822.0,1204.0>> -> L<<822.0,1204.0>--<919.0,1336.0>>
+	* Zacute (U+0179): L<<1271.0,1340.0>--<530.0,224.0>> -> L<<530.0,224.0>--<429.0,83.0>>
+	* Zcaron (U+017D): L<<107.0,123.0>--<822.0,1204.0>> -> L<<822.0,1204.0>--<919.0,1336.0>>
+	* Zcaron (U+017D): L<<1271.0,1340.0>--<530.0,224.0>> -> L<<530.0,224.0>--<429.0,83.0>>
+	* Zdotaccent (U+017B): L<<107.0,123.0>--<822.0,1204.0>> -> L<<822.0,1204.0>--<919.0,1336.0>>
+	* Zdotaccent (U+017B): L<<1271.0,1340.0>--<530.0,224.0>> -> L<<530.0,224.0>--<429.0,83.0>> and 68 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
-	* B (U+0042): B<<1166.0,820.5>-<1094.0,779.0>-<1007.0,768.0>>/B<<1007.0,768.0>-<1123.0,760.0>-<1216.0,719.0>> = 11.151243230420796
-	* three (U+0033): B<<903.5,523.0>-<824.0,471.0>-<732.0,456.0>>/B<<732.0,456.0>-<851.0,455.0>-<947.5,410.5>> = 9.741687337009827
-	* threeeighths (U+215C): B<<761.5,1101.5>-<690.0,1037.0>-<580.0,1022.0>>/B<<580.0,1022.0>-<723.0,1022.0>-<805.0,964.5>> = 7.765166018425308
-	* threequarters (U+00BE): B<<794.5,1101.5>-<723.0,1037.0>-<613.0,1022.0>>/B<<613.0,1022.0>-<756.0,1022.0>-<838.0,964.5>> = 7.765166018425308
+	* B (U+0042): B<<1158.5,821.5>-<1087.0,780.0>-<1000.0,768.0>>/B<<1000.0,768.0>-<1115.0,761.0>-<1207.5,720.0>> = 11.33658477097587
+	* three (U+0033): B<<897.5,523.0>-<818.0,471.0>-<728.0,456.0>>/B<<728.0,456.0>-<846.0,455.0>-<941.5,411.0>> = 9.947868038033734
+	* threeeighths (U+215C): B<<758.5,1101.0>-<686.0,1037.0>-<578.0,1022.0>>/B<<578.0,1022.0>-<719.0,1021.0>-<801.5,964.5>> = 8.313508936267434
+	* threequarters (U+00BE): B<<794.5,1101.0>-<722.0,1037.0>-<614.0,1022.0>>/B<<614.0,1022.0>-<755.0,1021.0>-<837.5,964.5>> = 8.313508936267434
 	* trademark (U+2122): L<<1347.0,850.0>--<1348.0,855.0>>/L<<1348.0,855.0>--<1346.0,850.0>> = 10.491477012331565
-	* underscore (U+005F): L<<1069.0,-190.0>--<1432.0,-268.0>>/L<<1432.0,-268.0>--<338.0,-296.0>> = 13.593207729103664
-	* underscore (U+005F): L<<338.0,-296.0>--<-25.0,-218.0>>/L<<-25.0,-218.0>--<1069.0,-190.0>> = 13.593207729103664
-	* uni00B3 (U+00B3): B<<828.5,1343.5>-<757.0,1279.0>-<647.0,1264.0>>/B<<647.0,1264.0>-<790.0,1264.0>-<872.0,1206.5>> = 7.765166018425308
-	* uni1E02 (U+1E02): B<<1166.0,820.5>-<1094.0,779.0>-<1007.0,768.0>>/B<<1007.0,768.0>-<1123.0,760.0>-<1216.0,719.0>> = 11.151243230420796
-	* uni1E04 (U+1E04): B<<1166.0,820.5>-<1094.0,779.0>-<1007.0,768.0>>/B<<1007.0,768.0>-<1123.0,760.0>-<1216.0,719.0>> = 11.151243230420796 and 3 more.
+	* underscore (U+005F): L<<1011.0,-190.0>--<1428.0,-264.0>>/L<<1428.0,-264.0>--<392.0,-296.0>> = 11.832029585676132
+	* underscore (U+005F): L<<392.0,-296.0>--<-25.0,-222.0>>/L<<-25.0,-222.0>--<1011.0,-190.0>> = 11.83202958567607
+	* uni00B3 (U+00B3): B<<824.5,1344.0>-<752.0,1280.0>-<644.0,1265.0>>/B<<644.0,1265.0>-<785.0,1264.0>-<867.5,1207.5>> = 8.313508936267434
+	* uni1E02 (U+1E02): B<<1158.5,821.5>-<1087.0,780.0>-<1000.0,768.0>>/B<<1000.0,768.0>-<1115.0,761.0>-<1207.5,720.0>> = 11.33658477097587
+	* uni1E04 (U+1E04): B<<1158.5,821.5>-<1087.0,780.0>-<1000.0,768.0>>/B<<1000.0,768.0>-<1115.0,761.0>-<1207.5,720.0>> = 11.33658477097587 and 3 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
- * B (U+0042): L<<306.0,152.0>--<307.0,1234.0>>
- * D (U+0044): L<<592.0,1322.0>--<591.0,168.0>>
- * Dcaron (U+010E): L<<592.0,1322.0>--<591.0,168.0>>
- * Dcroat (U+0110): L<<572.0,1322.0>--<571.0,788.0>>
- * Eth (U+00D0): L<<572.0,1322.0>--<571.0,788.0>>
- * F (U+0046): L<<134.0,1419.0>--<1237.0,1418.0>>
- * G (U+0047): L<<1404.0,489.0>--<1407.0,123.0>>
- * Gbreve (U+011E): L<<1404.0,489.0>--<1407.0,123.0>>
- * Gcaron (U+01E6): L<<1404.0,489.0>--<1407.0,123.0>>
- * Gcircumflex (U+011C): L<<1404.0,489.0>--<1407.0,123.0>> and 311 more.
+ * A (U+0041): L<<901.0,482.0>--<422.0,483.0>>
+ * AE (U+00C6): L<<1260.0,1320.0>--<1259.0,767.0>>
+ * AEacute (U+01FC): L<<1260.0,1320.0>--<1259.0,767.0>>
+ * Aacute (U+00C1): L<<901.0,482.0>--<422.0,483.0>>
+ * Abreve (U+0102): L<<901.0,482.0>--<422.0,483.0>>
+ * Acircumflex (U+00C2): L<<901.0,482.0>--<422.0,483.0>>
+ * Adieresis (U+00C4): L<<901.0,482.0>--<422.0,483.0>>
+ * Agrave (U+00C0): L<<901.0,482.0>--<422.0,483.0>>
+ * Amacron (U+0100): L<<901.0,482.0>--<422.0,483.0>>
+ * Aogonek (U+0104): L<<901.0,482.0>--<422.0,483.0>> and 359 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
 </div></details><br></div></details><details><summary><b>[11] Gelasio-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
@@ -573,8 +583,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Aring
 	* aringacute
+	* Aring
 	* Scedilla and Ccedilla
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
@@ -584,10 +594,10 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb
-	- NULL
-	- .null 
-	- And ij_acutecomb
+	- ij_acutecomb
+	- .null
+	- IJ_acutecomb 
+	- And NULL
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -607,7 +617,7 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
 	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
-	- And 19 more.
+	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -665,7 +675,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
  * Aringacute (U+01FA): L<<906.0,477.0>--<427.0,478.0>> and 298 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] Gelasio-MediumItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Gelasio-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
+
+
+* 🔥 **FAIL** OS/2 usWeightClass is '456' when it should be '500'. [code: bad-value]
+</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
@@ -684,8 +698,18 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Aringacute
-	* Uogonek and uni2113
+	* multiply
+	* uni03A9
+	* Ograve
+	* zero.zero
+	* nacute
+	* uni0206
+	* uni0231
+	* uni0230
+	* eight.tosf
+	* infinity and 722 more.
+
+Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -694,8 +718,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb 
-	- And ij_acutecomb
+	- ij_acutecomb 
+	- And IJ_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -705,7 +729,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: dieresis	Contours detected: 1	Expected: 2
 	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
@@ -714,7 +737,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
-	- Glyph name: hungarumlaut	Contours detected: 1	Expected: 2 
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
 	- And 17 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -740,26 +764,30 @@ Use -F or --full-lists to disable shortening of long lists.
 	* arrowleft (U+2190): L<<435.0,780.0>--<568.0,793.0>> -> L<<568.0,793.0>--<1459.0,793.0>>
 	* arrowright (U+2192): L<<87.0,793.0>--<978.0,793.0>> -> L<<978.0,793.0>--<1111.0,780.0>>
 	* arrowup (U+2191): L<<580.0,-5.0>--<580.0,886.0>> -> L<<580.0,886.0>--<593.0,1019.0>>
-	* arrowup (U+2191): L<<775.0,1019.0>--<788.0,886.0>> -> L<<788.0,886.0>--<788.0,-5.0>> and 47 more.
+	* arrowup (U+2191): L<<775.0,1019.0>--<788.0,886.0>> -> L<<788.0,886.0>--<788.0,-5.0>> and 51 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
-	* B (U+0042): B<<1128.5,826.0>-<1047.0,771.0>-<945.0,759.0>>/B<<945.0,759.0>-<1030.0,751.0>-<1112.5,718.5>> = 12.086542235807645
-	* a (U+0061): B<<770.5,306.5>-<778.0,347.0>-<782.0,371.0>>/B<<782.0,371.0>-<762.0,319.0>-<721.5,251.5>> = 11.575188817396182
-	* aacute (U+00E1): B<<770.5,306.5>-<778.0,347.0>-<782.0,371.0>>/B<<782.0,371.0>-<762.0,319.0>-<721.5,251.5>> = 11.575188817396182
-	* abreve (U+0103): B<<770.5,306.5>-<778.0,347.0>-<782.0,371.0>>/B<<782.0,371.0>-<762.0,319.0>-<721.5,251.5>> = 11.575188817396182
-	* acircumflex (U+00E2): B<<770.5,306.5>-<778.0,347.0>-<782.0,371.0>>/B<<782.0,371.0>-<762.0,319.0>-<721.5,251.5>> = 11.575188817396182
-	* adieresis (U+00E4): B<<770.5,306.5>-<778.0,347.0>-<782.0,371.0>>/B<<782.0,371.0>-<762.0,319.0>-<721.5,251.5>> = 11.575188817396182
-	* agrave (U+00E0): B<<770.5,306.5>-<778.0,347.0>-<782.0,371.0>>/B<<782.0,371.0>-<762.0,319.0>-<721.5,251.5>> = 11.575188817396182
-	* amacron (U+0101): B<<770.5,306.5>-<778.0,347.0>-<782.0,371.0>>/B<<782.0,371.0>-<762.0,319.0>-<721.5,251.5>> = 11.575188817396182
-	* aogonek (U+0105): B<<770.5,306.5>-<778.0,347.0>-<782.0,371.0>>/B<<782.0,371.0>-<762.0,319.0>-<721.5,251.5>> = 11.575188817396182
-	* aring (U+00E5): B<<770.5,306.5>-<778.0,347.0>-<782.0,371.0>>/B<<782.0,371.0>-<762.0,319.0>-<721.5,251.5>> = 11.575188817396182 and 34 more.
+	* B (U+0042): B<<1100.5,829.5>-<1019.0,774.0>-<921.0,762.0>>/B<<921.0,762.0>-<1002.0,753.0>-<1083.0,721.0>> = 13.321249152739702
+	* a (U+0061): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
+	* aacute (U+00E1): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
+	* abreve (U+0103): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
+	* acircumflex (U+00E2): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
+	* adieresis (U+00E4): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
+	* agrave (U+00E0): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
+	* amacron (U+0101): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
+	* aogonek (U+0105): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
+	* aring (U+00E5): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272 and 26 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[10] Gelasio-SemiBoldItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[11] Gelasio-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
+
+
+* 🔥 **FAIL** OS/2 usWeightClass is '608' when it should be '600'. [code: bad-value]
+</div></details><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
@@ -778,10 +806,18 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Aringacute
-	* Uogonek
 	* uni03A9
-	* uni2113 and uni2126
+	* Ograve
+	* uni0206
+	* uni0231
+	* uni0230
+	* uni01D1
+	* uni01DC
+	* Wdieresis
+	* uni1EDA
+	* m and 340 more.
+
+Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -790,8 +826,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb 
-	- And ij_acutecomb
+	- ij_acutecomb 
+	- And IJ_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -810,8 +846,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
-	- Glyph name: hungarumlaut	Contours detected: 1	Expected: 2 
-	- And 17 more.
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- And 21 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -836,23 +872,23 @@ Use -F or --full-lists to disable shortening of long lists.
 	* arrowleft (U+2190): L<<434.0,780.0>--<567.0,793.0>> -> L<<567.0,793.0>--<1458.0,793.0>>
 	* arrowright (U+2192): L<<87.0,793.0>--<978.0,793.0>> -> L<<978.0,793.0>--<1111.0,780.0>>
 	* arrowup (U+2191): L<<580.0,-5.0>--<580.0,886.0>> -> L<<580.0,886.0>--<593.0,1019.0>>
-	* arrowup (U+2191): L<<775.0,1019.0>--<788.0,886.0>> -> L<<788.0,886.0>--<788.0,-5.0>> and 53 more.
+	* arrowup (U+2191): L<<775.0,1019.0>--<788.0,886.0>> -> L<<788.0,886.0>--<788.0,-5.0>> and 56 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
-	* B (U+0042): B<<1192.5,818.0>-<1111.0,763.0>-<1001.0,753.0>>/B<<1001.0,753.0>-<1094.0,746.0>-<1180.5,712.0>> = 9.498897868242791
-	* a (U+0061): B<<810.5,325.0>-<819.0,367.0>-<823.0,388.0>>/B<<823.0,388.0>-<800.0,333.0>-<756.5,263.0>> = 11.909497077529734
-	* aacute (U+00E1): B<<810.5,325.0>-<819.0,367.0>-<823.0,388.0>>/B<<823.0,388.0>-<800.0,333.0>-<756.5,263.0>> = 11.909497077529734
-	* abreve (U+0103): B<<810.5,325.0>-<819.0,367.0>-<823.0,388.0>>/B<<823.0,388.0>-<800.0,333.0>-<756.5,263.0>> = 11.909497077529734
-	* acircumflex (U+00E2): B<<810.5,325.0>-<819.0,367.0>-<823.0,388.0>>/B<<823.0,388.0>-<800.0,333.0>-<756.5,263.0>> = 11.909497077529734
-	* adieresis (U+00E4): B<<810.5,325.0>-<819.0,367.0>-<823.0,388.0>>/B<<823.0,388.0>-<800.0,333.0>-<756.5,263.0>> = 11.909497077529734
-	* agrave (U+00E0): B<<810.5,325.0>-<819.0,367.0>-<823.0,388.0>>/B<<823.0,388.0>-<800.0,333.0>-<756.5,263.0>> = 11.909497077529734
-	* amacron (U+0101): B<<810.5,325.0>-<819.0,367.0>-<823.0,388.0>>/B<<823.0,388.0>-<800.0,333.0>-<756.5,263.0>> = 11.909497077529734
-	* aogonek (U+0105): B<<810.5,325.0>-<819.0,367.0>-<823.0,388.0>>/B<<823.0,388.0>-<800.0,333.0>-<756.5,263.0>> = 11.909497077529734
-	* aring (U+00E5): B<<810.5,325.0>-<819.0,367.0>-<823.0,388.0>>/B<<823.0,388.0>-<800.0,333.0>-<756.5,263.0>> = 11.909497077529734 and 29 more.
+	* B (U+0042): B<<1198.0,817.5>-<1116.0,763.0>-<1006.0,752.0>>/B<<1006.0,752.0>-<1100.0,746.0>-<1186.5,711.5>> = 9.362815917805918
+	* a (U+0061): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
+	* aacute (U+00E1): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
+	* abreve (U+0103): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
+	* acircumflex (U+00E2): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
+	* adieresis (U+00E4): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
+	* agrave (U+00E0): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
+	* amacron (U+0101): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
+	* aogonek (U+0105): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
+	* aring (U+00E5): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047 and 28 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><br></div></details>
@@ -860,7 +896,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 2 | 84 | 823 | 49 | 730 | 0 |
+| 0 | 4 | 84 | 823 | 49 | 728 | 0 |
 | 0% | 0% | 5% | 49% | 3% | 43% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
