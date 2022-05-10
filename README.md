@@ -38,6 +38,11 @@ The project is being made by Eben Sorkin @ Sorkin Type
 Viviana Monsalve was also a contributor.
 To contribute ideas and feedback, see [https://github.com/EbenSorkin/Gelasio](https://github.com/EbenSorkin/Gelasio)
 
+## Languages
+
+==============================================
+According to Hyperglot made by Rosetta Type the Pinyon Script has base support for 326 of the 459 languages of Latin script. These include:
+
 ## Building
 
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
@@ -56,9 +61,9 @@ When you update your font (new version or new release), please report all notabl
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 Changelog example:
 
-**26 May 2021. Version 2.13**
+**10 May 2022. Version 1.007**
 - MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+- SIGNIFICANT New Language support.
 
 ## License
 
