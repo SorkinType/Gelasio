@@ -21,16 +21,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* brokenbar
 	* uni1EF9
-	* otilde
-	* zero.zero
-	* atilde
-	* eng
-	* aringacute
-	* uni1EEF
-	* uni1E4D
+	* uni0215
+	* uni1EE1
+	* uni1EBD
 	* aogonek
-	* uni020D and 26 more.
+	* uni0209
+	* uni0211
+	* uni1E79
+	* bar and 26 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -41,11 +41,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- ij_acutecomb
-	- OSlash_part.
 	- NULL
-	- IJ_acutecomb 
-	- And .null
+	- .null
+	- IJ_acutecomb
+	- OSlash_part. 
+	- And ij_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -139,16 +139,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* sacute
-	* less
-	* oacute
-	* zero.zero
+	* uni1E09
+	* uni1EAA
 	* Oslash
-	* uni1EA6
-	* uni1E2F
-	* uni03020309.case
-	* uni1E17
-	* uni1EAA and 45 more.
+	* acutecomb
+	* wacute
+	* Oslashacute
+	* aacute
+	* iacute
+	* uni1E79
+	* aeacute and 45 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -159,8 +159,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- ij_acutecomb 
-	- And IJ_acutecomb
+	- IJ_acutecomb 
+	- And ij_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -243,16 +243,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* sacute
-	* less
-	* uni2126
-	* oacute
-	* zero.zero
+	* uni1E09
+	* uni1EAA
 	* Oslash
-	* uni1EA6
-	* uni1E2F
-	* uni03020309.case
-	* uni0163 and 52 more.
+	* acutecomb
+	* wacute
+	* Oslashacute
+	* Scedilla
+	* aacute
+	* iacute
+	* Uogonek and 52 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -263,8 +263,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- ij_acutecomb 
-	- And IJ_acutecomb
+	- IJ_acutecomb 
+	- And ij_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -347,16 +347,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01D7
-	* uni1EA5
-	* four.dnom
-	* sacute
-	* uni1EBF
-	* uni01D1
-	* uni1ED1
-	* three.tosf
-	* uni1EC8
-	* Imacron and 723 more.
+	* uni0307.case
+	* kgreenlandic
+	* Umacron
+	* uni03BC
+	* degree
+	* Imacron
+	* C
+	* lslash
+	* Edieresis
+	* brokenbar and 723 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -367,11 +367,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- ij_acutecomb
-	- OSlash_part.
 	- NULL
-	- IJ_acutecomb 
-	- And .null
+	- .null
+	- IJ_acutecomb
+	- OSlash_part. 
+	- And ij_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -465,16 +465,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01D7
-	* uni1EA5
-	* uni01D1
-	* uni1ED1
-	* three.tosf
-	* uni1EDD
-	* uni0162
-	* ydieresis
-	* uogonek
-	* uni1E08 and 392 more.
+	* kgreenlandic
+	* Edieresis
+	* brokenbar
+	* perthousand
+	* section
+	* R
+	* uni1E09
+	* uni1E92
+	* b
+	* adieresis and 392 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -485,11 +485,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- ij_acutecomb
-	- OSlash_part.
 	- NULL
-	- IJ_acutecomb 
-	- And .null
+	- .null
+	- IJ_acutecomb
+	- OSlash_part. 
+	- And ij_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -589,15 +589,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
 	* uni1EF9
-	* otilde
-	* zero.zero
-	* atilde
-	* eng
-	* aringacute
-	* uni1EEF
-	* uni1E4D
-	* uni020D
-	* oslashacute and 26 more.
+	* uni0215
+	* uni1EE1
+	* Scedilla
+	* uni1EBD
+	* uni0209
+	* uni0211
+	* uni1E79
+	* ohungarumlaut
+	* utilde and 26 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -608,11 +608,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- ij_acutecomb
-	- OSlash_part.
 	- NULL
-	- IJ_acutecomb 
-	- And .null
+	- .null
+	- IJ_acutecomb
+	- OSlash_part. 
+	- And ij_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -709,16 +709,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01D7
-	* uni1EA5
-	* four.dnom
-	* sacute
-	* uni1EBF
-	* uni01D1
-	* uni1ED1
-	* three.tosf
-	* uni1EC8
-	* minute and 724 more.
+	* uni0307.case
+	* kgreenlandic
+	* Umacron
+	* uni03BC
+	* Imacron
+	* C
+	* lslash
+	* Edieresis
+	* perthousand
+	* section and 724 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -729,8 +729,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- ij_acutecomb 
-	- And IJ_acutecomb
+	- IJ_acutecomb 
+	- And ij_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -813,16 +813,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni01D7
-	* sacute
-	* uni01D1
-	* uni1EDD
-	* uni0162
-	* ydieresis
-	* uogonek
-	* uni1E08
-	* less
-	* uni2126 and 367 more.
+	* kgreenlandic
+	* uni03BC
+	* Edieresis
+	* perthousand
+	* section
+	* R
+	* uni1E09
+	* uni1E92
+	* b
+	* adieresis and 367 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -833,8 +833,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- ij_acutecomb 
-	- And IJ_acutecomb
+	- IJ_acutecomb 
+	- And ij_acutecomb
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
