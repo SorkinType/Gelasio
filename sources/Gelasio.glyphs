@@ -41,7 +41,8 @@ L,
 "/aogonek",
 "/OE",
 "/leftRightArrow",
-"/four.dnom ¼"
+"/four.dnom ¼",
+"/fraction ¼"
 );
 classes = (
 {
@@ -41199,7 +41200,7 @@ unicode = 2079;
 },
 {
 glyphname = fraction;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-15 03:18:14 +0000";
 layers = (
 {
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
@@ -41207,10 +41208,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-210 0 LINE",
-"521 1419 LINE",
-"374 1419 LINE",
-"-355 0 LINE"
+"-170 0 LINE",
+"501 1419 LINE",
+"354 1419 LINE",
+"-315 0 LINE"
 );
 }
 );
@@ -41222,10 +41223,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"-245 0 LINE {name = hr00;}",
-"584 1419 LINE",
-"437 1419 LINE",
-"-390 0 LINE"
+"-215 0 LINE {name = hr00;}",
+"544 1419 LINE",
+"397 1419 LINE",
+"-360 0 LINE"
 );
 }
 );
