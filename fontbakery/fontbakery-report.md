@@ -21,16 +21,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* zero.zero
+	* uni0215
+	* uni00AD
 	* uni0209
-	* oslash
-	* uni022D
-	* bar
-	* uni1EEF
+	* utilde
+	* zero.tosf.zero
 	* uni0211
 	* atilde
-	* uni1E79
-	* ntilde and 26 more.
+	* aogonek
+	* zero.lf.zero
+	* zero.osf.zero and 27 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -41,11 +41,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb
 	- NULL
-	- OSlash_part.
-	- .null 
-	- And ij_acutecomb
+	- OSlash_part. 
+	- And .null
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -55,7 +53,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -64,8 +61,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
-	- And 17 more.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
+	- And 15 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -139,16 +137,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1EC2
-	* uni1E0B
-	* asciicircum
-	* scedilla
-	* Oacute
-	* colon
-	* eight.osf
-	* uni022B
-	* uni1EED
-	* Gcaron and 723 more.
+	* eight.lf
+	* periodcentered.case
+	* uni0203
+	* uni01D1
+	* Lslash
+	* uni1EF8
+	* uni1ECB
+	* Ocircumflex
+	* zero.tosf
+	* ring and 724 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -159,11 +157,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb
 	- NULL
-	- OSlash_part.
-	- .null 
-	- And ij_acutecomb
+	- OSlash_part. 
+	- And .null
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -173,7 +169,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -182,8 +177,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
-	- And 17 more.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
+	- And 15 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -257,16 +253,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1EC2
-	* uni1E0B
-	* asciicircum
-	* scedilla
-	* Oacute
-	* eight.osf
-	* uni022B
-	* uni1EED
-	* Gcaron
-	* three.osf and 392 more.
+	* eight.lf
+	* uni0203
+	* uni01D1
+	* uni1EF8
+	* uni1ECB
+	* Ocircumflex
+	* zero.tosf
+	* ij
+	* edieresis
+	* udieresis and 393 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -277,11 +273,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb
 	- NULL
-	- OSlash_part.
-	- .null 
-	- And ij_acutecomb
+	- OSlash_part. 
+	- And .null
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -292,7 +286,6 @@ Use -F or --full-lists to disable shortening of long lists.
 The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: dieresis	Contours detected: 1	Expected: 2
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -300,8 +293,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
-	- And 21 more.
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
+	- And 19 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -361,7 +355,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
  * Aogonek (U+0104): L<<901.0,482.0>--<422.0,483.0>> and 359 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] Gelasio-MediumItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Gelasio-MediumItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
@@ -380,29 +374,22 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1EC2
-	* quotesinglbase
-	* uni1E0B
-	* scedilla
-	* Oacute
-	* colon
-	* eight.osf
-	* uni022B
-	* uni1EED
-	* Gcaron and 724 more.
+	* eight.lf
+	* uni03060301.case
+	* uni0203
+	* uni01D1
+	* Lslash
+	* uni1EF8
+	* uni1ECB
+	* Ocircumflex
+	* zero.tosf
+	* ring and 725 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb 
-	- And ij_acutecomb
- [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
@@ -411,7 +398,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -420,8 +406,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
-	- And 17 more.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
+	- And 15 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -465,7 +452,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* aring (U+00E5): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272 and 28 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[10] Gelasio-SemiBoldItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Gelasio-SemiBoldItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
@@ -484,29 +471,22 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E0B
-	* scedilla
-	* Oacute
-	* eight.osf
-	* uni022B
-	* uni1EED
-	* Gcaron
-	* three.osf
-	* OE
-	* uni0231 and 367 more.
+	* eight.lf
+	* uni01D1
+	* uni1EF8
+	* uni1ECB
+	* Ocircumflex
+	* zero.tosf
+	* ij
+	* udieresis
+	* Odieresis
+	* uni1EC3 and 363 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb 
-	- And ij_acutecomb
- [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
@@ -516,7 +496,6 @@ Use -F or --full-lists to disable shortening of long lists.
 The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: dieresis	Contours detected: 1	Expected: 2
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -524,8 +503,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
-	- And 21 more.
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
+	- And 19 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -569,7 +549,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* aring (U+00E5): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047 and 30 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[10] Gelasio-BoldItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Gelasio-BoldItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
@@ -588,29 +568,22 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1EC2
-	* scedilla
-	* yacute
-	* zero.zero
-	* uni1EBE
-	* oslash
-	* cacute
-	* uni03020309.case
+	* eacute
+	* uni1E17
+	* uni1E53
+	* racute
+	* uni00AD
 	* iacute
-	* uni02CA and 52 more.
+	* uni1EAA
+	* eogonek
+	* zero.tosf.zero
+	* Uogonek and 54 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb 
-	- And ij_acutecomb
- [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
@@ -619,7 +592,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -628,8 +600,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
-	- And 17 more.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
+	- And 15 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -692,16 +665,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* zero.zero
+	* uni0215
+	* uni00AD
 	* uni0209
-	* oslash
-	* uni022D
-	* uni1EEF
-	* Aring
-	* Scedilla
+	* utilde
+	* zero.tosf.zero
 	* uni0211
 	* atilde
-	* uni1E79 and 26 more.
+	* zero.lf.zero
+	* zero.osf.zero
+	* uni022D and 27 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -712,11 +685,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb
 	- NULL
-	- OSlash_part.
-	- .null 
-	- And ij_acutecomb
+	- OSlash_part. 
+	- And .null
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -726,7 +697,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -735,8 +705,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
-	- And 17 more.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
+	- And 15 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -794,7 +765,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
  * Aringacute (U+01FA): L<<906.0,477.0>--<427.0,478.0>> and 298 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] Gelasio-Italic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] Gelasio-Italic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
 * ⚠ **WARN** Please consider using HTTPS URLs at name table entry [plat=3, enc=1, name=13] [code: http-in-description]
@@ -813,29 +784,22 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1EC2
-	* yacute
-	* zero.zero
-	* uni1EBE
-	* oslash
-	* cacute
-	* uni03020309.case
+	* eacute
+	* uni1E17
+	* uni1E53
+	* racute
+	* uni00AD
 	* iacute
+	* uni1EAA
 	* uni02CA
-	* uacute and 45 more.
+	* zero.osf.zero
+	* aacute and 55 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
 * ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- IJ_acutecomb 
-	- And ij_acutecomb
- [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
 
@@ -844,7 +808,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -853,8 +816,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
 	- Glyph name: uni01F5	Contours detected: 4	Expected: 3
 	- Glyph name: uni0228	Contours detected: 2	Expected: 1
-	- Glyph name: uni0229	Contours detected: 3	Expected: 2 
-	- And 17 more.
+	- Glyph name: uni0229	Contours detected: 3	Expected: 2
+	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
+	- And 15 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -903,8 +867,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 0 | 84 | 823 | 49 | 732 | 0 |
-| 0% | 0% | 5% | 49% | 3% | 43% | 0% |
+| 0 | 0 | 80 | 823 | 49 | 736 | 0 |
+| 0% | 0% | 5% | 49% | 3% | 44% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
