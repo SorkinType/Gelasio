@@ -21,16 +21,16 @@ Fontbakery version: 0.8.8
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni022D
-	* uni1EE1
-	* zero.osf.zero
 	* uni2084
-	* uhungarumlaut
-	* uni1E4D
-	* onequarter
-	* threequarters
+	* uni0209
 	* tildecomb
-	* bar and 35 more.
+	* uni022D
+	* zero.tf.zero
+	* zero.tosf.zero
+	* uni1E4D
+	* zero.osf.zero
+	* uni1EEF
+	* zero.zero and 35 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -137,16 +137,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0206
-	* three.osf
-	* Rcaron
-	* uni1E5A
-	* uni20AD
-	* uni022D
-	* uni1EE9
-	* ellipsis
-	* uni1E49
-	* uni1E65 and 720 more.
+	* questiondown
+	* one.numr
+	* uni1E2F
+	* uni1EE0
+	* Nacute
+	* uni0162
+	* ohorn
+	* r
+	* uni01EB
+	* uni1EB9 and 720 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -253,16 +253,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0206
-	* three.osf
-	* Rcaron
-	* uni1E5A
-	* uni20AD
-	* uni022D
-	* uni1EE9
-	* uni1E49
-	* uni1E65
-	* uni20BC and 404 more.
+	* uni1EE0
+	* Nacute
+	* uni0162
+	* ohorn
+	* uni01EB
+	* ugrave
+	* uni1ECA
+	* Oslashacute
+	* three
+	* uni1E09 and 404 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -374,16 +374,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0206
-	* three.osf
-	* Rcaron
-	* uni1E5A
-	* uni20AD
-	* uni022D
-	* uni1EE9
-	* ellipsis
-	* uni1E49
-	* uni1E65 and 725 more.
+	* questiondown
+	* one.numr
+	* uni1E2F
+	* uni1EE0
+	* Nacute
+	* uni0162
+	* ohorn
+	* approxequal
+	* r
+	* uni01EB and 725 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -471,16 +471,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni0206
-	* three.osf
-	* Rcaron
-	* uni1E5A
-	* uni20AD
-	* uni1EE9
-	* uni1E65
-	* uni20BC
-	* uni1E0C
-	* uni1EE1 and 363 more.
+	* uni1E2F
+	* uni1EE0
+	* Nacute
+	* uni0162
+	* uni01EB
+	* Oslashacute
+	* three
+	* uni1EA2
+	* uni1E09
+	* uni1EA5 and 363 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -568,16 +568,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1EE9
-	* uni1E65
-	* zero.osf.zero
-	* uni1E4D
-	* uni1EC0
-	* greater
-	* uacute
-	* acutecomb
+	* uni03020309.case
+	* uni1E2F
+	* Oslashacute
+	* uni1E09
 	* uni1EAA
-	* uni02CA and 54 more.
+	* uni1EE9
+	* uni03A9
+	* nacute
+	* cacute
+	* uni1EA6 and 54 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -665,16 +665,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni022D
-	* uni1EE1
-	* zero.osf.zero
 	* uni2084
-	* uhungarumlaut
-	* uni1E4D
-	* onequarter
-	* threequarters
+	* uni0209
 	* tildecomb
-	* uni0211 and 35 more.
+	* uni022D
+	* zero.tf.zero
+	* zero.tf
+	* Ccedilla
+	* zero.tosf.zero
+	* uni1E4D
+	* zero.osf.zero and 35 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -784,16 +784,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* uni03020309.case
+	* uni1E2F
+	* Oslashacute
+	* uni1E09
+	* uni1E21
+	* uni1EAA
 	* uni1EE9
-	* uni1E65
-	* zero.osf.zero
-	* uni1E4D
-	* uni1EC0
-	* greater
-	* uacute
-	* gcircumflex
-	* acutecomb
-	* uni1EAA and 55 more.
+	* uni03A9
+	* nacute
+	* cacute and 55 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
