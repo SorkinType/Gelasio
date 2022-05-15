@@ -65299,7 +65299,7 @@ weightClass = Bold;
 }
 );
 manufacturer = "Eben Sorkin";
-manufacturerURL = "Sorkin Type Co.";
+manufacturerURL = sorkintype.com;
 unitsPerEm = 2048;
 userData = {
 UFO.lib = {
