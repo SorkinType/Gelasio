@@ -1,50 +1,5 @@
 {
-.appVersion = "1361";
-DisplayStrings = (
-"/Ccedillaacute/Ecedillabreve ,/Scedilla ,;/Tcedilla ç/ccedillaacute/ecedillabreve/scedilla/cedillacomb ¸/cedillacomb.case",
-"ø",
-"/oSlash_part.",
-"ø/oSlash_part.",
-"/dcroat",
-"/hbar",
-"Ð/Dcroat",
-"/Tbar",
-"/lslash",
-"/tildecomb/ohorntilde",
-"/tildecomb/ohorntilde",
-"/dblgravecomb/rdblgrave",
-"/hungarumlautcomb/uhungarumlaut",
-"/cedi",
-"/zeroSlash_part./zero.tosf/zeroSlash_part./zero.tosf.zero",
-"/zero.tosf.zero",
-"0/zero.osf.zero",
-"/zero.tf.zero",
-"/zero.lf.zero/zero.osf.zero/zeroSlash_part./zero.tf/zeroSlash_part./zero.tf.zero",
-"/zero.lf.zero/zero.tf.zero",
-"/zero.zero/zero.lf/zero.lf.zero/zero.osf.zero",
-"0/zero.zero",
-"/.null",
-"/guarani",
-"/won",
-"/Saltillo",
-"Ð/Dcroat/Lslash/Tbar/dcroat/hbar/lslash/tbar",
-anhm,
-"/eng",
-"½",
-"¾",
-"­",
-"KKQQbbddfghh/hcircumflex/idotless/jdotless kkllmn/eng pþþrst/f_f/f_f_i/f_f_l/fi/fi/fl/mu/mu/pi/three.lf/four.lf/zero.tf O0/one.tf/one.tf/four.tf/five.tf/five.tf/seven.tf/seven.tf/one.tosf/six.tosf/four.dnom/six.dnom/bracketleft.case/bracketright.case $$/florin/kip/kip/peseta/peseta/rupeeIndian/rupeeIndian/leftRightArrow/careof/careof/minute/dagger/numero/servicemark/dotaccent `",
-L,
-"/caroncomb",
-"/brevecomb_acutecomb/brevecomb_gravecomb",
-"/caroncomb.case",
-"/aogonek",
-"/OE",
-"/leftRightArrow",
-"/four.dnom ¼",
-"/fraction ¼",
-"/one.dnom/one.numr/one.dnom/one.numr/fraction/onethird"
-);
+.appVersion = "3108";
 classes = (
 {
 automatic = 1;
@@ -55,25 +10,9 @@ name = Uppercase;
 copyright = "Copyright 2022 The Gelasio Project Authors (https://github.com/SorkinType/Gelasio)";
 customParameters = (
 {
-name = description;
-value = "Gelasio's metrics match Georgia's. Gelasio is a text face based on the Romain du Roi style.";
-},
-{
-name = openTypeNameLicense;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
 name = fsType;
 value = (
 );
-},
-{
-name = vendorID;
-value = STC;
 },
 {
 name = blueFuzz;
@@ -86,19 +25,6 @@ value = 0.03963;
 {
 name = blueShift;
 value = 7;
-},
-{
-name = trademark;
-value = "Gelasio is a trademark of Sorkin Type Co.";
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
 },
 {
 name = "Variable Font Origin";
@@ -130,6 +56,35 @@ value = 1;
 {
 name = "Enforce Compatibility Check";
 value = 1;
+},
+{
+name = description;
+value = "Gelasio's metrics match Georgia's. Gelasio is a text face based on the Romain du Roi style.";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = STC;
+},
+{
+name = trademark;
+value = "Gelasio is a trademark of Sorkin Type Co.";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2022-05-06 18:46:54 +0000";
@@ -7967,14 +7922,16 @@ unicode = 013B;
 },
 {
 glyphname = Ldot;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = L;
 },
 {
+alignment = -1;
 name = periodcentered.loclCAT;
 transform = "{1, 0, 0, 1, 1021, 0}";
 }
@@ -7985,9 +7942,11 @@ width = 1362;
 {
 components = (
 {
+alignment = -1;
 name = L;
 },
 {
+alignment = -1;
 name = periodcentered.loclCAT;
 transform = "{1, 0, 0, 1, 1063, 0}";
 }
@@ -23491,14 +23450,16 @@ unicode = 013C;
 },
 {
 glyphname = ldot;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = periodcentered;
 transform = "{1, 0, 0, 1, 376, 0}";
 }
@@ -23509,9 +23470,11 @@ width = 861;
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = periodcentered;
 transform = "{1, 0, 0, 1, 465, 0}";
 }
@@ -36367,11 +36330,12 @@ rightKerningGroup = zero.lf;
 },
 {
 glyphname = zero.osf;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = zero;
 transform = "{1, 0, 0, 1, -1, 0}";
 }
@@ -36394,7 +36358,7 @@ rightKerningGroup = zero.op;
 },
 {
 glyphname = one.osf;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
@@ -36408,6 +36372,7 @@ width = 880;
 {
 components = (
 {
+alignment = -1;
 name = one;
 }
 );
@@ -36420,7 +36385,7 @@ rightKerningGroup = one.op;
 },
 {
 glyphname = two.osf;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
@@ -36434,6 +36399,7 @@ width = 1144;
 {
 components = (
 {
+alignment = -1;
 name = two;
 }
 );
@@ -36446,7 +36412,7 @@ rightKerningGroup = two.op;
 },
 {
 glyphname = three.osf;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
@@ -36460,6 +36426,7 @@ width = 1130;
 {
 components = (
 {
+alignment = -1;
 name = three;
 }
 );
@@ -36472,7 +36439,7 @@ rightKerningGroup = three.op;
 },
 {
 glyphname = four.osf;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
@@ -36486,6 +36453,7 @@ width = 1157;
 {
 components = (
 {
+alignment = -1;
 name = four;
 }
 );
@@ -36524,7 +36492,7 @@ rightKerningGroup = five.op;
 },
 {
 glyphname = six.osf;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
@@ -36538,6 +36506,7 @@ width = 1159;
 {
 components = (
 {
+alignment = -1;
 name = six;
 transform = "{1, 0, 0, 1, -8, 0}";
 }
@@ -36585,11 +36554,12 @@ rightKerningGroup = seven.op;
 },
 {
 glyphname = eight.osf;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = eight;
 transform = "{1, 0, 0, 1, -1, 0}";
 }
@@ -36600,6 +36570,7 @@ width = 1221;
 {
 components = (
 {
+alignment = -1;
 name = eight;
 transform = "{1, 0, 0, 1, 1, 0}";
 }
@@ -36613,7 +36584,7 @@ rightKerningGroup = eight.op;
 },
 {
 glyphname = nine.osf;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 components = (
@@ -36627,6 +36598,7 @@ width = 1159;
 {
 components = (
 {
+alignment = -1;
 name = nine;
 transform = "{1, 0, 0, 1, 11, 0}";
 }
@@ -61040,7 +61012,7 @@ unicode = 0326;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2022-05-10 16:28:28 +0000";
+lastChange = "2022-05-26 10:02:46 +0000";
 layers = (
 {
 anchors = (
@@ -61090,6 +61062,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = cedilla;
 transform = "{1, 0, 0, 1, -223, 0}";
 }
