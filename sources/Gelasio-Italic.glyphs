@@ -1,63 +1,5 @@
 {
-.appVersion = "1361";
-DisplayStrings = (
-"/circumflexbelowcomb",
-"/zero.osf.zero",
-"Ø",
-"",
-"/oSlash_part. ø",
-"/OSlash_part.",
-"/OSlash_part. Ø/OSlash_part.",
-"OØ/OSlash_part.",
-"0/zeroSlash_part./zero.zero",
-"/zeroSlash_part.",
-"/zero.zero",
-"/zero.tf/zero.tf.zero",
-"/zero.lf/zero.lf.zero",
-"/zero.tosf/zero.tosf.zero",
-"/zero.tosf.zero",
-"/schwa",
-"/oSlash_part. ø",
-"oø",
-"/dieresiscomb ö",
-"/tildecomb õ",
-"/acutecomb/otildeacute",
-"/acutecomb/sacute",
-"h/hcaron",
-z,
-"H/guilsinglleft.case H/guilsinglright.case H",
-"H+H/minus H×H÷H=H\012H/notequal H>H<H/greaterequal H/lessequal H",
-"Ð/Dcroat/Lslash/dcroat/hbar/lslash/tbar",
-"­",
-"/oe",
-"/OE",
-B,
-L,
-"/dotbelowcomb.case/Mdotbelow",
-"/leftRightArrow",
-Z,
-"/circumflexcomb_gravecomb/acircumflexgrave",
-"/circumflexcomb_hookabovecomb/acircumflexhookabove",
-g,
-h,
-n,
-"/circumflexcomb_acutecomb.case/Acircumflexacute",
-"/brevecomb_tildecomb/Abreveacute",
-"/dieresiscomb.case/Udieresiscaron",
-"/circumflexcomb_tildecomb/acircumflextilde",
-"/brevecomb_hookabovecomb/abrevehookabove",
-"/tildecomb/macroncomb/otildemacron",
-"/circumflexcomb_hookabovecomb",
-E,
-"/Germandbls",
-"/Omega/Ohm",
-"/three.dnom ³",
-"/three.lf",
-"3",
-"/three.osf",
-"/three.tosf",
-"/pi"
-);
+.appVersion = "3108";
 classes = (
 {
 automatic = 1;
@@ -68,25 +10,9 @@ name = Uppercase;
 copyright = "Copyright 2022 The Gelasio Project Authors (https://github.com/SorkinType/Gelasio)";
 customParameters = (
 {
-name = description;
-value = "Gelasio's metrics match Georgia's. Gelasio is a text face based on the Romain du Roi style.";
-},
-{
-name = openTypeNameLicense;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
 name = fsType;
 value = (
 );
-},
-{
-name = vendorID;
-value = STC;
 },
 {
 name = blueFuzz;
@@ -99,19 +25,6 @@ value = 0.04;
 {
 name = blueShift;
 value = 7;
-},
-{
-name = trademark;
-value = "Gelasio is a trademark of Sorkin Type Co.";
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
 },
 {
 name = "Variable Font Origin";
@@ -143,11 +56,40 @@ value = 1;
 {
 name = "Enforce Compatibility Check";
 value = 1;
+},
+{
+name = description;
+value = "Gelasio's metrics match Georgia's. Gelasio is a text face based on the Romain du Roi style.";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = STC;
+},
+{
+name = trademark;
+value = "Gelasio is a trademark of Sorkin Type Co.";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2022-05-09 17:47:37 +0000";
 designer = "Eben Sorkin";
-designerURL = sorkintype.com;
+designerURL = "http://sorkintype.com";
 familyName = Gelasio;
 featurePrefixes = (
 {
@@ -606,11 +548,11 @@ name = calt;
 fontMaster = (
 {
 alignmentZones = (
-"{1548, 27}",
-"{1418, 33}",
-"{985, 31}",
+"{1549, 26}",
+"{1419, 32}",
+"{986, 30}",
 "{0, -31}",
-"{-670, -33}"
+"{-671, -32}"
 );
 ascender = 1549;
 capHeight = 1419;
@@ -756,8 +698,8 @@ xHeight = 986;
 {
 alignmentZones = (
 "{1586, -38}",
-"{1418, 55}",
-"{993, 32}",
+"{1419, 54}",
+"{994, 31}",
 "{0, -31}",
 "{-443, -9}"
 );
@@ -21952,14 +21894,16 @@ unicode = 013C;
 },
 {
 glyphname = ldot;
-lastChange = "2019-10-12 03:45:35 +0000";
+lastChange = "2022-05-26 10:08:40 +0000";
 layers = (
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 501, 650}";
 }
@@ -21970,9 +21914,11 @@ width = 862;
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 645, 650}";
 }
@@ -47782,7 +47728,7 @@ layers = (
 components = (
 {
 name = slash;
-transform = "{1, 0, 0.14945, 1, -77, 0}";
+transform = "{1, 0, 0, 1, -77, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -47792,7 +47738,7 @@ width = 960;
 components = (
 {
 name = slash;
-transform = "{1, 0, 0.14945, 1, -42, 0}";
+transform = "{1, 0, 0, 1, -42, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -54178,7 +54124,7 @@ layers = (
 components = (
 {
 name = quoteleft;
-transform = "{1, 0, 0.14945, 1, -344, 0}";
+transform = "{1, 0, 0, 1, -344, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -54188,7 +54134,7 @@ width = 0;
 components = (
 {
 name = quoteleft;
-transform = "{1, 0, 0.14945, 1, -360, 0}";
+transform = "{1, 0, 0, 1, -360, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -54205,11 +54151,11 @@ layers = (
 components = (
 {
 name = minute;
-transform = "{1, 0, 0.14945, 1, 43, 0}";
+transform = "{1, 0, 0, 1, 43, 0}";
 },
 {
 name = minute;
-transform = "{1, 0, 0.14945, 1, -246, 0}";
+transform = "{1, 0, 0, 1, -246, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -54219,11 +54165,11 @@ width = 886;
 components = (
 {
 name = minute;
-transform = "{1, 0, 0.14945, 1, 117, 0}";
+transform = "{1, 0, 0, 1, 117, 0}";
 },
 {
 name = minute;
-transform = "{1, 0, 0.14945, 1, -254, 0}";
+transform = "{1, 0, 0, 1, -254, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -54240,7 +54186,7 @@ layers = (
 components = (
 {
 name = macroncomb;
-transform = "{1, 0, 0.14945, 1, 316, 0}";
+transform = "{1, 0, 0, 1, 316, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -54250,7 +54196,7 @@ width = 1024;
 components = (
 {
 name = macroncomb;
-transform = "{1, 0, 0.14945, 1, 449, 0}";
+transform = "{1, 0, 0, 1, 449, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -54267,7 +54213,7 @@ layers = (
 components = (
 {
 name = gravecomb;
-transform = "{1, 0, 0.14945, 1, -543, 0}";
+transform = "{1, 0, 0, 1, -543, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -54277,7 +54223,7 @@ width = 0;
 components = (
 {
 name = gravecomb;
-transform = "{1, 0, 0.14945, 1, -336, 0}";
+transform = "{1, 0, 0, 1, -336, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -54294,7 +54240,7 @@ layers = (
 components = (
 {
 name = minute;
-transform = "{1, 0, 0.14945, 1, -246, 0}";
+transform = "{1, 0, 0, 1, -246, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -54304,7 +54250,7 @@ width = 587;
 components = (
 {
 name = minute;
-transform = "{1, 0, 0.14945, 1, -254, 0}";
+transform = "{1, 0, 0, 1, -254, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -54503,7 +54449,7 @@ layers = (
 components = (
 {
 name = acutecomb;
-transform = "{1, 0, 0.14945, 1, -233, 0}";
+transform = "{1, 0, 0, 1, -233, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -54513,7 +54459,7 @@ width = 0;
 components = (
 {
 name = acutecomb;
-transform = "{1, 0, 0.14945, 1, -236, 0}";
+transform = "{1, 0, 0, 1, -236, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -57811,7 +57757,7 @@ unicode = 0326;
 },
 {
 glyphname = cedillacomb;
-lastChange = "2019-11-14 20:53:03 +0000";
+lastChange = "2022-05-26 10:08:40 +0000";
 layers = (
 {
 anchors = (
@@ -57944,6 +57890,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = cedilla;
 transform = "{1, 0, 0, 1, -9, 0}";
 }
@@ -58298,7 +58245,7 @@ layers = (
 components = (
 {
 name = hyphen;
-transform = "{1, 0, 0.14945, 1, -63, 0}";
+transform = "{1, 0, 0, 1, -63, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -58308,7 +58255,7 @@ width = 766;
 components = (
 {
 name = hyphen;
-transform = "{1, 0, 0.14945, 1, -64, 0}";
+transform = "{1, 0, 0, 1, -64, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -58584,7 +58531,7 @@ nodes = (
 components = (
 {
 name = acutecomb;
-transform = "{1, 0, 0.14945, 1, -60, 0}";
+transform = "{1, 0, 0, 1, -60, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -58594,7 +58541,7 @@ width = 1024;
 components = (
 {
 name = acutecomb;
-transform = "{1, 0, 0.14945, 1, 111, -24}";
+transform = "{1, 0, 0, 1, 111, -24}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -58785,7 +58732,7 @@ layers = (
 components = (
 {
 name = caroncomb;
-transform = "{1, 0, 0.14945, 1, -180, 19}";
+transform = "{1, 0, 0, 1, -180, 19}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -58795,7 +58742,7 @@ width = 1024;
 components = (
 {
 name = caroncomb;
-transform = "{1, 0, 0.14945, 1, -99, -7}";
+transform = "{1, 0, 0, 1, -99, -7}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -58814,7 +58761,7 @@ layers = (
 components = (
 {
 name = brevecomb;
-transform = "{1, 0, 0.14945, 1, -173, 0}";
+transform = "{1, 0, 0, 1, -173, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -58824,7 +58771,7 @@ width = 1024;
 components = (
 {
 name = brevecomb;
-transform = "{1, 0, 0.14945, 1, -29, 0}";
+transform = "{1, 0, 0, 1, -29, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -59510,7 +59457,7 @@ layers = (
 components = (
 {
 name = ogonekcomb;
-transform = "{1, 0, 0.14945, 1, 747, 0}";
+transform = "{1, 0, 0, 1, 747, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -59520,7 +59467,7 @@ width = 1024;
 components = (
 {
 name = ogonekcomb;
-transform = "{1, 0, 0.14945, 1, 748, 0}";
+transform = "{1, 0, 0, 1, 748, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
@@ -60974,7 +60921,7 @@ position = "{233, 1567}";
 components = (
 {
 name = commaturnedabovecomb;
-transform = "{1, 0, 0.14945, 1, -113, 0}";
+transform = "{1, 0, 0, 1, -113, 0}";
 }
 );
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -60994,7 +60941,7 @@ position = "{237, 1567}";
 components = (
 {
 name = commaturnedabovecomb;
-transform = "{1, 0, 0.14945, 1, -189, 0}";
+transform = "{1, 0, 0, 1, -189, 0}";
 }
 );
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
