@@ -81,6 +81,10 @@ value = 1;
 {
 name = "Enforce Compatibility Check";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
 }
 );
 date = "2023-10-17 02:41:50 +0000";
@@ -73528,12 +73532,34 @@ instances = (
 axesValues = (
 186
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
+);
 isItalic = 1;
 name = Italic;
 },
 {
 axesValues = (
 210
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
 );
 isItalic = 1;
 linkStyle = Medium;
@@ -73544,6 +73570,17 @@ weightClass = 500;
 axesValues = (
 275
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
@@ -73553,20 +73590,21 @@ weightClass = 600;
 axesValues = (
 314
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
+);
 isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
 weightClass = 700;
-},
-{
-customParameters = (
-{
-name = "Variable Font Origin";
-value = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
-}
-);
-name = Regular;
-type = variable;
 }
 );
 metrics = (
