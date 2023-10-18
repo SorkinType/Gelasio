@@ -2,11 +2,13 @@
 
 Fontbakery version: 0.8.8
 
-<details><summary><b>[7] Gelasio-MediumItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
+<details><summary><b>[7] Gelasio-MediumItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts.
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
+* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* uni2105
+	* lessequal
+	* greaterequal and summation
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -56,7 +58,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* Oslashacute (U+01FE): L<<1078.0,1270.0>--<1103.0,1315.0>> -> L<<1103.0,1315.0>--<1221.0,1498.0>>
 	* Oslashacute (U+01FE): L<<1165.0,1221.0>--<492.0,105.0>> -> L<<492.0,105.0>--<467.0,71.0>>
 	* Oslashacute (U+01FE): L<<1189.0,1264.0>--<1165.0,1221.0>> -> L<<1165.0,1221.0>--<492.0,105.0>>
-	* Oslashacute (U+01FE): L<<1308.0,1448.0>--<1189.0,1264.0>> -> L<<1189.0,1264.0>--<1165.0,1221.0>> and 87 more.
+	* Oslashacute (U+01FE): L<<1308.0,1448.0>--<1189.0,1264.0>> -> L<<1189.0,1264.0>--<1165.0,1221.0>> and 85 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
@@ -72,19 +74,14 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* adieresis (U+00E4): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
 	* agrave (U+00E0): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
 	* amacron (U+0101): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272
-	* aogonek (U+0105): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272 and 35 more.
+	* aogonek (U+0105): B<<747.5,273.0>-<758.0,330.0>-<764.0,364.0>>/B<<764.0,364.0>-<745.0,313.0>-<706.0,246.5>> = 10.424848877957272 and 32 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[9] Gelasio-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
-
-
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts.
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Gelasio-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Eng
+	* Eng and uni2105
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -93,9 +90,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- NULL
-	- OSlash_part. 
-	- And .null
+	- OSlash_part.
+	- .null 
+	- And NULL
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -166,16 +163,14 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
  * Dcaron (U+010E): L<<497.0,1322.0>--<496.0,168.0>> and 552 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[8] Gelasio-BoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
-
-
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts.
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] Gelasio-BoldItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1EDB and ij_acutecomb
+	* ij_acutecomb
+	* uni1EDB
+	* uni2105
+	* greaterequal and summation
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -244,11 +239,12 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* aogonek (U+0105): B<<851.5,343.0>-<861.0,386.0>-<864.0,404.0>>/B<<864.0,404.0>-<839.0,347.0>-<792.5,274.5>> = 14.219765516512819 and 33 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[7] Gelasio-Italic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] Gelasio-Italic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts.
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
+* ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
+	* uni20A9
+	* uni2105 and summation
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -317,16 +313,12 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* aringacute (U+01FB): B<<725.5,263.5>-<735.0,319.0>-<741.0,355.0>>/B<<741.0,355.0>-<723.0,306.0>-<686.0,240.5>> = 10.708331203824754 and 26 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[9] Gelasio-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
-
-
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts.
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Gelasio-Medium.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Eng and Aringacute
+	* Eng
+	* Aringacute and uni2105
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -335,9 +327,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- NULL
-	- OSlash_part. 
-	- And .null
+	- OSlash_part.
+	- .null 
+	- And NULL
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -408,16 +400,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
  * Dcaron (U+010E): L<<521.0,1322.0>--<520.0,168.0>> and 535 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[9] Gelasio-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
-
-
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts.
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Gelasio-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Eng
+	* Eng and uni2105
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -426,9 +413,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- NULL
-	- OSlash_part. 
-	- And .null
+	- OSlash_part.
+	- .null 
+	- And NULL
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -504,16 +491,12 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
  * Aringacute (U+01FA): L<<906.0,477.0>--<427.0,478.0>> and 336 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[9] Gelasio-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
-
-
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts.
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] Gelasio-SemiBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Eng and Aringacute
+	* Eng
+	* Aringacute and uni2105
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -522,9 +505,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- NULL
-	- OSlash_part. 
-	- And .null
+	- OSlash_part.
+	- .null 
+	- And NULL
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -534,7 +517,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: dieresis	Contours detected: 1	Expected: 2
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -543,8 +525,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01E8	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
-	- Glyph name: uni01EC	Contours detected: 4	Expected: 3 
-	- And 29 more.
+	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
+	- Glyph name: uni01ED	Contours detected: 4	Expected: 3 
+	- And 27 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -600,16 +583,14 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
  * Aogonek (U+0104): L<<901.0,482.0>--<422.0,483.0>> and 407 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[7] Gelasio-SemiBoldItalic.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
-
-
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts.
-* 🔥 **FAIL** Version number 1.0070037841796875 is equal to version on Google Fonts GitHub repo.
-</div></details><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[6] Gelasio-SemiBoldItalic.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Glyphs are similiar to Google Fonts version? (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/production_glyphs_similarity">com.google.fonts/check/production_glyphs_similarity</a>)</summary><div>
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
 	* ij_acutecomb
+	* uni2105
+	* lessequal
+	* greaterequal and summation
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
@@ -628,7 +609,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 The following glyphs do not have the recommended number of contours:
 
-	- Glyph name: dieresis	Contours detected: 1	Expected: 2
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
@@ -637,8 +617,9 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni01E8	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
 	- Glyph name: uni01EB	Contours detected: 3	Expected: 2
-	- Glyph name: uni01EC	Contours detected: 4	Expected: 3 
-	- And 29 more.
+	- Glyph name: uni01EC	Contours detected: 4	Expected: 3
+	- Glyph name: uni01ED	Contours detected: 4	Expected: 3 
+	- And 27 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -659,7 +640,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* adieresis (U+00E4): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
 	* agrave (U+00E0): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
 	* amacron (U+0101): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047
-	* aogonek (U+0105): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047 and 37 more.
+	* aogonek (U+0105): B<<814.5,326.5>-<823.0,368.0>-<827.0,389.0>>/B<<827.0,389.0>-<804.0,335.0>-<760.0,264.5>> = 12.286114382262047 and 34 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><br></div></details>
@@ -667,8 +648,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 8 | 57 | 823 | 49 | 751 | 0 |
-| 0% | 0% | 3% | 49% | 3% | 44% | 0% |
+| 0 | 0 | 59 | 823 | 49 | 757 | 0 |
+| 0% | 0% | 3% | 49% | 3% | 45% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
