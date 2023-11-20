@@ -222,7 +222,12 @@ language ISM;
 language SKS;
 language LSM;
 lookup locl_latn_3 {
-	sub Eng by Eng.loclNSM;
+	language ISM;
+    sub Eng by Eng.loclNSM;
+    language SKS;
+    sub Eng by Eng.loclNSM;
+    language LSM;
+    sub Eng by Eng.loclNSM;
 } locl_latn_3;
 
 script latn;
