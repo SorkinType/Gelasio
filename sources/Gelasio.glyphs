@@ -5,7 +5,16 @@ DisplayStrings = (
 "ˀ",
 "Ɲ",
 "/Ezh.localGAD",
-"ʼʽ"
+"ʼʽ",
+"Ç",
+"Ḩ",
+"Ş",
+"Ţ",
+"Ȩ",
+"ȩ",
+"ç",
+"ş",
+"/iogonek.dotless"
 );
 axes = (
 {
@@ -131,12 +140,13 @@ code = "lookup ccmp_DFLT_1 {
 } ccmp_DFLT_1;
 
 lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb commaturnedabovecomb commaabovecomb commaaboverightcomb ];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
 	sub itildebelow' @CombiningTopAccents by itildebelow.dotless;
 	sub istroke' @CombiningTopAccents by istroke.dotless;
+    sub iogonek' @CombiningTopAccents by iogonek.dotless;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_Other_1;
 
@@ -9191,7 +9201,7 @@ unicode = 542;
 {
 color = 9;
 glyphname = Hcedilla;
-lastChange = "2023-11-01 03:58:17 +0000";
+lastChange = "2023-11-21 03:50:10 +0000";
 layers = (
 {
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
@@ -9201,8 +9211,8 @@ ref = H;
 },
 {
 alignment = -1;
-pos = (145,0);
-ref = commaaccentcomb.loclMAH;
+pos = (149,0);
+ref = cedillacomb.case;
 }
 );
 width = 1669;
@@ -9215,8 +9225,8 @@ ref = H;
 },
 {
 alignment = -1;
-pos = (235,0);
-ref = commaaccentcomb.loclMAH;
+pos = (217,0);
+ref = cedillacomb.case;
 }
 );
 width = 1870;
@@ -42858,6 +42868,38 @@ ref = idotless;
 {
 pos = (382,0);
 ref = dotbelowcomb;
+}
+);
+width = 724;
+}
+);
+},
+{
+glyphname = iogonek.dotless;
+lastChange = "2023-11-21 03:56:08 +0000";
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (436,0);
+ref = ogonekcomb;
+}
+);
+width = 600;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (436,0);
+ref = ogonekcomb;
 }
 );
 width = 724;

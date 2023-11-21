@@ -9,7 +9,21 @@ g,
 "Ɲˀ",
 "/Ezh.localGAD",
 "̵Ƚ",
-"ʼʽ"
+"ʼʽ",
+"ɲ",
+"̓̕",
+"ḩ",
+"į",
+"ç",
+"ḉ",
+"ţ",
+"ş",
+"Ţ",
+"Ş",
+"Ç",
+"Ḩ",
+"Ȩ",
+"/iogonek.dotless"
 );
 axes = (
 {
@@ -136,12 +150,13 @@ code = "lookup ccmp_DFLT_1 {
 } ccmp_DFLT_1;
 
 lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb commaturnedabovecomb commaabovecomb commaaboverightcomb ];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
 	sub i' @CombiningTopAccents by idotless;
 	sub idotbelow' @CombiningTopAccents by idotbelow.dotless;
 	sub itildebelow' @CombiningTopAccents by itildebelow.dotless;
 	sub istroke' @CombiningTopAccents by istroke.dotless;
+    sub iogonek' @CombiningTopAccents by iogonek.dotless;
 	sub j' @CombiningTopAccents by jdotless;
 } ccmp_Other_1;
 
@@ -31328,6 +31343,231 @@ width = 1413;
 unicode = 505;
 },
 {
+glyphname = nhookleft;
+lastChange = "2023-11-21 03:43:17 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (555,0);
+},
+{
+name = top;
+pos = (628,994);
+}
+);
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(127,-449,o),
+(285,-186,o),
+(328,88,cs),
+(423,689,l),
+(489,774,o),
+(636,874,o),
+(746,874,cs,{
+name = hr04;
+}),
+(808,874,o),
+(837,861,o),
+(837,810,cs),
+(837,802,o),
+(837,794,o),
+(835,784,cs),
+(738,142,l),
+(738,142,o,{
+name = hr05;
+}),
+(736,124,o),
+(736,102,cs),
+(736,57,o),
+(742,-13,o),
+(858,-13,cs),
+(907,-13,o),
+(1002,-2,o),
+(1093,41,cs),
+(1110,49,o),
+(1118,67,o),
+(1118,83,cs,{
+name = hr06;
+}),
+(1118,112,o),
+(1105,113,o),
+(1093,113,cs),
+(1073,113,o),
+(1021,96,o),
+(993,96,cs),
+(947,96,o),
+(934,119,o),
+(934,151,cs),
+(934,159,o),
+(935,167,o),
+(936,175,cs),
+(1028,766,ls,{
+name = hr01;
+}),
+(1030,786,o),
+(1032,804,o),
+(1032,821,cs),
+(1032,981,o),
+(930,1014,o),
+(824,1014,cs,{
+name = hr02;
+}),
+(639,1014,o),
+(478,842,o),
+(425,785,c),
+(451,957,ls,{
+name = hr03;
+}),
+(456,989,o),
+(438,997,o),
+(427,997,cs),
+(371,997,o),
+(253,995,o),
+(123,987,cs),
+(107,986,o),
+(95,959,o),
+(93,943,cs),
+(90,918,o),
+(97,909,o),
+(111,903,c),
+(155,890,o),
+(245,899,o),
+(245,806,cs),
+(245,797,o),
+(245,788,o),
+(243,778,cs),
+(132,56,ls),
+(80,-317,o),
+(11,-345,o),
+(-58,-347,c),
+(-110,-202,ls),
+(-116,-185,o),
+(-133,-178,o),
+(-161,-178,cs,{
+name = hr00;
+}),
+(-199,-178,o),
+(-274,-230,o),
+(-274,-300,cs),
+(-274,-367,o),
+(-219,-449,o),
+(-101,-449,cs)
+);
+}
+);
+width = 1208;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (637,0);
+},
+{
+name = top;
+pos = (777,994);
+}
+);
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(161,-449,o),
+(388,-235,o),
+(432,74,cs),
+(531,689,l),
+(597,759,o),
+(709,844,o),
+(848,844,cs),
+(905,844,o),
+(927,804,o),
+(927,744,cs),
+(927,730,o),
+(926,716,o),
+(924,701,cs),
+(841,142,l),
+(841,142,o),
+(836,124,o),
+(836,101,cs),
+(836,53,o),
+(856,-17,o),
+(980,-13,cs),
+(1143,-8,o),
+(1242,28,o),
+(1296,54,cs),
+(1302,57,o),
+(1304,67,o),
+(1304,76,cs),
+(1304,96,o),
+(1292,119,o),
+(1270,113,cs),
+(1245,106,o),
+(1206,100,o),
+(1187,100,cs),
+(1170,100,o),
+(1159,115,o),
+(1159,155,cs),
+(1159,166,o),
+(1160,180,o),
+(1162,195,cs),
+(1239,719,ls),
+(1242,744,o),
+(1244,767,o),
+(1244,789,cs),
+(1244,961,o),
+(1142,1014,o),
+(1029,1014,cs),
+(754,1014,o),
+(596,842,o),
+(533,785,c),
+(559,957,ls),
+(564,989,o),
+(546,997,o),
+(535,997,cs),
+(455,997,o),
+(297,999,o),
+(111,987,cs),
+(95,986,o),
+(83,959,o),
+(81,943,cs),
+(78,918,o),
+(85,909,o),
+(99,903,c),
+(143,890,o),
+(232,899,o),
+(232,806,cs),
+(232,798,o),
+(232,788,o),
+(230,778,cs),
+(118,56,ls),
+(69,-297,o),
+(-5,-345,o),
+(-73,-347,c),
+(-167,-181,ls),
+(-183,-153,o),
+(-209,-138,o),
+(-240,-138,cs),
+(-320,-138,o),
+(-358,-196,o),
+(-358,-260,cs),
+(-358,-354,o),
+(-255,-449,o),
+(-76,-449,cs)
+);
+}
+);
+width = 1413;
+}
+);
+unicode = 626;
+},
+{
 glyphname = nj;
 lastChange = "2019-10-12 03:45:35 +0000";
 layers = (
@@ -39835,6 +40075,38 @@ ref = idotless;
 {
 pos = (314,0);
 ref = dotbelowcomb;
+}
+);
+width = 749;
+}
+);
+},
+{
+glyphname = iogonek.dotless;
+lastChange = "2023-11-21 04:01:09 +0000";
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (329,0);
+ref = ogonekcomb;
+}
+);
+width = 609;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (329,0);
+ref = ogonekcomb;
 }
 );
 width = 749;
@@ -69103,6 +69375,123 @@ width = 341;
 }
 );
 unicode = 787;
+},
+{
+glyphname = commaaboverightcomb;
+lastChange = "2023-11-21 03:44:42 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (226,986);
+},
+{
+name = top;
+pos = (334,1710);
+}
+);
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(647,1710,o),
+(576,1670,o),
+(565,1582,cs),
+(564,1574,o),
+(563,1567,o),
+(563,1560,cs),
+(563,1474,o),
+(650,1483,o),
+(651,1473,cs),
+(652,1463,o),
+(650,1445,o),
+(647,1422,cs),
+(640,1366,o),
+(613,1283,o),
+(552,1226,cs),
+(533,1208,o),
+(525,1195,o),
+(525,1183,cs),
+(525,1165,o),
+(542,1155,o),
+(561,1155,cs),
+(569,1155,o),
+(578,1158,o),
+(585,1162,cs),
+(646,1197,o),
+(799,1380,o),
+(821,1526,cs),
+(824,1546,o),
+(825,1564,o),
+(825,1580,cs),
+(825,1682,o),
+(770,1710,o),
+(721,1710,c)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (245,994);
+},
+{
+name = top;
+pos = (357,1742);
+}
+);
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(707,1742,o),
+(630,1688,o),
+(617,1585,cs,{
+name = hr00;
+}),
+(616,1577,o),
+(615,1569,o),
+(615,1561,cs),
+(615,1488,o),
+(674,1454,o),
+(727,1454,c),
+(727,1436,o),
+(726,1419,o),
+(723,1402,cs),
+(711,1331,o),
+(637,1250,o),
+(607,1223,cs),
+(591,1209,o),
+(584,1197,o),
+(584,1188,cs),
+(584,1170,o),
+(604,1160,o),
+(624,1160,cs),
+(632,1160,o),
+(640,1161,o),
+(647,1165,cs),
+(740,1218,o),
+(886,1385,o),
+(913,1557,cs),
+(916,1576,o),
+(917,1593,o),
+(917,1608,cs),
+(917,1704,o),
+(866,1742,o),
+(795,1742,cs)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 789;
 },
 {
 glyphname = horncomb;
