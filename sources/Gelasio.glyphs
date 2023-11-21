@@ -14,7 +14,8 @@ DisplayStrings = (
 "ȩ",
 "ç",
 "ş",
-"/iogonek.dotless"
+"/iogonek.dotless",
+"Ʉʉ"
 );
 axes = (
 {
@@ -18579,6 +18580,39 @@ width = 1707;
 }
 );
 unicode = 218;
+},
+{
+glyphname = Ubar;
+lastChange = "2023-11-21 04:04:27 +0000";
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (-97,282);
+ref = horizontalbar;
+}
+);
+width = 1549;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (-97,282);
+ref = horizontalbar;
+}
+);
+width = 1707;
+}
+);
+unicode = 580;
 },
 {
 glyphname = Ubreve;
@@ -39416,6 +39450,39 @@ width = 1386;
 }
 );
 unicode = 250;
+},
+{
+glyphname = ubar;
+lastChange = "2023-11-21 04:05:27 +0000";
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-59,0);
+ref = endash;
+}
+);
+width = 1178;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-59,0);
+ref = endash;
+}
+);
+width = 1386;
+}
+);
+unicode = 649;
 },
 {
 glyphname = ubreve;
