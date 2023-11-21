@@ -115,9 +115,6 @@ languagesystem latn LSM;
 languagesystem latn CAT;
 languagesystem latn NLD;
 languagesystem latn GAD;
-languagesystem latn MFV;
-languagesystem latn NUS;
-languagesystem latn WOF;
 ";
 name = Languagesystems;
 }
@@ -273,12 +270,9 @@ lookup locl_latn_5 {
 
 script latn;
 language GAD;
-language MFV;
-language NUS;
-language WOF;
 lookup locl_latn_6 {
  sub Ezh by Ezh.localGAD;
- sub Ezh by Esh.localGAD;
+ sub Esh by Esh.localGAD;
 } locl_latn_6;
 ";
 tag = locl;
