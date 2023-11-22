@@ -244,16 +244,18 @@ lookup locl_latn_2 {
 
 script latn;
 language NSM;
-language ISM;
-language SKS;
-language LSM;
 lookup locl_latn_3 {
     sub Eng by Eng.loclNSM;
-    language SKS;
-    sub Eng by Eng.loclNSM;
-    language LSM;
-    sub Eng by Eng.loclNSM;
 } locl_latn_3;
+lookup locl_latn_3;
+language ISM;
+lookup locl_latn_3;
+language SKS;
+lookup locl_latn_3;
+language LSM;
+lookup locl_latn_3;
+language LSM;
+lookup locl_latn_3;
 
 script latn;
 language CAT;
@@ -1754,7 +1756,7 @@ unicode = 550;
 },
 {
 glyphname = Adotbelow;
-lastChange = "2019-10-12 03:45:35 +0000";
+lastChange = "2023-10-17 02:14:06 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -5437,7 +5439,7 @@ unicode = 274;
 },
 {
 glyphname = Emacronacute;
-lastChange = "2022-05-15 01:56:11 +0000";
+lastChange = "2022-05-10 16:28:28 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -8750,7 +8752,7 @@ unicode = 7880;
 },
 {
 glyphname = Iinvertedbreve;
-lastChange = "2019-10-12 03:45:35 +0000";
+lastChange = "2023-11-21 03:50:10 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -18910,7 +18912,7 @@ unicode = 7818;
 },
 {
 glyphname = Y;
-lastChange = "2019-10-12 03:45:35 +0000";
+lastChange = "2023-11-01 14:08:51 +0000";
 layers = (
 {
 anchors = (
@@ -20934,7 +20936,7 @@ unicode = 7857;
 },
 {
 glyphname = abrevehookabove;
-lastChange = "2019-11-14 18:20:04 +0000";
+lastChange = "2022-05-10 16:28:28 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -24245,7 +24247,7 @@ unicode = 233;
 },
 {
 glyphname = ebreve;
-lastChange = "2019-10-12 03:45:35 +0000";
+lastChange = "2022-05-10 16:28:28 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -26386,7 +26388,7 @@ unicode = 291;
 },
 {
 glyphname = gdotaccent;
-lastChange = "2022-05-15 01:46:20 +0000";
+lastChange = "2022-05-10 16:28:28 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -39514,7 +39516,7 @@ unicode = 7925;
 },
 {
 glyphname = ygrave;
-lastChange = "2019-10-12 03:45:35 +0000";
+lastChange = "2023-10-06 20:46:35 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -39548,7 +39550,7 @@ unicode = 7923;
 {
 color = 1;
 glyphname = yhook;
-lastChange = "2023-11-01 04:06:40 +0000";
+lastChange = "2023-11-01 03:49:51 +0000";
 layers = (
 {
 anchors = (
@@ -45194,7 +45196,7 @@ width = 1135;
 glyphname = eight.lf;
 kernLeft = eight.lf;
 kernRight = eight.lf;
-lastChange = "2019-10-12 03:45:35 +0000";
+lastChange = "2022-05-10 16:28:28 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -50119,7 +50121,7 @@ unicode = 8321;
 },
 {
 glyphname = twoinferior;
-lastChange = "2023-11-19 07:28:11 +0000";
+lastChange = "2023-05-10 07:28:11 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -52062,7 +52064,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = exclamdouble;
-lastChange = "2023-10-17 03:09:03 +0000";
+lastChange = "2022-05-10 16:28:28 +0000";
 layers = (
 {
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
@@ -70979,7 +70981,7 @@ color = 10;
 glyphname = circumflexbelowcomb;
 kernLeft = dotbelowcomb;
 kernRight = dotbelowcomb;
-lastChange = "2022-05-06 18:51:55 +0000";
+lastChange = "2022-05-10 16:28:28 +0000";
 layers = (
 {
 anchors = (
@@ -72923,7 +72925,7 @@ width = 0;
 glyphname = circumflexcomb_tildecomb;
 kernLeft = circumflexcomb;
 kernRight = circumflexcomb;
-lastChange = "2022-05-15 01:53:58 +0000";
+lastChange = "2022-05-10 16:28:28 +0000";
 layers = (
 {
 anchors = (
@@ -73233,7 +73235,7 @@ width = 600;
 glyphname = gravecomb.case;
 kernLeft = gravecomb;
 kernRight = gravecomb;
-lastChange = "2023-11-01 04:07:11 +0000";
+lastChange = "2022-05-10 16:28:28 +0000";
 layers = (
 {
 anchors = (
