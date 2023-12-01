@@ -1,0 +1,33 @@
+{
+color = 1;
+glyphname = Ezhcaron;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (689,425);
+ref = caroncomb.case;
+}
+);
+width = 1403;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (626,425);
+ref = caroncomb.case;
+}
+);
+width = 1280;
+}
+);
+unicode = 494;
+}

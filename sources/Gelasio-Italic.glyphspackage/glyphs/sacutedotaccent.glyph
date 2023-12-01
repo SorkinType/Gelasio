@@ -1,0 +1,40 @@
+{
+glyphname = sacutedotaccent;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (444,0);
+ref = acutecomb;
+},
+{
+pos = (422,407);
+ref = dotaccentcomb;
+}
+);
+width = 883;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (567,0);
+ref = acutecomb;
+},
+{
+pos = (552,417);
+ref = dotaccentcomb;
+}
+);
+width = 1059;
+}
+);
+unicode = 7781;
+}

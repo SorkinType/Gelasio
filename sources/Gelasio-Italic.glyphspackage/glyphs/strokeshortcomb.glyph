@@ -1,0 +1,38 @@
+{
+glyphname = strokeshortcomb;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(593,496,l),
+(611,622,l),
+(64,622,l),
+(46,496,l,{
+name = hr00;
+})
+);
+}
+);
+width = 766;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(642,496,l),
+(661,632,l),
+(64,632,l),
+(45,496,l)
+);
+}
+);
+width = 776;
+}
+);
+unicode = 821;
+}

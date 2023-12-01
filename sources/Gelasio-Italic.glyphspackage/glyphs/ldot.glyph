@@ -1,0 +1,36 @@
+{
+glyphname = ldot;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (501,650);
+ref = period;
+}
+);
+width = 862;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (645,650);
+ref = period;
+}
+);
+width = 1119;
+}
+);
+unicode = 320;
+}

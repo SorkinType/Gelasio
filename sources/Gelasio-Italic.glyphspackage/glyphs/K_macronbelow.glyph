@@ -1,0 +1,33 @@
+{
+color = 1;
+glyphname = Kmacronbelow;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (641,0);
+ref = macronbelowcomb.case;
+}
+);
+width = 1422;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (769,0);
+ref = macronbelowcomb.case;
+}
+);
+width = 1673;
+}
+);
+unicode = 7732;
+}

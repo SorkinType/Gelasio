@@ -1,0 +1,38 @@
+{
+glyphname = hyphen;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(656,496,l),
+(674,622,l),
+(127,622,l),
+(109,496,l,{
+name = hr00;
+})
+);
+}
+);
+width = 766;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(666,496,l),
+(685,632,l),
+(128,632,l),
+(109,496,l)
+);
+}
+);
+width = 776;
+}
+);
+unicode = 45;
+}

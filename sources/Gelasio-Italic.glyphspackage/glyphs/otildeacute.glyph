@@ -1,0 +1,40 @@
+{
+glyphname = otildeacute;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (545,-10);
+ref = tildecomb;
+},
+{
+pos = (583,297);
+ref = acutecomb;
+}
+);
+width = 1100;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (655,0);
+ref = tildecomb;
+},
+{
+pos = (708,343);
+ref = acutecomb;
+}
+);
+width = 1302;
+}
+);
+unicode = 7757;
+}

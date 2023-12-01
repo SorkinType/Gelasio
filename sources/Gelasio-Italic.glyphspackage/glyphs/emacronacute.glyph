@@ -1,0 +1,40 @@
+{
+glyphname = emacronacute;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (460,0);
+ref = macroncomb;
+},
+{
+pos = (587,272);
+ref = acutecomb;
+}
+);
+width = 966;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (571,0);
+ref = macroncomb;
+},
+{
+pos = (701,288);
+ref = acutecomb;
+}
+);
+width = 1141;
+}
+);
+unicode = 7703;
+}

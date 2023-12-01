@@ -1,0 +1,42 @@
+{
+glyphname = endash.case;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1207,670,l),
+(1225,796,l),
+(127,796,l),
+(109,670,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1317;
+},
+{
+guides = (
+{
+pos = (459,1098);
+}
+);
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1330,670,l),
+(1348,806,l),
+(128,806,l),
+(110,670,l)
+);
+}
+);
+width = 1440;
+}
+);
+}

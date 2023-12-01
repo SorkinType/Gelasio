@@ -1,0 +1,70 @@
+{
+glyphname = zeroSlash_part.;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (514,772);
+}
+);
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(333,1262,l),
+(256,1192,l),
+(704,280,l),
+(775,361,l)
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (536,730);
+}
+);
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(333,1262,l),
+(256,1192,l),
+(744,199,l),
+(815,280,l)
+);
+}
+);
+width = 1200;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (503,725);
+}
+);
+associatedMasterId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+layerId = "BF6BC6F6-4B2A-4E9B-9E28-8B62B2F12FD9";
+name = "Bold Italic";
+shapes = (
+{
+closed = 1;
+nodes = (
+(313,1308,l),
+(195,1187,l),
+(711,140,l),
+(814,291,l)
+);
+}
+);
+width = 1200;
+}
+);
+}

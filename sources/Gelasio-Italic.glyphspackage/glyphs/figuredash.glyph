@@ -1,0 +1,40 @@
+{
+glyphname = figuredash;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1147,496,l),
+(1165,622,l),
+(127,622,l),
+(109,496,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1257;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1326,496,l),
+(1344,622,l),
+(127,622,l),
+(109,496,l,{
+name = hr00;
+})
+);
+}
+);
+width = 1436;
+}
+);
+unicode = 8210;
+}

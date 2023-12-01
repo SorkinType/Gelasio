@@ -1,0 +1,34 @@
+{
+glyphname = Ldot;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (683,170);
+ref = periodcentered.loclCAT.case;
+}
+);
+width = 1236;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (788,168);
+ref = periodcentered.loclCAT.case;
+}
+);
+width = 1404;
+}
+);
+metricLeft = L;
+metricWidth = L;
+unicode = 319;
+}

@@ -1,0 +1,34 @@
+{
+glyphname = DZ;
+kernLeft = H;
+kernRight = Z;
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (1534,0);
+ref = Z;
+}
+);
+width = 2766;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (1708,0);
+ref = Z;
+}
+);
+width = 3120;
+}
+);
+unicode = 497;
+}

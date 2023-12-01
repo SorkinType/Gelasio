@@ -1,0 +1,32 @@
+{
+glyphname = lcircumflexbelow;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (210,0);
+ref = circumflexbelowcomb;
+}
+);
+width = 584;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (289,0);
+ref = circumflexbelowcomb;
+}
+);
+width = 726;
+}
+);
+unicode = 7741;
+}
