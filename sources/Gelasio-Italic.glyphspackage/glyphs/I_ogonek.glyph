@@ -1,0 +1,32 @@
+{
+glyphname = Iogonek;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (395,0);
+ref = ogonekcomb.case;
+}
+);
+width = 798;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (489,0);
+ref = ogonekcomb.case;
+}
+);
+width = 923;
+}
+);
+unicode = 302;
+}

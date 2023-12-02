@@ -1,0 +1,40 @@
+{
+glyphname = fraction;
+kernLeft = fraction;
+kernRight = fraction;
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-170,0,l),
+(501,1419,l),
+(364,1419,l),
+(-305,0,l)
+);
+}
+);
+width = 166;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-195,0,l,{
+name = hr00;
+}),
+(524,1419,l),
+(377,1419,l),
+(-340,0,l)
+);
+}
+);
+width = 194;
+}
+);
+unicode = 8260;
+}

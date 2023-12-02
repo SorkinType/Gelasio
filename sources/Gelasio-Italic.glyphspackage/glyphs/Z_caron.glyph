@@ -1,0 +1,32 @@
+{
+glyphname = Zcaron;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (640,425);
+ref = caroncomb.case;
+}
+);
+width = 1232;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (713,425);
+ref = caroncomb.case;
+}
+);
+width = 1412;
+}
+);
+unicode = 381;
+}

@@ -1,0 +1,32 @@
+{
+glyphname = Vdotbelow;
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (689,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 1365;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (774,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 1561;
+}
+);
+unicode = 7806;
+}

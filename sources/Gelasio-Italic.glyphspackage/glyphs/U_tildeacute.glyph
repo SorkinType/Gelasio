@@ -1,0 +1,40 @@
+{
+glyphname = Utildeacute;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (791,425);
+ref = tildecomb.case;
+},
+{
+pos = (849,811);
+ref = acutecomb.case;
+}
+);
+width = 1549;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (928,480);
+ref = tildecomb.case;
+},
+{
+pos = (992,872);
+ref = acutecomb.case;
+}
+);
+width = 1707;
+}
+);
+unicode = 7800;
+}

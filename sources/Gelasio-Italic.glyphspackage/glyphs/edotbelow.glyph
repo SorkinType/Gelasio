@@ -1,0 +1,32 @@
+{
+glyphname = edotbelow;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (417,0);
+ref = dotbelowcomb;
+}
+);
+width = 966;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (505,0);
+ref = dotbelowcomb;
+}
+);
+width = 1141;
+}
+);
+unicode = 7865;
+}

@@ -1,0 +1,55 @@
+{
+color = 9;
+glyphname = Estroke;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (708,0);
+},
+{
+name = top;
+pos = (674,1419);
+}
+);
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = E;
+},
+{
+alignment = -1;
+pos = (127,0);
+ref = OSlash_part.;
+}
+);
+width = 1338;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (800,0);
+},
+{
+name = top;
+pos = (791,1419);
+}
+);
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = E;
+},
+{
+alignment = -1;
+pos = (285,0);
+ref = OSlash_part.;
+}
+);
+width = 1477;
+}
+);
+unicode = 582;
+}

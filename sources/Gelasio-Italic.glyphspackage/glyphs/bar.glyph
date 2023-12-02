@@ -1,0 +1,38 @@
+{
+glyphname = bar;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(403,-367,l),
+(403,1535,l,{
+name = hr00;
+}),
+(258,1535,l),
+(258,-367,l)
+);
+}
+);
+width = 768;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(391,-367,l),
+(391,1535,l),
+(246,1535,l),
+(246,-367,l)
+);
+}
+);
+width = 794;
+}
+);
+unicode = 124;
+}

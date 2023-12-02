@@ -1,0 +1,35 @@
+{
+color = 9;
+glyphname = tdiagonalstroke;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = t;
+},
+{
+alignment = -1;
+pos = (-148,0);
+ref = oSlash_part.;
+}
+);
+width = 707;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = t;
+},
+{
+alignment = -1;
+pos = (-118,0);
+ref = oSlash_part.;
+}
+);
+width = 814;
+}
+);
+unicode = 11366;
+}

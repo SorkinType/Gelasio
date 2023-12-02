@@ -1,0 +1,40 @@
+{
+glyphname = omacronacute;
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (545,0);
+ref = macroncomb;
+},
+{
+pos = (131,272);
+ref = acutecomb;
+}
+);
+width = 1104;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (652,0);
+ref = macroncomb;
+},
+{
+pos = (270,288);
+ref = acutecomb;
+}
+);
+width = 1302;
+}
+);
+unicode = 7763;
+}

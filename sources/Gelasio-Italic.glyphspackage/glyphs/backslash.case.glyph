@@ -1,0 +1,37 @@
+{
+glyphname = backslash.case;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(433,1725,l),
+(310,1725,l),
+(542,-315,l),
+(663,-315,l)
+);
+}
+);
+width = 960;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(446,1725,l),
+(301,1725,l),
+(627,-315,l),
+(770,-315,l,{
+name = hr00;
+})
+);
+}
+);
+width = 966;
+}
+);
+}

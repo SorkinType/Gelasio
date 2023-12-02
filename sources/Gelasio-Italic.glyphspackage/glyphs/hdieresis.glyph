@@ -1,0 +1,33 @@
+{
+color = 1;
+glyphname = hdieresis;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (236,506);
+ref = dieresiscomb.case;
+}
+);
+width = 1152;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (296,484);
+ref = dieresiscomb.case;
+}
+);
+width = 1383;
+}
+);
+unicode = 7719;
+}

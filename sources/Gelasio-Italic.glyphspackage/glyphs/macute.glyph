@@ -1,0 +1,32 @@
+{
+glyphname = macute;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = m;
+},
+{
+pos = (853,0);
+ref = acutecomb;
+}
+);
+width = 1801;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = m;
+},
+{
+pos = (1026,0);
+ref = acutecomb;
+}
+);
+width = 2052;
+}
+);
+unicode = 7743;
+}
