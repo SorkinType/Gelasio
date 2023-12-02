@@ -12,7 +12,7 @@ pos = (783,425);
 ref = ringcomb.case;
 },
 {
-pos = (991,710);
+pos = (1021,710);
 ref = acutecomb.case;
 }
 );
@@ -29,7 +29,7 @@ pos = (792,425);
 ref = ringcomb.case;
 },
 {
-pos = (1099,694);
+pos = (1159,694);
 ref = acutecomb.case;
 }
 );

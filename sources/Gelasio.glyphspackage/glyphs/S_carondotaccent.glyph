@@ -14,7 +14,7 @@ pos = (587,425);
 ref = caroncomb.case;
 },
 {
-pos = (587,869);
+pos = (587,839);
 ref = dotaccentcomb.case;
 }
 );

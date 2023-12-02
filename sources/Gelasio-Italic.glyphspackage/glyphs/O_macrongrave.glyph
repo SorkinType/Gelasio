@@ -12,7 +12,7 @@ pos = (730,425);
 ref = macroncomb.case;
 },
 {
-pos = (849,749);
+pos = (809,749);
 ref = gravecomb.case;
 }
 );

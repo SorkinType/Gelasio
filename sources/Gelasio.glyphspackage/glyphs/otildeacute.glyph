@@ -12,7 +12,7 @@ pos = (545,0);
 ref = tildecomb;
 },
 {
-pos = (131,317);
+pos = (131,337);
 ref = acutecomb;
 }
 );
@@ -29,7 +29,7 @@ pos = (652,-10);
 ref = tildecomb;
 },
 {
-pos = (270,320);
+pos = (270,340);
 ref = acutecomb;
 }
 );

@@ -138,7 +138,7 @@ name = hr00;
 );
 }
 );
-width = 1114;
+width = 1071;
 }
 );
 metricLeft = "=|glottalstop";

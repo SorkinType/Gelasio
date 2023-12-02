@@ -8,7 +8,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (456,425);
+pos = (416,425);
 ref = gravecomb.case;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (428,425);
+pos = (388,425);
 ref = gravecomb.case;
 }
 );
