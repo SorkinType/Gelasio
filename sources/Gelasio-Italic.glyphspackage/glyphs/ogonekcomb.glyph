@@ -4,6 +4,12 @@ kernLeft = ogonekcomb;
 kernRight = ogonekcomb;
 layers = (
 {
+anchors = (
+{
+name = _ogonek;
+pos = (-13,10);
+}
+);
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
 shapes = (
 {
@@ -41,6 +47,12 @@ nodes = (
 width = 0;
 },
 {
+anchors = (
+{
+name = _ogonek;
+pos = (7,10);
+}
+);
 background = {
 shapes = (
 {

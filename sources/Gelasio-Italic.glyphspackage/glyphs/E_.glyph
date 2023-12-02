@@ -9,7 +9,7 @@ pos = (649,0);
 },
 {
 name = ogonek;
-pos = (1136,10);
+pos = (1032,10);
 },
 {
 name = top;
@@ -114,7 +114,7 @@ pos = (669,0);
 },
 {
 name = ogonek;
-pos = (1261,10);
+pos = (1206,10);
 },
 {
 name = top;
