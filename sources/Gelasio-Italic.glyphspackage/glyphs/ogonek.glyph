@@ -7,21 +7,19 @@ layers = (
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
 shapes = (
 {
-pos = (747,0);
 ref = ogonekcomb;
 }
 );
-width = 1024;
+width = 0;
 },
 {
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
 shapes = (
 {
-pos = (748,0);
 ref = ogonekcomb;
 }
 );
-width = 1024;
+width = 0;
 }
 );
 unicode = 731;

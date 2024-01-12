@@ -18,9 +18,11 @@ width = 711;
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
 shapes = (
 {
+alignment = -1;
 ref = t;
 },
 {
+alignment = -1;
 pos = (350,197);
 ref = dieresiscomb;
 }

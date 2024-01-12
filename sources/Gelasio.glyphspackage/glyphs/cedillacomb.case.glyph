@@ -61,7 +61,7 @@ shapes = (
 ref = cedilla;
 }
 );
-width = 478;
+width = 0;
 },
 {
 anchors = (

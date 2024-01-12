@@ -18,9 +18,11 @@ width = 1998;
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
 shapes = (
 {
+alignment = -1;
 ref = W;
 },
 {
+alignment = -1;
 pos = (1240,425);
 ref = gravecomb.case;
 }

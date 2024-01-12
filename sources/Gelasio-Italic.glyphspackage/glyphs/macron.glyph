@@ -7,33 +7,19 @@ layers = (
 layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
 shapes = (
 {
-closed = 1;
-nodes = (
-(649,1242,l),
-(670,1383,l),
-(83,1383,l),
-(62,1242,l)
-);
+ref = macroncomb;
 }
 );
-width = 1221;
+width = 0;
 },
 {
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
 shapes = (
 {
-closed = 1;
-nodes = (
-(651,1282,l),
-(674,1433,l),
-(87,1433,l),
-(64,1282,l,{
-name = hr00;
-})
-);
+ref = macroncomb;
 }
 );
-width = 1440;
+width = 0;
 }
 );
 unicode = 175;

@@ -22,13 +22,16 @@ width = 1104;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = o;
 },
 {
+alignment = -1;
 pos = (652,-10);
 ref = tildecomb;
 },
 {
+alignment = -1;
 pos = (652,320);
 ref = macroncomb;
 }
