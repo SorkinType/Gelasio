@@ -1,6 +1,6 @@
 sources:
-  - Gelasio.glyphspackage
-  - Gelasio-Italic.glyphspackage
+  - Gelasio.glyphs
+  - Gelasio-Italic.glyphs
 axisOrder:
   - wght
   - ital

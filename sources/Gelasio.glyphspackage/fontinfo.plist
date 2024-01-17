@@ -844,17 +844,6 @@ instances = (
 axesValues = (
 186
 );
-customParameters = (
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
-}
-);
 name = Regular;
 properties = (
 {
@@ -880,17 +869,6 @@ value = Regular;
 {
 axesValues = (
 210
-);
-customParameters = (
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-}
-);
-}
 );
 name = Medium;
 properties = (
@@ -919,17 +897,6 @@ weightClass = 500;
 axesValues = (
 275
 );
-customParameters = (
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-}
-);
-}
-);
 name = SemiBold;
 properties = (
 {
@@ -956,17 +923,6 @@ weightClass = 600;
 {
 axesValues = (
 314
-);
-customParameters = (
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
-}
 );
 isBold = 1;
 name = Bold;
