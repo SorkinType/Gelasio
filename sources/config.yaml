@@ -6,8 +6,8 @@ axisOrder:
   - ital
 familyName: Gelasio
 buildOTF: False
-flattenComponents: False
-decomposeTransformedComponents: False
+# flattenComponents: False
+# decomposeTransformedComponents: False
 stat:
   Gelasio[wght].ttf:
   - name: Weight
