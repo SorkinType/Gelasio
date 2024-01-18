@@ -844,6 +844,17 @@ instances = (
 axesValues = (
 186
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
+);
 name = Regular;
 properties = (
 {
@@ -869,6 +880,17 @@ value = Regular;
 {
 axesValues = (
 210
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
 );
 name = Medium;
 properties = (
@@ -897,6 +919,17 @@ weightClass = 500;
 axesValues = (
 275
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
 name = SemiBold;
 properties = (
 {
@@ -923,6 +956,17 @@ weightClass = 600;
 {
 axesValues = (
 314
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
 );
 isBold = 1;
 name = Bold;
@@ -1006,13 +1050,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
