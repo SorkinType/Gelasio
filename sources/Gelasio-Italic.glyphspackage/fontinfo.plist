@@ -960,6 +960,24 @@ name = "Bold Italic";
 weightClass = 700;
 }
 );
+kerningLTR = {
+"D92FDD0B-F694-41DD-AE46-0E4F694F0F38" = {
+L = {
+periodcentered.loclCAT.case = -500;
+};
+l = {
+periodcentered.loclCAT = -40;
+};
+};
+"BDB4B313-38B1-4B24-B843-560B185382BD" = {
+L = {
+periodcentered.loclCAT.case = -480;
+};
+periodcentered.loclCAT.case = {
+L = -200;
+};
+};
+};
 metrics = (
 {
 type = ascender;
