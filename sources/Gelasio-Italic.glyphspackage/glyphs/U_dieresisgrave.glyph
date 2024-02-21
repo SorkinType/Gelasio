@@ -22,13 +22,16 @@ width = 1549;
 layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
 shapes = (
 {
+alignment = -1;
 ref = U;
 },
 {
+alignment = -1;
 pos = (920,425);
 ref = dieresiscomb.case;
 },
 {
+alignment = -1;
 pos = (974,798);
 ref = gravecomb.case;
 }
