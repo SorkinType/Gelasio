@@ -1,0 +1,32 @@
+{
+glyphname = zacute;
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (56,0);
+ref = acutecomb;
+}
+);
+width = 909;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (194,0);
+ref = acutecomb;
+}
+);
+width = 1076;
+}
+);
+unicode = 378;
+}
