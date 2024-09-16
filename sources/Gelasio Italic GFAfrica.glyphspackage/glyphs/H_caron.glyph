@@ -1,0 +1,32 @@
+{
+glyphname = Hcaron;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (821,425);
+ref = caroncomb.case;
+}
+);
+width = 1669;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (926,425);
+ref = caroncomb.case;
+}
+);
+width = 1870;
+}
+);
+unicode = 542;
+}

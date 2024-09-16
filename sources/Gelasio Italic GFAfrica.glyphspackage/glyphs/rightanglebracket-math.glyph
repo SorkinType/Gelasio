@@ -1,0 +1,40 @@
+{
+glyphname = "rightanglebracket-math";
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,1539,l),
+(395,714,l),
+(-86,-82,l),
+(46,-82,l),
+(539,717,l),
+(297,1539,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,1539,l),
+(395,714,l),
+(-86,-82,l),
+(76,-82,l),
+(569,717,l),
+(327,1539,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 10217;
+}

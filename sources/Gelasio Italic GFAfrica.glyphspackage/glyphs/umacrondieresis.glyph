@@ -1,0 +1,40 @@
+{
+glyphname = umacrondieresis;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (498,0);
+ref = macroncomb;
+},
+{
+pos = (533,272);
+ref = dieresiscomb;
+}
+);
+width = 1178;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (608,0);
+ref = macroncomb;
+},
+{
+pos = (663,288);
+ref = dieresiscomb;
+}
+);
+width = 1403;
+}
+);
+unicode = 7803;
+}

@@ -1,0 +1,33 @@
+{
+glyphname = zero.tf.zero;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = zero.tf;
+},
+{
+pos = (171,-61);
+ref = zeroSlash_part.;
+}
+);
+width = 1306;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = zero.tf;
+},
+{
+pos = (147,-23);
+ref = zeroSlash_part.;
+}
+);
+width = 1306;
+}
+);
+metricLeft = zero.tf;
+metricWidth = zero.tf;
+}

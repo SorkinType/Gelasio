@@ -1,0 +1,65 @@
+{
+color = 9;
+glyphname = Astroke;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (678,0);
+},
+{
+name = ogonek;
+pos = (1222,10);
+},
+{
+name = top;
+pos = (712,1419);
+}
+);
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = A;
+},
+{
+alignment = -1;
+pos = (285,0);
+ref = OSlash_part.;
+}
+);
+width = 1374;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (750,0);
+},
+{
+name = ogonek;
+pos = (1351,10);
+},
+{
+name = top;
+pos = (773,1419);
+}
+);
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = A;
+},
+{
+alignment = -1;
+pos = (285,0);
+ref = OSlash_part.;
+}
+);
+width = 1553;
+}
+);
+metricLeft = A;
+metricWidth = A;
+unicode = 570;
+}

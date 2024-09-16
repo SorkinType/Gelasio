@@ -8,7 +8,7 @@ shapes = (
 ref = gravecomb;
 }
 );
-width = 0;
+width = 975;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";

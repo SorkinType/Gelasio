@@ -1,0 +1,25 @@
+{
+glyphname = one.osf;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = one;
+}
+);
+width = 880;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = one;
+}
+);
+width = 1003;
+}
+);
+metricLeft = one;
+metricWidth = one;
+}

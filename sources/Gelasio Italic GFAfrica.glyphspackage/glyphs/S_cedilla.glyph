@@ -1,0 +1,40 @@
+{
+glyphname = Scedilla;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (390,0);
+ref = cedillacomb.case;
+}
+);
+width = 1149;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (430,0);
+ref = cedillacomb.case;
+}
+);
+width = 1337;
+}
+);
+unicode = 350;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+}

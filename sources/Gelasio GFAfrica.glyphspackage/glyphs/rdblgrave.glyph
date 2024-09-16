@@ -18,10 +18,12 @@ width = 839;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = r;
 },
 {
-pos = (502,0);
+alignment = -1;
+pos = (542,0);
 ref = dblgravecomb;
 }
 );

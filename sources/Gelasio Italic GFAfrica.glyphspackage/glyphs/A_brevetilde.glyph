@@ -1,0 +1,32 @@
+{
+glyphname = Abrevetilde;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (710,425);
+ref = brevecomb_tildecomb.case;
+}
+);
+width = 1374;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (792,425);
+ref = brevecomb_tildecomb.case;
+}
+);
+width = 1553;
+}
+);
+unicode = 7860;
+}

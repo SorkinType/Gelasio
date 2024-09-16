@@ -1,0 +1,35 @@
+{
+color = 1;
+glyphname = hcedilla;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = h;
+},
+{
+alignment = -1;
+pos = (8,0);
+ref = cedillacomb;
+}
+);
+width = 1152;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = h;
+},
+{
+alignment = -1;
+pos = (56,0);
+ref = cedillacomb;
+}
+);
+width = 1383;
+}
+);
+unicode = 7721;
+}

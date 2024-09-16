@@ -1,0 +1,31 @@
+{
+glyphname = zero.tosf.zero;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = zero.tosf;
+},
+{
+pos = (152,-183);
+ref = zeroSlash_part.;
+}
+);
+width = 1306;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = zero.tosf;
+},
+{
+pos = (130,-141);
+ref = zeroSlash_part.;
+}
+);
+width = 1306;
+}
+);
+}

@@ -1,0 +1,33 @@
+{
+color = 0;
+glyphname = clicklateral;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = bar;
+},
+{
+pos = (416,0);
+ref = bar;
+}
+);
+width = 1200;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = bar;
+},
+{
+pos = (428,0);
+ref = bar;
+}
+);
+width = 1200;
+}
+);
+unicode = 449;
+}

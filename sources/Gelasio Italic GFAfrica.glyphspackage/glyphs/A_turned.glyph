@@ -1,0 +1,29 @@
+{
+color = 4;
+glyphname = Aturned;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+angle = 180;
+pos = (1439,1419);
+ref = A;
+}
+);
+width = 1374;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+angle = 180;
+pos = (1617,1419);
+ref = A;
+}
+);
+width = 1553;
+}
+);
+unicode = 11375;
+}

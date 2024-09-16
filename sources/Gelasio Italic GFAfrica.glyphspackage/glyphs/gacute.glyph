@@ -1,0 +1,32 @@
+{
+glyphname = gacute;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (571,0);
+ref = acutecomb;
+}
+);
+width = 1173;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (631,0);
+ref = acutecomb;
+}
+);
+width = 1330;
+}
+);
+unicode = 501;
+}

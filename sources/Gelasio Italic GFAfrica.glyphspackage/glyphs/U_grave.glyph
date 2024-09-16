@@ -1,0 +1,34 @@
+{
+glyphname = Ugrave;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (822,425);
+ref = gravecomb.case;
+}
+);
+width = 1549;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (916,425);
+ref = gravecomb.case;
+}
+);
+width = 1707;
+}
+);
+unicode = 217;
+}

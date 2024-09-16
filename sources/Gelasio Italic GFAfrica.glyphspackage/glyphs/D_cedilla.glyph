@@ -1,0 +1,33 @@
+{
+color = 1;
+glyphname = Dcedilla;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (695,0);
+ref = commaaccentcomb.case;
+}
+);
+width = 1534;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (782,0);
+ref = commaaccentcomb.case;
+}
+);
+width = 1708;
+}
+);
+unicode = 7696;
+}

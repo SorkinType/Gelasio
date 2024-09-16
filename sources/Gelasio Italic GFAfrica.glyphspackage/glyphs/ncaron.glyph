@@ -1,0 +1,40 @@
+{
+glyphname = ncaron;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (479,0);
+ref = caroncomb;
+}
+);
+width = 1208;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (628,0);
+ref = caroncomb;
+}
+);
+width = 1413;
+}
+);
+unicode = 328;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+}

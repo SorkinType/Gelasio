@@ -1,0 +1,63 @@
+{
+color = 9;
+glyphname = Tdiagonalstroke;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (628,0);
+},
+{
+name = center;
+pos = (634,710);
+},
+{
+name = top;
+pos = (624,1419);
+}
+);
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = T;
+},
+{
+alignment = -1;
+pos = (235,0);
+ref = OSlash_part.;
+}
+);
+width = 1267;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (717,0);
+},
+{
+name = center;
+pos = (717,710);
+},
+{
+name = top;
+pos = (717,1419);
+}
+);
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = T;
+},
+{
+alignment = -1;
+pos = (285,0);
+ref = OSlash_part.;
+}
+);
+width = 1401;
+}
+);
+unicode = 574;
+}

@@ -1,0 +1,40 @@
+{
+glyphname = Adieresis;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (708,425);
+ref = dieresiscomb.case;
+}
+);
+width = 1374;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (792,425);
+ref = dieresiscomb.case;
+}
+);
+width = 1553;
+}
+);
+unicode = 196;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+}

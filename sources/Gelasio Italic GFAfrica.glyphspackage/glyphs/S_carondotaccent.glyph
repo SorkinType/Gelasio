@@ -1,0 +1,40 @@
+{
+glyphname = Scarondotaccent;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (578,425);
+ref = caroncomb.case;
+},
+{
+pos = (646,869);
+ref = dotaccentcomb.case;
+}
+);
+width = 1149;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (678,425);
+ref = caroncomb.case;
+},
+{
+pos = (744,845);
+ref = dotaccentcomb.case;
+}
+);
+width = 1337;
+}
+);
+unicode = 7782;
+}

@@ -1,0 +1,34 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+pos = (4,0);
+ref = quoteright;
+},
+{
+pos = (415,0);
+ref = quoteright;
+}
+);
+width = 790;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+pos = (35,-1);
+ref = quoteright;
+},
+{
+pos = (516,-1);
+ref = quoteright;
+}
+);
+width = 1063;
+}
+);
+unicode = 8221;
+}

@@ -1,0 +1,33 @@
+{
+color = 1;
+glyphname = "Io-cy";
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = "Ie-cy";
+},
+{
+pos = (658,425);
+ref = dieresiscomb.case;
+}
+);
+width = 1338;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = "Ie-cy";
+},
+{
+pos = (746,425);
+ref = dieresiscomb.case;
+}
+);
+width = 1477;
+}
+);
+unicode = 1025;
+}

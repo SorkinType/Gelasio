@@ -1,0 +1,57 @@
+{
+color = 9;
+glyphname = Cstroke;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (722,0);
+},
+{
+name = top;
+pos = (752,1419);
+}
+);
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = C;
+},
+{
+alignment = -1;
+pos = (285,0);
+ref = OSlash_part.;
+}
+);
+width = 1315;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (805,0);
+},
+{
+name = top;
+pos = (859,1419);
+}
+);
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = C;
+},
+{
+alignment = -1;
+pos = (285,0);
+ref = OSlash_part.;
+}
+);
+width = 1465;
+}
+);
+metricLeft = C;
+metricWidth = C;
+unicode = 571;
+}

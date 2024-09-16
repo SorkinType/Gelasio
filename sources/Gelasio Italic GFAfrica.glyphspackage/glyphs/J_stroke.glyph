@@ -1,0 +1,33 @@
+{
+color = 4;
+glyphname = Jstroke;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = J;
+},
+{
+pos = (427,334);
+ref = strokeshortcomb;
+}
+);
+width = 1060;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = J;
+},
+{
+pos = (549,334);
+ref = strokeshortcomb;
+}
+);
+width = 1219;
+}
+);
+unicode = 584;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = guillemetright.case;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+angle = 180;
+pos = (793,1215);
+ref = guilsinglleft;
+},
+{
+angle = 180;
+pos = (1285,1215);
+ref = guilsinglleft;
+}
+);
+width = 1190;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+angle = 180;
+pos = (726,1215);
+ref = guilsinglleft;
+},
+{
+angle = 180;
+pos = (1278,1215);
+ref = guilsinglleft;
+}
+);
+width = 1250;
+}
+);
+}

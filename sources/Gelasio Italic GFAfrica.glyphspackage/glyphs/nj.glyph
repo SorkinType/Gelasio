@@ -1,0 +1,32 @@
+{
+glyphname = nj;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (1208,0);
+ref = j;
+}
+);
+width = 1804;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (1413,0);
+ref = j;
+}
+);
+width = 2161;
+}
+);
+unicode = 460;
+}

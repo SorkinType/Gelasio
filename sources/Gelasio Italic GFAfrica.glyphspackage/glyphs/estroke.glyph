@@ -1,0 +1,35 @@
+{
+color = 9;
+glyphname = estroke;
+layers = (
+{
+layerId = "D92FDD0B-F694-41DD-AE46-0E4F694F0F38";
+shapes = (
+{
+ref = e;
+},
+{
+alignment = -1;
+pos = (-4,0);
+ref = oSlash_part.;
+}
+);
+width = 990;
+},
+{
+layerId = "BDB4B313-38B1-4B24-B843-560B185382BD";
+shapes = (
+{
+ref = e;
+},
+{
+alignment = -1;
+pos = (-4,0);
+ref = oSlash_part.;
+}
+);
+width = 1171;
+}
+);
+unicode = 583;
+}
