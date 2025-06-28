@@ -1,0 +1,56 @@
+{
+glyphname = lozenge;
+kernLeft = lozenge;
+kernRight = lozenge;
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(575,1157,l),
+(91,568,l),
+(575,-20,l),
+(1059,568,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(857,568,l),
+(575,217,l),
+(297,568,l),
+(575,917,l)
+);
+}
+);
+width = 1150;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(735,1206,l),
+(200,592,l),
+(735,-20,l),
+(1270,592,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1060,592,l),
+(735,227,l),
+(414,592,l),
+(735,956,l)
+);
+}
+);
+width = 1470;
+}
+);
+unicode = 9674;
+}

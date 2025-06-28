@@ -1,0 +1,34 @@
+{
+glyphname = odblgrave;
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (517,0);
+ref = dblgravecomb;
+}
+);
+width = 1104;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (652,0);
+ref = dblgravecomb;
+}
+);
+width = 1302;
+}
+);
+unicode = 525;
+}

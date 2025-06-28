@@ -1,0 +1,43 @@
+{
+glyphname = itildebelow.dotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (299,0);
+}
+);
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-92,0);
+ref = tildebelowcomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (352,0);
+}
+);
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-52,0);
+ref = tildebelowcomb;
+}
+);
+width = 724;
+}
+);
+}
