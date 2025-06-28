@@ -1,0 +1,31 @@
+{
+glyphname = kacute.sc;
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (246,521);
+ref = acutecomb.case;
+}
+);
+width = 1097;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (252,520);
+ref = acutecomb.case;
+}
+);
+width = 1294;
+}
+);
+}
