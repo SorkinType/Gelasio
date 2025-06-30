@@ -5,27 +5,27 @@ layers = (
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
-ref = e;
+ref = e.sc;
 },
 {
-pos = (106,0);
+pos = (220,-8);
 ref = acutecomb;
 }
 );
-width = 990;
+width = 1267;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
-ref = e;
+ref = e.sc;
 },
 {
-pos = (251,0);
+pos = (354,242);
 ref = acutecomb;
 }
 );
-width = 1171;
+width = 1406;
 }
 );
 }

@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (532,0);
+pos = (532,260);
 ref = hookabovecomb;
 }
 );

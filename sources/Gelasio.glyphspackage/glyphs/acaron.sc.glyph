@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (230,0);
+pos = (230,260);
 ref = caroncomb;
 }
 );

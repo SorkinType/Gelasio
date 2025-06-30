@@ -16,7 +16,7 @@ pos = (1140,10);
 },
 {
 name = top;
-pos = (634,986);
+pos = (656,1236);
 },
 {
 name = topleft;
@@ -123,7 +123,7 @@ pos = (1265,10);
 },
 {
 name = top;
-pos = (703,994);
+pos = (736,1236);
 },
 {
 name = topleft;

@@ -25,11 +25,11 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (742,0);
+pos = (742,260);
 ref = dotaccentcomb;
 },
 {
-pos = (742,479);
+pos = (742,739);
 ref = macroncomb;
 }
 );

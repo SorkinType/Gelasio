@@ -5,35 +5,35 @@ layers = (
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
-ref = s;
+ref = s.sc;
 },
 {
-pos = (436,0);
+pos = (549,0);
 ref = dotbelowcomb;
 },
 {
-pos = (444,0);
+pos = (549,-8);
 ref = dotaccentcomb;
 }
 );
-width = 885;
+width = 1098;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
-ref = s;
+ref = s.sc;
 },
 {
-pos = (534,0);
+pos = (639,0);
 ref = dotbelowcomb;
 },
 {
-pos = (533,0);
+pos = (658,241);
 ref = dotaccentcomb;
 }
 );
-width = 1050;
+width = 1278;
 }
 );
 }

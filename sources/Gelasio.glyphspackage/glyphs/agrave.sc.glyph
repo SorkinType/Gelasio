@@ -21,7 +21,7 @@ shapes = (
 ref = a.sc;
 },
 {
-pos = (155,0);
+pos = (155,260);
 ref = gravecomb;
 }
 );
