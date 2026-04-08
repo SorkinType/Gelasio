@@ -100,7 +100,5 @@ name = hr02;
 width = 868;
 }
 );
-metricLeft = hyphen;
-metricRight = hyphen;
 unicode = 816;
 }

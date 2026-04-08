@@ -1,0 +1,49 @@
+{
+category = Letter;
+glyphname = "Psi-cy";
+kernLeft = "Psi-cy";
+kernRight = "Psi-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (848,0);
+},
+{
+name = top;
+pos = (848,1462);
+}
+);
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = Psi;
+}
+);
+width = 1708;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1112,0);
+},
+{
+name = top;
+pos = (1112,1462);
+}
+);
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = Psi;
+}
+);
+width = 2163;
+}
+);
+script = cyrillic;
+subCategory = Uppercase;
+unicode = (1136,1137);
+}

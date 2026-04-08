@@ -1,0 +1,57 @@
+{
+glyphname = rcaron.smcp;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = r.smcp;
+},
+{
+alignment = -1;
+pos = (47,-325);
+ref = caroncomb;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = r.smcp;
+},
+{
+pos = (99,241);
+ref = caroncomb;
+}
+);
+width = 1365;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = r.smcp;
+},
+{
+alignment = -1;
+pos = (150,-325);
+ref = caroncomb;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = r.smcp;
+},
+{
+pos = (213,241);
+ref = caroncomb;
+}
+);
+width = 1561;
+}
+);
+}

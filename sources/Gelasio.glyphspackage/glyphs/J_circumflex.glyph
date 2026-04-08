@@ -4,6 +4,19 @@ kernLeft = J;
 kernRight = U;
 layers = (
 {
+background = {
+shapes = (
+{
+alignment = -1;
+ref = J;
+},
+{
+alignment = -1;
+pos = (169,0);
+ref = circumflexcomb;
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -25,6 +38,15 @@ ref = J;
 {
 pos = (215,-12);
 ref = circumflex.cap;
+},
+{
+alignment = -1;
+ref = J;
+},
+{
+alignment = -1;
+pos = (259,0);
+ref = circumflexcomb;
 }
 );
 };

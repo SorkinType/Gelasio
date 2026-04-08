@@ -4,6 +4,31 @@ kernLeft = greaterequal;
 kernRight = greaterequal;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(181,1098,l),
+(181,960,l),
+(955,650,l),
+(181,339,l),
+(181,201,l),
+(1136,592,l),
+(1136,707,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(181,125,l),
+(181,0,l),
+(1136,0,l),
+(1136,125,l)
+);
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -31,6 +56,31 @@ nodes = (
 width = 1317;
 },
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(201,1257,l),
+(201,1070,l),
+(992,765,l),
+(201,461,l),
+(201,274,l),
+(1231,694,l),
+(1231,837,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(201,163,l),
+(201,0,l),
+(1231,0,l),
+(1231,163,l)
+);
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {

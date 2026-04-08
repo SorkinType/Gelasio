@@ -1,0 +1,57 @@
+{
+glyphname = "iishort-cy.smcp";
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = "ii-cy.smcp";
+},
+{
+alignment = -1;
+pos = (184,-325);
+ref = glyph00853;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = "ii-cy.smcp";
+},
+{
+pos = (766,152);
+ref = brevecomb;
+}
+);
+width = 1524;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = "ii-cy.smcp";
+},
+{
+alignment = -1;
+pos = (279,-325);
+ref = glyph00853;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = "ii-cy.smcp";
+},
+{
+pos = (926,174);
+ref = brevecomb;
+}
+);
+width = 1844;
+}
+);
+}

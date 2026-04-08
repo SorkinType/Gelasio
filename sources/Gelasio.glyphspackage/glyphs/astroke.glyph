@@ -31,7 +31,5 @@ ref = oSlash_part.;
 width = 1220;
 }
 );
-metricLeft = a;
-metricWidth = a;
 unicode = 11365;
 }

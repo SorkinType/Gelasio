@@ -1,14 +1,31 @@
 {
+category = Symbol;
 glyphname = "lowernumeral-greek";
 layers = (
 {
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
-width = 1200;
+shapes = (
+{
+angle = 180;
+pos = (658,1092);
+ref = "numeral-greek";
+}
+);
+width = 658;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
-width = 1200;
+shapes = (
+{
+angle = 180;
+pos = (658,1130);
+ref = "numeral-greek";
 }
 );
+width = 658;
+}
+);
+script = greek;
+subCategory = Modifier;
 unicode = 885;
 }

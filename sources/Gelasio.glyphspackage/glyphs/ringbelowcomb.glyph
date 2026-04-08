@@ -106,6 +106,5 @@ nodes = (
 width = 660;
 }
 );
-metricRight = "=|";
 unicode = 805;
 }

@@ -142,7 +142,5 @@ nodes = (
 width = 1171;
 }
 );
-metricLeft = schwa;
-metricRight = schwa;
 unicode = 477;
 }

@@ -162,7 +162,5 @@ name = hr00;
 width = 1413;
 }
 );
-metricRight = n;
-metricWidth = n;
 unicode = 626;
 }

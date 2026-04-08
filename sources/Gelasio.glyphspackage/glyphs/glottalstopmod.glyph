@@ -135,8 +135,6 @@ width = 70;
 width = 1010;
 }
 );
-metricLeft = ordmasculine;
-metricRight = ordmasculine;
 unicode = 704;
 userData = {
 RMXScaler = {

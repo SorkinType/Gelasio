@@ -303,7 +303,5 @@ name = hr00;
 width = 2712;
 }
 );
-metricLeft = c;
-metricRight = u;
 unicode = 8454;
 }

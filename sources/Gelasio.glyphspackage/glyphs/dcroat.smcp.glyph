@@ -1,0 +1,77 @@
+{
+glyphname = dcroat.smcp;
+kernLeft = o;
+kernRight = l;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (572,0);
+},
+{
+name = center;
+pos = (572,497);
+},
+{
+name = top;
+pos = (284,917);
+},
+{
+name = topright;
+pos = (1190,994);
+}
+);
+background = {
+shapes = (
+{
+alignment = -1;
+ref = eth.smcp;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = eth.smcp;
+}
+);
+width = 1089;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (657,0);
+},
+{
+name = center;
+pos = (657,497);
+},
+{
+name = top;
+pos = (334,880);
+},
+{
+name = topright;
+pos = (1379,994);
+}
+);
+background = {
+shapes = (
+{
+alignment = -1;
+ref = eth.smcp;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = eth.smcp;
+}
+);
+width = 1306;
+}
+);
+}

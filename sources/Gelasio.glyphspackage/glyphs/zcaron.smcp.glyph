@@ -1,0 +1,57 @@
+{
+glyphname = zcaron.smcp;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = z.smcp;
+},
+{
+alignment = -1;
+pos = (-9,-325);
+ref = caroncomb;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = z.smcp;
+},
+{
+pos = (119,241);
+ref = caroncomb;
+}
+);
+width = 1174;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = z.smcp;
+},
+{
+alignment = -1;
+pos = (70,-325);
+ref = caroncomb;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = z.smcp;
+},
+{
+pos = (254,242);
+ref = caroncomb;
+}
+);
+width = 1354;
+}
+);
+}

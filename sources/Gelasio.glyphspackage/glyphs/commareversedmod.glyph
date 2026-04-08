@@ -82,7 +82,5 @@ name = hr00;
 width = 550;
 }
 );
-metricLeft = "=|apostrophemod";
-metricRight = "=|apostrophemod";
 unicode = 701;
 }

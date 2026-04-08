@@ -4,6 +4,29 @@ kernLeft = sevensuperior;
 kernRight = sevensuperior;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,1130,l),
+(240,1130,l),
+(249,1186,o),
+(281,1263,o),
+(301,1270,qs),
+(331,1281,o),
+(401,1286,o),
+(461,1286,qs),
+(732,1286,l),
+(243,469,l),
+(367,469,l),
+(891,1361,l),
+(891,1419,l),
+(177,1419,l)
+);
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -14,6 +37,29 @@ ref = seven.dnom;
 width = 1024;
 },
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,1419,l),
+(177,1056,l),
+(241,1056,l),
+(251,1111,o),
+(288,1211,o),
+(308,1220,qs),
+(334,1232,o),
+(397,1234,o),
+(461,1234,qs),
+(770,1234,l),
+(271,454,l),
+(416,454,l),
+(945,1310,l),
+(945,1419,l)
+);
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
@@ -24,7 +70,5 @@ ref = seven.dnom;
 width = 1130;
 }
 );
-metricLeft = seven;
-metricRight = seven;
 unicode = 8311;
 }

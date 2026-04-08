@@ -2,6 +2,15 @@
 glyphname = oneinferior;
 layers = (
 {
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (0,-486);
+ref = onesuperior;
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -12,6 +21,15 @@ ref = one.dnom;
 width = 1024;
 },
 {
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (0,-486);
+ref = onesuperior;
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
@@ -22,7 +40,5 @@ ref = one.dnom;
 width = 1130;
 }
 );
-metricLeft = one;
-metricRight = one;
 unicode = 8321;
 }

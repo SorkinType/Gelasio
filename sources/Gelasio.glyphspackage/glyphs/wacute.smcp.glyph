@@ -1,0 +1,57 @@
+{
+glyphname = wacute.smcp;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = w.smcp;
+},
+{
+alignment = -1;
+pos = (406,-325);
+ref = acutecomb;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = w.smcp;
+},
+{
+pos = (575,241);
+ref = acutecomb;
+}
+);
+width = 1895;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = w.smcp;
+},
+{
+alignment = -1;
+pos = (614,-325);
+ref = acutecomb;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = w.smcp;
+},
+{
+pos = (798,242);
+ref = acutecomb;
+}
+);
+width = 2204;
+}
+);
+}

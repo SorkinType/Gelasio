@@ -1,0 +1,57 @@
+{
+glyphname = wgrave.smcp;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = w.smcp;
+},
+{
+alignment = -1;
+pos = (240,-325);
+ref = gravecomb;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = w.smcp;
+},
+{
+pos = (367,241);
+ref = gravecomb;
+}
+);
+width = 1895;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = w.smcp;
+},
+{
+alignment = -1;
+pos = (432,-325);
+ref = gravecomb;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = w.smcp;
+},
+{
+pos = (593,242);
+ref = gravecomb;
+}
+);
+width = 2204;
+}
+);
+}

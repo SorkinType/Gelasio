@@ -20,7 +20,5 @@ ref = exclam;
 width = 771;
 }
 );
-metricLeft = exclam;
-metricRight = exclam;
 unicode = 451;
 }

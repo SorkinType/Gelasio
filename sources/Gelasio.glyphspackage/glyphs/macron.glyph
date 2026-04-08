@@ -4,6 +4,19 @@ kernLeft = macron;
 kernRight = macron;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(-5,1704,l),
+(-5,1603,l),
+(1322,1603,l),
+(1322,1704,l)
+);
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -19,6 +32,19 @@ nodes = (
 width = 1317;
 },
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(-5,1725,l),
+(-5,1603,l),
+(1445,1603,l),
+(1445,1725,l)
+);
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {

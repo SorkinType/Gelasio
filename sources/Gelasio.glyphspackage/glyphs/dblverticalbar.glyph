@@ -28,7 +28,5 @@ ref = bar;
 width = 1126;
 }
 );
-metricLeft = bar;
-metricRight = bar;
 unicode = 8214;
 }

@@ -2,6 +2,19 @@
 glyphname = firsttonechinese;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(169,1419,l),
+(169,1291,l),
+(855,1291,l),
+(855,1419,l)
+);
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -12,6 +25,19 @@ ref = macroncomb;
 width = 1024;
 },
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(138,1419,l),
+(138,1246,l),
+(886,1246,l),
+(886,1419,l)
+);
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {

@@ -4,6 +4,19 @@ kernLeft = fraction;
 kernRight = fraction;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(-355,0,l),
+(-220,0,l),
+(519,1419,l),
+(382,1419,l)
+);
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -19,6 +32,19 @@ nodes = (
 width = 166;
 },
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(-390,0,l),
+(-234,0,l),
+(584,1429,l),
+(426,1429,l)
+);
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {

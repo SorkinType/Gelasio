@@ -1,0 +1,57 @@
+{
+glyphname = utilde.smcp;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = u.smcp;
+},
+{
+alignment = -1;
+pos = (166,0);
+ref = tilde;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = u.smcp;
+},
+{
+pos = (761,241);
+ref = tildecomb;
+}
+);
+width = 1463;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = u.smcp;
+},
+{
+alignment = -1;
+pos = (252,0);
+ref = tilde;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = u.smcp;
+},
+{
+pos = (864,231);
+ref = tildecomb;
+}
+);
+width = 1621;
+}
+);
+}

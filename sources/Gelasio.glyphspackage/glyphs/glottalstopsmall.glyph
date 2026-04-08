@@ -140,7 +140,5 @@ name = hr00;
 width = 1071;
 }
 );
-metricLeft = glottalstop;
-metricRight = glottalstop;
 unicode = 578;
 }

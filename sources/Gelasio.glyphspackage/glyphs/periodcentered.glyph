@@ -4,6 +4,15 @@ kernLeft = period;
 kernRight = period;
 layers = (
 {
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (10,444);
+ref = period;
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -14,6 +23,27 @@ ref = period;
 width = 572;
 },
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(427,743,o),
+(347,743,qs),
+(266,743,o),
+(149,626,o),
+(149,546,qs),
+(149,466,o),
+(266,351,o),
+(347,351,qs),
+(427,351,o),
+(544,467,o),
+(544,546,qs),
+(544,625,o)
+);
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {

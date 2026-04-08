@@ -46,7 +46,5 @@ name = hr00;
 width = 779;
 }
 );
-metricLeft = hyphen;
-metricRight = hyphen;
 unicode = 818;
 }

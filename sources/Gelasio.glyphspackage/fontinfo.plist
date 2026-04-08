@@ -1,5 +1,5 @@
 {
-.appVersion = "3418";
+.appVersion = "3520";
 .formatVersion = 3;
 axes = (
 {
@@ -15,6 +15,44 @@ name = Uppercase;
 }
 );
 customParameters = (
+{
+name = "meta Table";
+value = (
+{
+data = "Cyrl, Grek, Latn";
+tag = dlng;
+},
+{
+data = "Cyrl, Grek, Latn";
+tag = slng;
+}
+);
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2,
+7,
+9
+);
+},
+{
+name = panose;
+value = (
+2,
+4,
+8,
+2,
+5,
+4,
+5,
+2,
+2,
+3
+);
+},
 {
 name = fsType;
 value = (
@@ -1235,43 +1273,47 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1900;
+value = 1549;
 },
 {
 name = typoDescender;
-value = -700;
+value = -444;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 198;
 },
 {
 name = hheaAscender;
-value = 1900;
+value = 1878;
 },
 {
 name = hheaDescender;
-value = -700;
-},
-{
-name = hheaLineGap;
-value = 0;
+value = -449;
 },
 {
 name = winAscent;
-value = 2600;
+value = 1878;
 },
 {
 name = winDescent;
-value = 800;
+value = 449;
 },
 {
-name = underlineThickness;
-value = 106;
+name = strikeoutPosition;
+value = 618;
+},
+{
+name = strikeoutSize;
+value = 122;
 },
 {
 name = underlinePosition;
-value = -190;
+value = -180;
+},
+{
+name = underlineThickness;
+value = 122;
 }
 );
 guides = (
@@ -1282,7 +1324,7 @@ pos = (-1152,-28);
 pos = (-1153,0);
 },
 {
-pos = (-1107,1173);
+pos = (-1107,1166);
 },
 {
 pos = (394,2510);
@@ -1292,12 +1334,6 @@ pos = (518,2000);
 },
 {
 pos = (341,-260);
-},
-{
-pos = (832,1462);
-},
-{
-pos = (-310,1515);
 },
 {
 pos = (337,-234);
@@ -1325,13 +1361,13 @@ pos = (939,968);
 pos = (899,2439);
 },
 {
-pos = (-310,1515);
+pos = (-333,1320);
 },
 {
 pos = (786,918);
 },
 {
-pos = (-255,1235);
+pos = (-4,1133);
 }
 );
 id = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
@@ -1353,9 +1389,13 @@ over = -30;
 },
 {
 over = -31;
-pos = -671;
+pos = -444;
 },
 {
+},
+{
+over = 30;
+pos = 1065;
 }
 );
 name = Regular;
@@ -1374,43 +1414,47 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1900;
+value = 1549;
 },
 {
 name = typoDescender;
-value = -700;
+value = -444;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 198;
 },
 {
 name = hheaAscender;
-value = 1900;
+value = 1878;
 },
 {
 name = hheaDescender;
-value = -700;
-},
-{
-name = hheaLineGap;
-value = 0;
+value = -449;
 },
 {
 name = winAscent;
-value = 2600;
+value = 1878;
 },
 {
 name = winDescent;
-value = 800;
+value = 449;
 },
 {
-name = underlineThickness;
-value = 106;
+name = strikeoutPosition;
+value = 618;
+},
+{
+name = strikeoutSize;
+value = 122;
 },
 {
 name = underlinePosition;
-value = -190;
+value = -180;
+},
+{
+name = underlineThickness;
+value = 122;
 }
 );
 guides = (
@@ -1436,7 +1480,7 @@ pos = (-1118,785);
 pos = (-255,1236);
 },
 {
-pos = (-1064,1150);
+pos = (-321,1134);
 },
 {
 pos = (1033,-328);
@@ -1460,16 +1504,10 @@ pos = (482,-426);
 pos = (1155,1740);
 },
 {
-pos = (939,968);
+pos = (977,1332);
 },
 {
 pos = (939,986);
-},
-{
-pos = (-1107,1204);
-},
-{
-pos = (-310,1515);
 },
 {
 pos = (-310,1515);
@@ -1488,16 +1526,20 @@ pos = 1419;
 },
 {
 over = 21;
-pos = 994;
+pos = 992;
 },
 {
 over = -30;
 },
 {
 over = -31;
-pos = -671;
+pos = -444;
 },
 {
+},
+{
+over = 30;
+pos = 1065;
 }
 );
 name = Bold;
@@ -1698,8 +1740,21 @@ type = descender;
 },
 {
 type = "italic angle";
+},
+{
+name = "Small Cap";
 }
 );
+note = "{
+  \"width\" : [
+    90,
+    100
+  ],
+  \"height\" : [
+    79.879999999999995,
+    79.879999999999995
+  ]
+}";
 properties = (
 {
 key = copyrights;

@@ -2,6 +2,27 @@
 glyphname = anoteleia;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(377,990,o),
+(320,990,qs),
+(263,990,o),
+(183,909,o),
+(183,853,qs),
+(183,797,o),
+(264,717,o),
+(320,717,qs),
+(376,717,o),
+(457,797,o),
+(457,853,qs),
+(457,909,o)
+);
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -11,6 +32,27 @@ ref = periodcentered;
 width = 572;
 },
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(457,996,o),
+(377,996,qs),
+(296,996,o),
+(179,879,o),
+(179,799,qs),
+(179,719,o),
+(296,604,o),
+(377,604,qs),
+(457,604,o),
+(574,720,o),
+(574,799,qs),
+(574,878,o)
+);
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {

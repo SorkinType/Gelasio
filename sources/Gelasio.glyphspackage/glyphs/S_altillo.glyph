@@ -52,7 +52,5 @@ nodes = (
 width = 663;
 }
 );
-metricLeft = exclam;
-metricRight = "=|";
 unicode = 42891;
 }

@@ -4,6 +4,19 @@ kernLeft = uni2015;
 kernRight = uni2015;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(232,622,l),
+(232,497,l),
+(1523,497,l),
+(1523,622,l)
+);
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -13,6 +26,19 @@ ref = emdash;
 width = 1755;
 },
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(234,656,l),
+(234,493,l),
+(1665,493,l),
+(1665,656,l)
+);
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {

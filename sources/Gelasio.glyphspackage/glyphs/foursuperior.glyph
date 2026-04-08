@@ -2,6 +2,34 @@
 glyphname = foursuperior;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(747,811,l),
+(747,1451,l),
+(629,1451,l),
+(86,828,l),
+(86,702,l),
+(581,702,l),
+(581,470,l),
+(747,470,l),
+(747,702,l),
+(906,702,l),
+(906,811,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(581,1264,l),
+(581,811,l),
+(188,811,l)
+);
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -12,6 +40,34 @@ ref = four.dnom;
 width = 1024;
 },
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(834,863,l),
+(834,1455,l),
+(626,1455,l),
+(124,855,l),
+(124,716,l),
+(601,716,l),
+(601,470,l),
+(834,470,l),
+(834,716,l),
+(989,716,l),
+(989,863,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(601,1284,l),
+(601,863,l),
+(247,863,l)
+);
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
@@ -22,7 +78,5 @@ ref = four.dnom;
 width = 1130;
 }
 );
-metricLeft = four;
-metricRight = four;
 unicode = 8308;
 }

@@ -1,0 +1,40 @@
+{
+glyphname = "es-cy";
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = c;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = c;
+}
+);
+width = 930;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = c;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = c;
+}
+);
+width = 1088;
+}
+);
+unicode = 1089;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = "ushort-cy.smcp";
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = "u-cy.smcp";
+},
+{
+alignment = -1;
+pos = (45,-325);
+ref = glyph00853;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+width = 1200;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = "u-cy.smcp";
+},
+{
+alignment = -1;
+pos = (152,-325);
+ref = glyph00853;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+width = 1200;
+}
+);
+}

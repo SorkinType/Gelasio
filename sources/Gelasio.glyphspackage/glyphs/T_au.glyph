@@ -2,6 +2,14 @@
 glyphname = Tau;
 layers = (
 {
+background = {
+shapes = (
+{
+alignment = -1;
+ref = T;
+}
+);
+};
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
@@ -11,6 +19,14 @@ ref = T;
 width = 1267;
 },
 {
+background = {
+shapes = (
+{
+alignment = -1;
+ref = T;
+}
+);
+};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {

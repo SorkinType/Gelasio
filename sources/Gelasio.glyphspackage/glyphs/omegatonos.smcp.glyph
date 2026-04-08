@@ -1,0 +1,57 @@
+{
+glyphname = omegatonos.smcp;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = omega.smcp;
+},
+{
+alignment = -1;
+pos = (109,43);
+ref = tonos;
+}
+);
+};
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (684,0);
+ref = tonos;
+}
+);
+width = 1634;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = omega.smcp;
+},
+{
+alignment = -1;
+pos = (250,43);
+ref = tonos;
+}
+);
+};
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (653,0);
+ref = tonos;
+}
+);
+width = 1716;
+}
+);
+}

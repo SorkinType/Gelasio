@@ -30,7 +30,5 @@ ref = ogonekcomb;
 width = 1302;
 }
 );
-metricLeft = o;
-metricRight = o;
 unicode = 491;
 }
