@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 4;
 glyphname = "Shcha-cy";
 kernLeft = B;
 kernRight = cyr_De;
@@ -201,7 +201,7 @@ nodes = (
 );
 }
 );
-width = 2464;
+width = 2639;
 },
 {
 anchors = (
@@ -400,7 +400,7 @@ nodes = (
 );
 }
 );
-width = 2222;
+width = 2249;
 },
 {
 anchors = (

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = chi.smcp;
 layers = (
 {
@@ -16,7 +17,7 @@ shapes = (
 ref = x.smcp;
 }
 );
-width = 1383;
+width = 1242;
 },
 {
 background = {
@@ -33,7 +34,7 @@ shapes = (
 ref = x.smcp;
 }
 );
-width = 1583;
+width = 1327;
 }
 );
 }

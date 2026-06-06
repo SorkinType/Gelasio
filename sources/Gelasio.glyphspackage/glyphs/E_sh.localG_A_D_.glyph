@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Esh.localGAD;
 layers = (
 {
@@ -8,7 +9,7 @@ shapes = (
 ref = Sigma;
 }
 );
-width = 1421;
+width = 1236;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -17,7 +18,7 @@ shapes = (
 ref = Sigma;
 }
 );
-width = 1500;
+width = 1392;
 }
 );
 }

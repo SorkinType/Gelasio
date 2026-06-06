@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = three.lnum;
 kernLeft = three.lf;
 kernRight = three.lf;
@@ -219,7 +220,7 @@ name = hr01;
 );
 }
 );
-width = 1280;
+width = 1233;
 }
 );
 }

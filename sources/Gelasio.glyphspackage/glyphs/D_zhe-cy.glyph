@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 4;
 glyphname = "Dzhe-cy";
 kernLeft = B;
 kernRight = H;
@@ -21,17 +21,6 @@ pos = (910,1462);
 );
 background = {
 shapes = (
-{
-closed = 0;
-nodes = (
-(547,0,ls),
-(711,0,o),
-(777,-74,o),
-(808,-246,cs),
-(830,-369,l),
-(994,-369,l)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -190,7 +179,7 @@ nodes = (
 );
 }
 );
-width = 1811;
+width = 1846;
 },
 {
 anchors = (
@@ -209,16 +198,6 @@ pos = (815,1462);
 );
 background = {
 shapes = (
-{
-closed = 0;
-nodes = (
-(1112,0,ls),
-(970,0,o),
-(919,-82,o),
-(899,-188,cs),
-(862,-389,l)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -371,7 +350,7 @@ nodes = (
 );
 }
 );
-width = 1619;
+width = 1659;
 },
 {
 anchors = (

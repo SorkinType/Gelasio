@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 4;
 glyphname = "Softsign-cy";
 kernLeft = B;
 kernRight = cyr_Softsign;
@@ -17,17 +17,6 @@ pos = (476,1462);
 );
 background = {
 shapes = (
-{
-closed = 0;
-nodes = (
-(887,1462,l),
-(887,1337,l),
-(797,1337,ls),
-(742,1337,o),
-(699,1303,o),
-(699,1229,cs)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -147,7 +136,7 @@ nodes = (
 );
 }
 );
-width = 1465;
+width = 1503;
 },
 {
 anchors = (
@@ -281,7 +270,7 @@ nodes = (
 );
 }
 );
-width = 1269;
+width = 1312;
 },
 {
 anchors = (
@@ -484,21 +473,6 @@ pos = (418,1462);
 }
 );
 associatedMasterId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
-background = {
-shapes = (
-{
-closed = 0;
-nodes = (
-(829,1462,l),
-(829,1337,l),
-(739,1337,ls),
-(684,1337,o),
-(641,1303,o),
-(641,1229,cs)
-);
-}
-);
-};
 layerId = "5F3DA68E-255C-43F8-A044-316DFD01F808";
 name = "20. Dec 24, 18:27";
 shapes = (

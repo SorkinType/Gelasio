@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = Hbar;
 kernLeft = H;
 kernRight = H;

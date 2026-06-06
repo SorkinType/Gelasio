@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = five.dnom;
 kernLeft = five.dnom;
 kernRight = five.dnom;

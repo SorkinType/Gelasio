@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = bdotbelow.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = b.smcp;
 },
 {
-pos = (639,0);
+pos = (586,0);
 ref = dotbelowcomb;
 }
 );
-width = 1277;
+width = 1152;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = b.smcp;
 },
 {
-pos = (745,0);
+pos = (622,0);
 ref = dotbelowcomb;
 }
 );
-width = 1489;
+width = 1262;
 }
 );
 }

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = Germandbls;
 kernLeft = uni1E9E;
 kernRight = uni1E9E;

@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 5;
 glyphname = "Psi-cy";
 kernLeft = "Psi-cy";
 kernRight = "Psi-cy";
@@ -21,7 +22,7 @@ shapes = (
 ref = Psi;
 }
 );
-width = 1708;
+width = 1791;
 },
 {
 anchors = (
@@ -40,7 +41,7 @@ shapes = (
 ref = Psi;
 }
 );
-width = 2163;
+width = 2071;
 }
 );
 script = cyrillic;

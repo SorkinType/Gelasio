@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = circumflexcomb.case;
 kernLeft = circumflex;
 kernRight = circumflex;

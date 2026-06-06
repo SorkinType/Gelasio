@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Idotaccent;
 kernLeft = I;
 kernRight = I;

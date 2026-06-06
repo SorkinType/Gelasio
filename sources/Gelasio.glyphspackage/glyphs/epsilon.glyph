@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 5;
 glyphname = epsilon;
 layers = (
 {
@@ -159,12 +159,13 @@ nodes = (
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 pos = (1130,0);
 ref = three.dnom;
 scale = (-1,1);
 }
 );
-width = 1130;
+width = 1097;
 }
 );
 unicode = 949;

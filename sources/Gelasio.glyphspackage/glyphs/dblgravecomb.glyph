@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = dblgravecomb;
 kernLeft = hungarumlautcomb;
 kernRight = hungarumlautcomb;

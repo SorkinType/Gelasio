@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Abrevegrave;
 kernLeft = A;
 kernRight = A;

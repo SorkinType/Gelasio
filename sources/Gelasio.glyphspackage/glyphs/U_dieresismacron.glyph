@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Udieresismacron;
 kernLeft = U;
 kernRight = U;

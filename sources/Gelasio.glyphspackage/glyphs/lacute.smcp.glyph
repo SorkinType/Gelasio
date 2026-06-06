@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = lacute.smcp;
 layers = (
 {
@@ -24,14 +25,14 @@ ref = acutecomb;
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
-ref = l;
+ref = l.smcp;
 },
 {
-pos = (278,521);
-ref = acutecomb.case;
+pos = (-71,71);
+ref = acutecomb;
 }
 );
-width = 586;
+width = 1078;
 },
 {
 anchors = (
@@ -56,14 +57,14 @@ ref = acutecomb;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
-ref = l;
+ref = l.smcp;
 },
 {
-pos = (268,486);
-ref = acutecomb.case;
+pos = (35,71);
+ref = acutecomb;
 }
 );
-width = 705;
+width = 1196;
 }
 );
 }

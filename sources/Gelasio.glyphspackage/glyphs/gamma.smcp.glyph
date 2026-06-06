@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = gamma.smcp;
 layers = (
 {
@@ -68,7 +69,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 971;
 },
 {
 background = {
@@ -135,7 +136,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1118;
 }
 );
 }

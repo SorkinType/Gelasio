@@ -1,28 +1,11 @@
 {
 category = Symbol;
+color = 4;
 glyphname = whiteSquare;
 layers = (
 {
 background = {
 shapes = (
-{
-closed = 1;
-nodes = (
-(1090,0,l),
-(1090,944,l),
-(146,944,l),
-(146,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1014,76,l),
-(222,76,l),
-(222,868,l),
-(1014,868,l)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -69,24 +52,6 @@ width = 1237;
 {
 background = {
 shapes = (
-{
-closed = 1;
-nodes = (
-(1090,0,l),
-(1090,944,l),
-(146,944,l),
-(146,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1014,76,l),
-(222,76,l),
-(222,868,l),
-(1014,868,l)
-);
-},
 {
 closed = 1;
 nodes = (

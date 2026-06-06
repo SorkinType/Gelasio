@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 5;
 glyphname = thetamod;
 layers = (
 {
@@ -20,7 +21,7 @@ ref = theta;
 scale = (0.65,0.6);
 }
 );
-width = 798;
+width = 740;
 },
 {
 anchors = (
@@ -36,6 +37,7 @@ pos = (426,1526);
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = theta;
 scale = (0.65,0.6);
 }

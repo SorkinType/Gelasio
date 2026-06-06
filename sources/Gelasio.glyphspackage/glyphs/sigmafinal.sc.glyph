@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = sigmafinal.sc;
 kernLeft = GRK_Sigma.sc;
 kernRight = GRK_Sigma.sc;
@@ -10,7 +11,7 @@ shapes = (
 ref = sigmafinal.smcp;
 }
 );
-width = 1200;
+width = 993;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -19,7 +20,7 @@ shapes = (
 ref = sigmafinal.smcp;
 }
 );
-width = 1200;
+width = 1128;
 }
 );
 }

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = gmacron;
 kernLeft = o;
 kernRight = g;

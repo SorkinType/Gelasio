@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = xdieresis.smcp;
 layers = (
 {
@@ -8,24 +9,26 @@ shapes = (
 ref = x.smcp;
 },
 {
-pos = (711,241);
+pos = (598,71);
 ref = dieresiscomb;
 }
 );
-width = 1383;
+width = 1242;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = x.smcp;
 },
 {
+alignment = -1;
 pos = (879,242);
 ref = dieresiscomb;
 }
 );
-width = 1583;
+width = 1378;
 }
 );
 }

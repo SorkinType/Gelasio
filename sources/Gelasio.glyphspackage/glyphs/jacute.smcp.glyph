@@ -1,31 +1,32 @@
 {
+color = 5;
 glyphname = jacute.smcp;
 layers = (
 {
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
-ref = jdotless;
+ref = jdotless.smcp;
 },
 {
-pos = (-112,0);
+pos = (204,71);
 ref = acutecomb;
 }
 );
-width = 598;
+width = 930;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
-ref = jdotless;
+ref = jdotless.smcp;
 },
 {
-pos = (-24,0);
+pos = (307,71);
 ref = acutecomb;
 }
 );
-width = 709;
+width = 1049;
 }
 );
 }

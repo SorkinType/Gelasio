@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "er-cy.smcp";
 layers = (
 {
@@ -16,7 +17,7 @@ shapes = (
 ref = p.smcp;
 }
 );
-width = 1191;
+width = 1073;
 },
 {
 background = {
@@ -33,7 +34,7 @@ shapes = (
 ref = p.smcp;
 }
 );
-width = 1378;
+width = 1162;
 }
 );
 }

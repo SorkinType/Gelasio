@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = six.lnum;
 kernLeft = six.lf;
 kernRight = six.lf;
@@ -157,7 +158,7 @@ nodes = (
 );
 }
 );
-width = 1327;
+width = 1315;
 }
 );
 userData = {

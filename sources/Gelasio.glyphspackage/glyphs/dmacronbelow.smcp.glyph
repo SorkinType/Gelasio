@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = dmacronbelow.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = d.smcp;
 },
 {
-pos = (326,0);
+pos = (240,0);
 ref = macronbelowcomb;
 }
 );
-width = 1451;
+width = 1298;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = d.smcp;
 },
 {
-pos = (425,0);
+pos = (244,0);
 ref = macronbelowcomb;
 }
 );
-width = 1625;
+width = 1343;
 }
 );
 }

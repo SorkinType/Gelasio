@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = cdotaccent.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = c.smcp;
 },
 {
-pos = (706,242);
+pos = (643,71);
 ref = dotaccentcomb;
 }
 );
-width = 1247;
+width = 1116;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = c.smcp;
 },
 {
-pos = (836,242);
+pos = (690,71);
 ref = dotaccentcomb;
 }
 );
-width = 1397;
+width = 1156;
 }
 );
 }

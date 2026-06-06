@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "iishort-cy.smcp";
 layers = (
 {
@@ -25,7 +26,7 @@ pos = (766,152);
 ref = brevecomb;
 }
 );
-width = 1524;
+width = 1391;
 },
 {
 background = {
@@ -44,14 +45,16 @@ ref = glyph00853;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = "ii-cy.smcp";
 },
 {
+alignment = -1;
 pos = (926,174);
 ref = brevecomb;
 }
 );
-width = 1844;
+width = 1575;
 }
 );
 }

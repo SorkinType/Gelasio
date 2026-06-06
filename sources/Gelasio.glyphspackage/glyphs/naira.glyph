@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = naira;
 kernLeft = uni20A6;
 kernRight = uni20A6;

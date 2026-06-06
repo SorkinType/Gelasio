@@ -1,6 +1,6 @@
 {
 category = Mark;
-color = 6;
+color = 4;
 glyphname = tonos;
 kernLeft = GRK_Alpha;
 kernRight = GRK_Alpha;
@@ -46,7 +46,7 @@ nodes = (
 );
 }
 );
-width = 551;
+width = 1024;
 },
 {
 anchors = (
@@ -89,7 +89,7 @@ nodes = (
 );
 }
 );
-width = 463;
+width = 1024;
 }
 );
 script = greek;

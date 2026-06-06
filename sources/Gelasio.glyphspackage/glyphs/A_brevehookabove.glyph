@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Abrevehookabove;
 kernLeft = A;
 kernRight = A;

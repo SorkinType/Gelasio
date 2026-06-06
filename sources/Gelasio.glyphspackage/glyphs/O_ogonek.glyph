@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Oogonek;
 kernLeft = Oogonek;
 kernRight = Oogonek;

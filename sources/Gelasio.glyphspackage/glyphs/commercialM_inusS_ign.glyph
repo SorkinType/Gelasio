@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = commercialMinusSign;
 kernLeft = uni2052;
 kernRight = uni2052;

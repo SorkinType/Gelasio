@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 4;
 glyphname = lambda;
 layers = (
 {
@@ -131,7 +131,7 @@ nodes = (
 );
 }
 );
-width = 1008;
+width = 999;
 },
 {
 anchors = (
@@ -264,7 +264,7 @@ name = hr00;
 );
 }
 );
-width = 1151;
+width = 1081;
 }
 );
 unicode = 955;

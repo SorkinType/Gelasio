@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = minute;
 kernLeft = minute;
 kernRight = minute;

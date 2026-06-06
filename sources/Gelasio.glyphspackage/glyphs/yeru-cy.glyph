@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 8;
 glyphname = "yeru-cy";
 kernLeft = n;
 kernRight = u;
@@ -149,7 +149,7 @@ nodes = (
 ref = "softsign-cy";
 }
 );
-width = 1917;
+width = 1874;
 },
 {
 background = {
@@ -294,7 +294,7 @@ nodes = (
 ref = "softsign-cy";
 }
 );
-width = 1673;
+width = 1552;
 }
 );
 unicode = 1099;

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = napostrophe;
 layers = (
 {
@@ -25,7 +26,7 @@ ref = apostrophemod;
 ref = n;
 }
 );
-width = 464;
+width = 1320;
 },
 {
 background = {
@@ -51,7 +52,7 @@ ref = apostrophemod;
 ref = n;
 }
 );
-width = 550;
+width = 1694;
 }
 );
 unicode = 329;

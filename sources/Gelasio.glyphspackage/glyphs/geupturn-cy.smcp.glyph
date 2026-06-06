@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "geupturn-cy.smcp";
 layers = (
 {
@@ -95,7 +96,7 @@ height = 73;
 width = 90;
 };
 };
-width = 1053;
+width = 971;
 },
 {
 anchors = (
@@ -192,7 +193,7 @@ height = 73;
 width = 90;
 };
 };
-width = 1148;
+width = 1110;
 }
 );
 userData = {

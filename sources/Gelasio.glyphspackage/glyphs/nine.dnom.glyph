@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = nine.dnom;
 kernLeft = nine.dnom;
 kernRight = nine.dnom;

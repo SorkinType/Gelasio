@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = "sha-cy";
 kernLeft = n;
 kernRight = u;
@@ -184,7 +184,7 @@ nodes = (
 );
 }
 );
-width = 2022;
+width = 2026;
 },
 {
 anchors = (
@@ -203,17 +203,6 @@ pos = (928,1098);
 );
 background = {
 shapes = (
-{
-closed = 0;
-nodes = (
-(834,868,ls),
-(834,993,o),
-(770,1012,o),
-(694,1012,cs),
-(688,1012,l),
-(688,1098,l)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -371,7 +360,7 @@ nodes = (
 );
 }
 );
-width = 1855;
+width = 1768;
 },
 {
 anchors = (

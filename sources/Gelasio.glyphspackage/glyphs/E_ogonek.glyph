@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Eogonek;
 kernLeft = H;
 kernRight = E;

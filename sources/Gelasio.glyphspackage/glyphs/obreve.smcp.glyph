@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = obreve.smcp;
 kernLeft = o;
 kernRight = o;
@@ -23,11 +24,11 @@ shapes = (
 ref = o.smcp;
 },
 {
-pos = (726,227);
+pos = (642,71);
 ref = brevecomb;
 }
 );
-width = 1441;
+width = 1284;
 },
 {
 background = {
@@ -49,11 +50,11 @@ shapes = (
 ref = o.smcp;
 },
 {
-pos = (797,241);
+pos = (656,71);
 ref = brevecomb;
 }
 );
-width = 1596;
+width = 1310;
 }
 );
 }

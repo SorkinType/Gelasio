@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = nu.smcp;
 layers = (
 {
@@ -16,7 +17,7 @@ shapes = (
 ref = n.smcp;
 }
 );
-width = 1482;
+width = 1320;
 },
 {
 background = {
@@ -33,7 +34,7 @@ shapes = (
 ref = n.smcp;
 }
 );
-width = 1630;
+width = 1332;
 }
 );
 }

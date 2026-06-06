@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = rupeeIndian;
 kernLeft = uni20B9;
 kernRight = uni20B9;

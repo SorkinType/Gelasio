@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 4;
 glyphname = "hardsign-cy";
 kernLeft = cyr_te;
 kernRight = cyr_softsign;
@@ -145,7 +145,7 @@ nodes = (
 );
 }
 );
-width = 1456;
+width = 1394;
 },
 {
 anchors = (
@@ -164,18 +164,6 @@ pos = (526,1098);
 );
 background = {
 shapes = (
-{
-closed = 0;
-nodes = (
-(68,1098,l),
-(55,737,l),
-(152,737,l),
-(166,817,ls),
-(190,952,o),
-(215,991,o),
-(309,991,cs)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -298,7 +286,7 @@ nodes = (
 );
 }
 );
-width = 1276;
+width = 1183;
 },
 {
 anchors = (

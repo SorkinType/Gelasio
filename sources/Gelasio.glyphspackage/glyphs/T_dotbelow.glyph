@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Tdotbelow;
 kernLeft = T;
 kernRight = T;

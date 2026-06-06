@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = lslash.smcp;
 kernLeft = lslash;
 kernRight = lslash;
@@ -78,7 +79,7 @@ pos = (32,0);
 ref = l;
 }
 );
-width = 586;
+width = 1014;
 },
 {
 background = {
@@ -154,7 +155,7 @@ pos = (18,0);
 ref = l;
 }
 );
-width = 705;
+width = 1153;
 }
 );
 }

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Odotaccentmacron;
 kernLeft = O;
 kernRight = O;
@@ -10,11 +11,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (748,425);
+pos = (761,425);
 ref = dotaccentcomb.case;
 },
 {
-pos = (748,756);
+pos = (761,756);
 ref = macroncomb.case;
 }
 );

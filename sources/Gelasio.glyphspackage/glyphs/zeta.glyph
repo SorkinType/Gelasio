@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 4;
 glyphname = zeta;
 kernLeft = GRK_zeta;
 kernRight = GRK_zeta;
@@ -145,7 +146,7 @@ nodes = (
 );
 }
 );
-width = 961;
+width = 947;
 },
 {
 anchors = (
@@ -289,7 +290,7 @@ nodes = (
 );
 }
 );
-width = 872;
+width = 827;
 }
 );
 script = greek;

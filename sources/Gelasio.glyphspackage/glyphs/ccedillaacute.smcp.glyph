@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ccedillaacute.smcp;
 kernLeft = o;
 kernRight = c;
@@ -10,15 +11,15 @@ shapes = (
 ref = c.smcp;
 },
 {
-pos = (624,0);
+pos = (612,0);
 ref = cedillacomb;
 },
 {
-pos = (292,242);
+pos = (229,71);
 ref = acutecomb;
 }
 );
-width = 1247;
+width = 1116;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -27,15 +28,15 @@ shapes = (
 ref = c.smcp;
 },
 {
-pos = (446,0);
+pos = (382,0);
 ref = cedillacomb;
 },
 {
-pos = (454,242);
+pos = (308,71);
 ref = acutecomb;
 }
 );
-width = 1397;
+width = 1156;
 }
 );
 }

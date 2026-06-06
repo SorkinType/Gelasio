@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 5;
 glyphname = Etatonos;
 layers = (
 {
@@ -47,14 +47,16 @@ ref = colontriangularhalfmod;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = Eta;
 },
 {
+alignment = -1;
 pos = (-451,-43);
 ref = tonos.case;
 }
 );
-width = 1870;
+width = 2196;
 }
 );
 unicode = 905;

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ogonek;
 kernLeft = ogonek;
 kernRight = ogonek;
@@ -38,7 +39,7 @@ pos = (356,0);
 ref = ogonekcomb;
 }
 );
-width = 550;
+width = 1024;
 },
 {
 background = {
@@ -71,7 +72,7 @@ pos = (378,0);
 ref = ogonekcomb;
 }
 );
-width = 570;
+width = 1024;
 }
 );
 unicode = 731;

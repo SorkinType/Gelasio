@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = theta.smcp;
 layers = (
 {
@@ -66,11 +67,11 @@ shapes = (
 ref = o.smcp;
 },
 {
-pos = (726,227);
+pos = (642,71);
 ref = macroncomb;
 }
 );
-width = 1441;
+width = 1284;
 },
 {
 background = {
@@ -140,11 +141,11 @@ shapes = (
 ref = o.smcp;
 },
 {
-pos = (797,241);
+pos = (656,71);
 ref = macroncomb;
 }
 );
-width = 1596;
+width = 1310;
 }
 );
 }

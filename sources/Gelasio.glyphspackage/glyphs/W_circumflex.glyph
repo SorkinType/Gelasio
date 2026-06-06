@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Wcircumflex;
 kernLeft = W;
 kernRight = W;

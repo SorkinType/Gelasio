@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Yhookabove;
 kernLeft = Y;
 kernRight = Y;

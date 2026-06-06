@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = two.lnum;
 kernLeft = two.lf;
 kernRight = two.lf;
@@ -93,7 +94,7 @@ nodes = (
 );
 }
 );
-width = 1144;
+width = 1137;
 },
 {
 background = {
@@ -184,7 +185,7 @@ name = hr00;
 );
 }
 );
-width = 1282;
+width = 1249;
 }
 );
 }

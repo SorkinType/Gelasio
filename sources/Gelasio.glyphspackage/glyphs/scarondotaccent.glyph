@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = scarondotaccent;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (-83,0);
+pos = (-83,-8);
 ref = caroncomb;
 },
 {
-pos = (444,426);
+pos = (444,418);
 ref = dotaccentcomb;
 }
 );

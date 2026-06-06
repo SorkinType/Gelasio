@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = kappa.smcp;
 layers = (
 {
@@ -16,7 +17,7 @@ shapes = (
 ref = k.smcp;
 }
 );
-width = 1358;
+width = 1252;
 },
 {
 background = {
@@ -33,7 +34,7 @@ shapes = (
 ref = k.smcp;
 }
 );
-width = 1609;
+width = 1450;
 }
 );
 }

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = Xi;
 layers = (
 {
@@ -199,7 +200,7 @@ nodes = (
 );
 }
 );
-width = 1500;
+width = 1420;
 },
 {
 background = {
@@ -387,7 +388,7 @@ nodes = (
 );
 }
 );
-width = 1488;
+width = 1570;
 }
 );
 unicode = 926;

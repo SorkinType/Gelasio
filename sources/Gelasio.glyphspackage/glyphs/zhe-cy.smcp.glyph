@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "zhe-cy.smcp";
 layers = (
 {
@@ -233,7 +234,7 @@ height = 73;
 width = 90;
 };
 };
-width = 1848;
+width = 1700;
 },
 {
 anchors = (
@@ -460,7 +461,7 @@ height = 73;
 width = 90;
 };
 };
-width = 2135;
+width = 1942;
 }
 );
 userData = {

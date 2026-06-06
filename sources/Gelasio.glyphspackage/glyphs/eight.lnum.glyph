@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = eight.lnum;
 kernLeft = eight.lf;
 kernRight = eight.lf;
@@ -221,7 +222,7 @@ name = hr05;
 );
 }
 );
-width = 1384;
+width = 1343;
 }
 );
 }

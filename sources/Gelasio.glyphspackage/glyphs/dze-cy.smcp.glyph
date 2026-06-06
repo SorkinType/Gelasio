@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "dze-cy.smcp";
 layers = (
 {
@@ -16,7 +17,7 @@ shapes = (
 ref = s.smcp;
 }
 );
-width = 1098;
+width = 992;
 },
 {
 background = {
@@ -33,7 +34,7 @@ shapes = (
 ref = s.smcp;
 }
 );
-width = 1278;
+width = 1082;
 }
 );
 }

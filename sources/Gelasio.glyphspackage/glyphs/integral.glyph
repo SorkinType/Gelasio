@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = integral;
 kernLeft = integral;
 kernRight = integral;

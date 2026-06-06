@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = guillemetright.case;
 kernLeft = guillemetright;
 kernRight = guillemetright;

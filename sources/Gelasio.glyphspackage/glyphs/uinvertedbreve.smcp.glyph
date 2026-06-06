@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = uinvertedbreve.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (761,241);
+pos = (682,71);
 ref = breveinvertedcomb;
 }
 );
-width = 1463;
+width = 1304;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (864,241);
+pos = (720,71);
 ref = breveinvertedcomb;
 }
 );
-width = 1621;
+width = 1331;
 }
 );
 }

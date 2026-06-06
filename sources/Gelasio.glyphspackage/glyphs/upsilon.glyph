@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 4;
 glyphname = upsilon;
 kernLeft = GRK_upsilon;
 kernRight = GRK_upsilon;
@@ -116,7 +117,7 @@ nodes = (
 );
 }
 );
-width = 1325;
+width = 1214;
 },
 {
 anchors = (

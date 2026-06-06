@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = lcaron;
 kernLeft = h;
 layers = (
@@ -28,7 +29,7 @@ pos = (578,22);
 ref = caroncomb.alt;
 }
 );
-width = 733;
+width = 771;
 },
 {
 background = {
@@ -56,7 +57,7 @@ pos = (710,22);
 ref = caroncomb.alt;
 }
 );
-width = 808;
+width = 1039;
 }
 );
 unicode = 318;

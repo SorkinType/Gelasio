@@ -1,5 +1,6 @@
 {
 category = Symbol;
+color = 4;
 glyphname = nordicMark;
 layers = (
 {
@@ -233,7 +234,7 @@ nodes = (
 );
 }
 );
-width = 1337;
+width = 1353;
 },
 {
 background = {
@@ -466,7 +467,7 @@ nodes = (
 );
 }
 );
-width = 1337;
+width = 1523;
 }
 );
 script = "";

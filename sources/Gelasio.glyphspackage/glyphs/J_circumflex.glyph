@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Jcircumflex;
 kernLeft = J;
 kernRight = U;
@@ -23,7 +24,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (726,425);
+pos = (710,425);
 ref = circumflexcomb.case;
 }
 );
@@ -32,13 +33,6 @@ width = 1060;
 {
 background = {
 shapes = (
-{
-ref = J;
-},
-{
-pos = (215,-12);
-ref = circumflex.cap;
-},
 {
 alignment = -1;
 ref = J;

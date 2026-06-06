@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = Uhorn;
 kernLeft = U;
 kernRight = U;

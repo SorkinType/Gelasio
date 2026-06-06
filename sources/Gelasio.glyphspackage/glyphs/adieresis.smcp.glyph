@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = adieresis.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (654,260);
+pos = (598,71);
 ref = dieresiscomb;
 }
 );
-width = 1305;
+width = 1171;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (742,260);
+pos = (596,71);
 ref = dieresiscomb;
 }
 );
-width = 1484;
+width = 1239;
 }
 );
 }

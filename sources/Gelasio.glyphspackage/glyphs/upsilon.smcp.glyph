@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = upsilon.smcp;
 layers = (
 {
@@ -16,7 +17,7 @@ shapes = (
 ref = y.smcp;
 }
 );
-width = 1207;
+width = 1135;
 },
 {
 background = {
@@ -33,7 +34,7 @@ shapes = (
 ref = y.smcp;
 }
 );
-width = 1446;
+width = 1374;
 }
 );
 }

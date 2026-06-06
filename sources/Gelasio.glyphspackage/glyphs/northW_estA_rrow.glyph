@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = northWestArrow;
 kernLeft = northWestArrow;
 kernRight = northWestArrow;

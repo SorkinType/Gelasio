@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = ringcomb;
 kernLeft = ring;
 kernRight = ring;

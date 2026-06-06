@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = sacutedotaccent;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (30,0);
+pos = (30,-8);
 ref = acutecomb;
 },
 {
-pos = (444,467);
+pos = (444,459);
 ref = dotaccentcomb;
 }
 );

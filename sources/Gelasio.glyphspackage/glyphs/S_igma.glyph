@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = Sigma;
 layers = (
 {
@@ -108,7 +109,7 @@ nodes = (
 );
 }
 );
-width = 1421;
+width = 1236;
 },
 {
 anchors = (
@@ -225,7 +226,7 @@ name = hr00;
 );
 }
 );
-width = 1500;
+width = 1392;
 }
 );
 unicode = 931;

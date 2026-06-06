@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = careof;
 layers = (
 {
@@ -209,7 +209,7 @@ nodes = (
 );
 }
 );
-width = 2141;
+width = 1674;
 },
 {
 anchors = (
@@ -424,7 +424,7 @@ nodes = (
 );
 }
 );
-width = 2450;
+width = 1801;
 }
 );
 unicode = 8453;

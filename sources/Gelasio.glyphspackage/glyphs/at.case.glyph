@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = at.case;
 kernLeft = at.cap;
 kernRight = at.cap;

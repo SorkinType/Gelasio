@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = phi.smcp;
 layers = (
 {
@@ -137,7 +138,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1290;
 },
 {
 background = {
@@ -282,7 +283,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1567;
 }
 );
 }

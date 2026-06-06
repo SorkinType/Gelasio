@@ -1,5 +1,5 @@
 {
-color = 6;
+color = 5;
 glyphname = "Iishort-cy";
 kernLeft = B;
 kernRight = H;
@@ -131,7 +131,7 @@ pos = (926,468);
 ref = brevecomb.case;
 }
 );
-width = 1844;
+width = 1887;
 },
 {
 background = {
@@ -261,7 +261,7 @@ pos = (837,425);
 ref = brevecomb.case;
 }
 );
-width = 1664;
+width = 1676;
 }
 );
 unicode = 1049;

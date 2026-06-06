@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ygrave.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = y.smcp;
 },
 {
-pos = (-3,242);
+pos = (-14,71);
 ref = gravecomb;
 }
 );
-width = 1207;
+width = 1135;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = y.smcp;
 },
 {
-pos = (162,242);
+pos = (206,71);
 ref = gravecomb;
 }
 );
-width = 1446;
+width = 1374;
 }
 );
 }

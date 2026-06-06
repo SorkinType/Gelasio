@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = parenleft.case;
 kernLeft = parenleft;
 kernRight = parenleft;

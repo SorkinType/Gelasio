@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = lira;
 kernLeft = lira;
 kernRight = lira;

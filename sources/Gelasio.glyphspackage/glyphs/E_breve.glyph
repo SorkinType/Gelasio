@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Ebreve;
 kernLeft = H;
 kernRight = E;

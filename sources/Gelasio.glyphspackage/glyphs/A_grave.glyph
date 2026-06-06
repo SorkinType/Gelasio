@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Agrave;
 kernLeft = A;
 kernRight = A;

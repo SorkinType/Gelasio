@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = dieresisbelowcomb.case;
 kernLeft = dotbelowcomb;
 kernRight = dotbelowcomb;

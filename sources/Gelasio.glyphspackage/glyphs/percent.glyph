@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = percent;
 kernLeft = percent;
 kernRight = percent;

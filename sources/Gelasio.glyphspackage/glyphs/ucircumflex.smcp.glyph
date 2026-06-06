@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ucircumflex.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (234,241);
+pos = (155,71);
 ref = circumflexcomb;
 }
 );
-width = 1463;
+width = 1304;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (364,241);
+pos = (220,71);
 ref = circumflexcomb;
 }
 );
-width = 1621;
+width = 1331;
 }
 );
 }

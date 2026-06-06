@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = brevecomb_tildecomb;
 kernLeft = brevecomb;
 kernRight = brevecomb;

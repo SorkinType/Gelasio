@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = paragraph;
 kernLeft = paragraph;
 kernRight = paragraph;

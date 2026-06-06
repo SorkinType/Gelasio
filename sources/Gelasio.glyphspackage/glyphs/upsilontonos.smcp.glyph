@@ -1,4 +1,5 @@
 {
+color = 0;
 glyphname = upsilontonos.smcp;
 layers = (
 {
@@ -44,14 +45,16 @@ ref = tonos;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = upsilon;
 },
 {
+alignment = -1;
 pos = (471,0);
 ref = tonos;
 }
 );
-width = 1325;
+width = 1229;
 }
 );
 }

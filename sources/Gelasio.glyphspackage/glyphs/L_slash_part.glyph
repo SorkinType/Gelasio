@@ -1,4 +1,5 @@
 {
+color = 4;
 export = 0;
 glyphname = Lslash_part;
 layers = (

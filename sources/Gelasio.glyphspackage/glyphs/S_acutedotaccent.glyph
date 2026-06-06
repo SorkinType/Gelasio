@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Sacutedotaccent;
 kernLeft = S;
 kernRight = S;

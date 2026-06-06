@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = udblgrave.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (733,241);
+pos = (654,71);
 ref = dblgravecomb;
 }
 );
-width = 1463;
+width = 1304;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (824,241);
+pos = (680,71);
 ref = dblgravecomb;
 }
 );
-width = 1621;
+width = 1331;
 }
 );
 }

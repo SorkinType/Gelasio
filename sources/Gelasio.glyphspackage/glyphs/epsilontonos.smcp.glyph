@@ -1,4 +1,5 @@
 {
+color = 0;
 glyphname = epsilontonos.smcp;
 layers = (
 {
@@ -25,7 +26,7 @@ pos = (1024,0);
 ref = tonos;
 }
 );
-width = 1487;
+width = 2048;
 },
 {
 background = {
@@ -44,14 +45,16 @@ ref = tonos;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = epsilon;
 },
 {
+alignment = -1;
 pos = (1130,0);
 ref = tonos;
 }
 );
-width = 1681;
+width = 1186;
 }
 );
 }

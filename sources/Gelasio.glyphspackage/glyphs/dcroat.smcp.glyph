@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = dcroat.smcp;
 kernLeft = o;
 kernRight = l;
@@ -36,7 +37,7 @@ shapes = (
 ref = eth.smcp;
 }
 );
-width = 1089;
+width = 1298;
 },
 {
 anchors = (
@@ -71,7 +72,7 @@ shapes = (
 ref = eth.smcp;
 }
 );
-width = 1306;
+width = 1343;
 }
 );
 }

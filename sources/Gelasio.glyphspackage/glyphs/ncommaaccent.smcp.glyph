@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ncommaaccent.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = n.smcp;
 },
 {
-pos = (580,0);
+pos = (486,0);
 ref = commaaccentcomb;
 }
 );
-width = 1482;
+width = 1320;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = n.smcp;
 },
 {
-pos = (638,0);
+pos = (509,0);
 ref = commaaccentcomb;
 }
 );
-width = 1630;
+width = 1332;
 }
 );
 }

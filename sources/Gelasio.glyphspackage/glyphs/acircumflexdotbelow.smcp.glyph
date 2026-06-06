@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = acircumflexdotbelow.smcp;
 layers = (
 {
@@ -8,15 +9,15 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (653,0);
+pos = (573,0);
 ref = dotbelowcomb;
 },
 {
-pos = (126,260);
+pos = (70,71);
 ref = circumflexcomb;
 }
 );
-width = 1305;
+width = 1171;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -25,15 +26,15 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (742,0);
+pos = (588,0);
 ref = dotbelowcomb;
 },
 {
-pos = (242,260);
+pos = (96,71);
 ref = circumflexcomb;
 }
 );
-width = 1484;
+width = 1239;
 }
 );
 }

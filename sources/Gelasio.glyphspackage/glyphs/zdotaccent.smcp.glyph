@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = zdotaccent.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = z.smcp;
 },
 {
-pos = (646,241);
+pos = (611,71);
 ref = dotaccentcomb;
 }
 );
-width = 1174;
+width = 1134;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = z.smcp;
 },
 {
-pos = (766,242);
+pos = (725,71);
 ref = dotaccentcomb;
 }
 );
-width = 1354;
+width = 1315;
 }
 );
 }

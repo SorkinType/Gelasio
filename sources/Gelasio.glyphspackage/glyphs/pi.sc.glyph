@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = pi.sc;
 kernLeft = GRK_Beta.sc;
 kernRight = GRK_Eta.sc;

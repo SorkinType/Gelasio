@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = threesuperior;
 kernLeft = threesuperior;
 kernRight = threesuperior;

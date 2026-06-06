@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = dotaccentcomb.case;
 kernLeft = dotaccent.cap;
 kernRight = dotaccent.cap;

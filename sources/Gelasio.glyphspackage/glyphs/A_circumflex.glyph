@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Acircumflex;
 kernLeft = A;
 kernRight = A;

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = sdotbelowdotaccent;
 layers = (
 {
@@ -12,7 +13,7 @@ pos = (436,0);
 ref = dotbelowcomb;
 },
 {
-pos = (444,0);
+pos = (444,-8);
 ref = dotaccentcomb;
 }
 );

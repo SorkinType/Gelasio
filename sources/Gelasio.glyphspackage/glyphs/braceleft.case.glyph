@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = braceleft.case;
 kernLeft = braceleft;
 kernRight = braceleft;

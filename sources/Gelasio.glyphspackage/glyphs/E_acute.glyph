@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Eacute;
 kernLeft = H;
 kernRight = E;

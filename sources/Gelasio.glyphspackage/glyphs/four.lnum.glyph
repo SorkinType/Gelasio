@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = four.lnum;
 kernLeft = four.lf;
 kernRight = four.lf;
@@ -113,7 +114,7 @@ nodes = (
 );
 }
 );
-width = 1329;
+width = 1333;
 }
 );
 }

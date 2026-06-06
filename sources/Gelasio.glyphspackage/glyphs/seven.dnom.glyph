@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = seven.dnom;
 kernLeft = seven.dnom;
 kernRight = seven.dnom;

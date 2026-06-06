@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Aring;
 kernLeft = A;
 kernRight = A;

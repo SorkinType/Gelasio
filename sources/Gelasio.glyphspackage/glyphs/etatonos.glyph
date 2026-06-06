@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = etatonos;
 layers = (
 {
@@ -25,7 +26,7 @@ pos = (422,0);
 ref = tonos;
 }
 );
-width = 1257;
+width = 1169;
 },
 {
 background = {
@@ -51,7 +52,7 @@ pos = (377,0);
 ref = tonos;
 }
 );
-width = 1421;
+width = 1353;
 }
 );
 unicode = 942;

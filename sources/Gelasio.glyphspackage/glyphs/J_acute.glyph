@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Jacute;
 layers = (
 {
@@ -8,7 +9,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (726,425);
+pos = (710,425);
 ref = acutecomb.case;
 }
 );

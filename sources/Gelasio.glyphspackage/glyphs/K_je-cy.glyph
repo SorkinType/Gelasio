@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "Kje-cy";
 layers = (
 {
@@ -25,7 +26,7 @@ pos = (813,425);
 ref = acutecomb.case;
 }
 );
-width = 1456;
+width = 1423;
 },
 {
 background = {
@@ -51,7 +52,7 @@ pos = (810,425);
 ref = acutecomb.case;
 }
 );
-width = 1627;
+width = 1637;
 }
 );
 unicode = 1036;

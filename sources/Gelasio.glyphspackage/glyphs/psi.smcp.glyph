@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = psi.smcp;
 layers = (
 {
@@ -115,7 +116,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1444;
 },
 {
 background = {
@@ -231,7 +232,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1741;
 }
 );
 }

@@ -1,5 +1,5 @@
 {
-color = 0;
+color = 5;
 glyphname = Omegatonos;
 layers = (
 {
@@ -47,14 +47,16 @@ ref = colontriangularhalfmod;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = Omega;
 },
 {
+alignment = -1;
 pos = (1791,0);
 ref = tonos.case;
 }
 );
-width = 2342;
+width = 1967;
 }
 );
 unicode = 911;

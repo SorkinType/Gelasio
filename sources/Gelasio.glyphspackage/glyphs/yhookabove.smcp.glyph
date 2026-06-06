@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = yhookabove.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = y.smcp;
 },
 {
-pos = (414,242);
+pos = (403,71);
 ref = hookabovecomb;
 }
 );
-width = 1207;
+width = 1135;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = y.smcp;
 },
 {
-pos = (539,242);
+pos = (583,71);
 ref = hookabovecomb;
 }
 );
-width = 1446;
+width = 1374;
 }
 );
 }

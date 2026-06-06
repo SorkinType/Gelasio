@@ -1,5 +1,6 @@
 {
 category = Symbol;
+color = 4;
 glyphname = lari;
 layers = (
 {
@@ -126,7 +127,7 @@ nodes = (
 );
 }
 );
-width = 1376;
+width = 1476;
 },
 {
 background = {
@@ -255,7 +256,7 @@ nodes = (
 );
 }
 );
-width = 1432;
+width = 1610;
 }
 );
 script = "";

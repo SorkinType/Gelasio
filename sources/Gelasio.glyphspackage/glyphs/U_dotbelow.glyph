@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Udotbelow;
 kernLeft = U;
 kernRight = U;

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Bdotbelow;
 kernLeft = H;
 kernRight = B;

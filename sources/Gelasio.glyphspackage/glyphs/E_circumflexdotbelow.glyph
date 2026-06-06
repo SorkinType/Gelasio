@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Ecircumflexdotbelow;
 kernLeft = H;
 kernRight = E;

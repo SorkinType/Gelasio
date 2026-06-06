@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = circumflexcomb_tildecomb;
 kernLeft = circumflexcomb;
 kernRight = circumflexcomb;

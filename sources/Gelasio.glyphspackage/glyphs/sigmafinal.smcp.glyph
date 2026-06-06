@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = sigmafinal.smcp;
 layers = (
 {
@@ -63,7 +64,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 993;
 },
 {
 background = {
@@ -128,7 +129,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1128;
 }
 );
 }

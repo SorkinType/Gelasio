@@ -1,5 +1,5 @@
 {
-color = 1;
+color = 4;
 glyphname = "ge-cy";
 kernLeft = n;
 kernRight = cyr_te;
@@ -99,7 +99,7 @@ nodes = (
 );
 }
 );
-width = 1057;
+width = 1019;
 },
 {
 anchors = (
@@ -196,7 +196,7 @@ nodes = (
 );
 }
 );
-width = 975;
+width = 901;
 },
 {
 anchors = (

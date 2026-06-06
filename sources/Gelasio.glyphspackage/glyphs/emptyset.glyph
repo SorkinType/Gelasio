@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = emptyset;
 kernLeft = emptyset;
 kernRight = emptyset;

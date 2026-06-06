@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 4;
 glyphname = kappa;
 kernLeft = GRK_kappa;
 kernRight = GRK_kappa;
@@ -119,7 +120,7 @@ nodes = (
 );
 }
 );
-width = 1315;
+width = 1292;
 },
 {
 anchors = (
@@ -241,7 +242,7 @@ nodes = (
 );
 }
 );
-width = 1085;
+width = 1098;
 }
 );
 script = greek;

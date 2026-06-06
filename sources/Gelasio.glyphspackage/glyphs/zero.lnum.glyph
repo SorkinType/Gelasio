@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = zero.lnum;
 kernLeft = zero.lf;
 kernRight = zero.lf;
@@ -56,7 +57,7 @@ nodes = (
 );
 }
 );
-width = 1306;
+width = 1194;
 },
 {
 anchors = (
@@ -138,7 +139,7 @@ nodes = (
 );
 }
 );
-width = 1436;
+width = 1333;
 }
 );
 }

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = upsilondieresistonos;
 layers = (
 {
@@ -51,7 +52,7 @@ pos = (-18,0);
 ref = dieresistonos;
 }
 );
-width = 1325;
+width = 1214;
 }
 );
 unicode = 944;

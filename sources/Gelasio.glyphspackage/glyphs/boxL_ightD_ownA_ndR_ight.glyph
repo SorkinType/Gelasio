@@ -1,21 +1,11 @@
 {
 category = Symbol;
+color = 4;
 glyphname = boxLightDownAndRight;
 layers = (
 {
 background = {
 shapes = (
-{
-closed = 1;
-nodes = (
-(638,-621,l),
-(813,-621,l),
-(813,534,l),
-(1474,534,l),
-(1474,709,l),
-(638,709,l)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -48,17 +38,6 @@ width = 1451;
 {
 background = {
 shapes = (
-{
-closed = 1;
-nodes = (
-(638,-621,l),
-(813,-621,l),
-(813,534,l),
-(1474,534,l),
-(1474,709,l),
-(638,709,l)
-);
-},
 {
 closed = 1;
 nodes = (

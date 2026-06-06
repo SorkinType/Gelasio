@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = tildecomb.case;
 kernLeft = tilde.cap;
 kernRight = tilde.cap;

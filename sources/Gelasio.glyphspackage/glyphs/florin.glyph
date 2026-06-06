@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = florin;
 kernLeft = florin;
 kernRight = florin;

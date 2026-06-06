@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = partialdiff;
 kernLeft = partialdiff;
 kernRight = partialdiff;

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Ograve;
 kernLeft = O;
 kernRight = O;
@@ -23,7 +24,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (773,425);
+pos = (786,425);
 ref = gravecomb.case;
 }
 );

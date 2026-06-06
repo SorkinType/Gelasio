@@ -1,19 +1,11 @@
 {
 category = Symbol;
+color = 4;
 glyphname = blackSmallSquare;
 layers = (
 {
 background = {
 shapes = (
-{
-closed = 1;
-nodes = (
-(131,445,l),
-(594,445,l),
-(594,908,l),
-(131,908,l)
-);
-},
 {
 closed = 1;
 nodes = (
@@ -42,15 +34,6 @@ width = 726;
 {
 background = {
 shapes = (
-{
-closed = 1;
-nodes = (
-(131,445,l),
-(594,445,l),
-(594,908,l),
-(131,908,l)
-);
-},
 {
 closed = 1;
 nodes = (

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = sterling;
 kernLeft = sterling;
 kernRight = sterling;

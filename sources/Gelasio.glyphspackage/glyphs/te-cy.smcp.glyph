@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "te-cy.smcp";
 layers = (
 {
@@ -16,7 +17,7 @@ shapes = (
 ref = t.smcp;
 }
 );
-width = 1201;
+width = 1072;
 },
 {
 background = {
@@ -33,7 +34,7 @@ shapes = (
 ref = t.smcp;
 }
 );
-width = 1335;
+width = 1099;
 }
 );
 }

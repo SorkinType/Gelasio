@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ncaron.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = n.smcp;
 },
 {
-pos = (216,242);
+pos = (141,71);
 ref = caroncomb;
 }
 );
-width = 1482;
+width = 1320;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = n.smcp;
 },
 {
-pos = (341,242);
+pos = (186,71);
 ref = caroncomb;
 }
 );
-width = 1630;
+width = 1332;
 }
 );
 }

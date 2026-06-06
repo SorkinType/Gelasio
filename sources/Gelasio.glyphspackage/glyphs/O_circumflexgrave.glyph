@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Ocircumflexgrave;
 kernLeft = O;
 kernRight = O;
@@ -10,7 +11,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (748,425);
+pos = (761,425);
 ref = circumflexcomb_gravecomb.case;
 }
 );

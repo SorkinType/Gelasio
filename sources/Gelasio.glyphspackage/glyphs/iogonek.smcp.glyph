@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = iogonek.smcp;
 kernLeft = i;
 kernRight = i;
@@ -20,14 +21,14 @@ ref = ogonek;
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
-ref = i;
+ref = i.smcp;
 },
 {
-pos = (423,0);
+pos = (416,-2);
 ref = ogonekcomb;
 }
 );
-width = 600;
+width = 692;
 },
 {
 background = {
@@ -46,14 +47,14 @@ ref = ogonek;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
-ref = i;
+ref = i.smcp;
 },
 {
-pos = (436,0);
+pos = (368,-2);
 ref = ogonekcomb;
 }
 );
-width = 724;
+width = 788;
 }
 );
 }

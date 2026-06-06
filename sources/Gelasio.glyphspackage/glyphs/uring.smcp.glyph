@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = uring.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (759,241);
+pos = (680,71);
 ref = ringcomb;
 }
 );
-width = 1463;
+width = 1304;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (862,241);
+pos = (718,71);
 ref = ringcomb;
 }
 );
-width = 1621;
+width = 1331;
 }
 );
 }

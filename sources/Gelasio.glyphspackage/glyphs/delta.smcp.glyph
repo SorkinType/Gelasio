@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = delta.smcp;
 layers = (
 {
@@ -53,7 +54,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1133;
 },
 {
 background = {
@@ -107,7 +108,7 @@ nodes = (
 );
 }
 );
-width = 1200;
+width = 1161;
 }
 );
 }

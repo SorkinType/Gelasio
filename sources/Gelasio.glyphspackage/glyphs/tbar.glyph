@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = tbar;
 kernLeft = t;
 kernRight = t;

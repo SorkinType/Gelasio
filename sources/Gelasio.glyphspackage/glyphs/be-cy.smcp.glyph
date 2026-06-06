@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "be-cy.smcp";
 layers = (
 {
@@ -127,7 +128,7 @@ height = 79.89;
 width = 90;
 };
 };
-width = 1203;
+width = 1073;
 },
 {
 anchors = (
@@ -255,7 +256,7 @@ height = 79.89;
 width = 90;
 };
 };
-width = 1413;
+width = 1270;
 }
 );
 userData = {

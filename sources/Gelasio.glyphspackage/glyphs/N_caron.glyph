@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Ncaron;
 kernLeft = H;
 kernRight = H;

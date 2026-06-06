@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = anoteleia;
 layers = (
 {
@@ -29,7 +30,7 @@ shapes = (
 ref = periodcentered;
 }
 );
-width = 572;
+width = 640;
 },
 {
 background = {
@@ -59,7 +60,7 @@ shapes = (
 ref = periodcentered;
 }
 );
-width = 692;
+width = 752;
 }
 );
 unicode = 903;

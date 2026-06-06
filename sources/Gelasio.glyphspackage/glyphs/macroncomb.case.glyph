@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = macroncomb.case;
 kernLeft = macron.cap;
 kernRight = macron.cap;

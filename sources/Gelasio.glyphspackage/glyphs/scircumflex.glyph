@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = scircumflex;
 layers = (
 {
@@ -21,7 +22,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-83,0);
+pos = (-83,-8);
 ref = circumflexcomb;
 }
 );

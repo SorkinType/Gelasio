@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Uhornhookabove;
 kernLeft = U;
 kernRight = U;

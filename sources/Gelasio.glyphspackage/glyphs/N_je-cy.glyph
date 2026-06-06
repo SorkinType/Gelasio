@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 4;
 glyphname = "Nje-cy";
 kernLeft = B;
 kernRight = cyr_Softsign;
@@ -212,7 +212,7 @@ nodes = (
 );
 }
 );
-width = 2317;
+width = 2452;
 },
 {
 anchors = (
@@ -422,7 +422,7 @@ nodes = (
 );
 }
 );
-width = 2133;
+width = 2182;
 },
 {
 anchors = (

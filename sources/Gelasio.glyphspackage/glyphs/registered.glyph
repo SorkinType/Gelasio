@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = registered;
 kernLeft = registered;
 kernRight = registered;

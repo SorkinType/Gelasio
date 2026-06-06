@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = upsilondieresis;
 layers = (
 {
@@ -51,7 +52,7 @@ pos = (676,104);
 ref = dieresiscomb;
 }
 );
-width = 1325;
+width = 1214;
 }
 );
 unicode = 971;

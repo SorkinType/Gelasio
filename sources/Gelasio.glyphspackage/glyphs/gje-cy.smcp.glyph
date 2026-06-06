@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "gje-cy.smcp";
 layers = (
 {
@@ -25,7 +26,7 @@ pos = (184,174);
 ref = acutecomb;
 }
 );
-width = 1093;
+width = 971;
 },
 {
 background = {
@@ -51,7 +52,7 @@ pos = (340,174);
 ref = acutecomb;
 }
 );
-width = 1208;
+width = 1118;
 }
 );
 }

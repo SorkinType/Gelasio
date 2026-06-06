@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 4;
 glyphname = tau;
 kernLeft = GRK_tau;
 kernRight = GRK_tau;
@@ -100,7 +101,7 @@ nodes = (
 );
 }
 );
-width = 1208;
+width = 994;
 },
 {
 anchors = (
@@ -195,7 +196,7 @@ nodes = (
 );
 }
 );
-width = 1036;
+width = 923;
 }
 );
 script = greek;

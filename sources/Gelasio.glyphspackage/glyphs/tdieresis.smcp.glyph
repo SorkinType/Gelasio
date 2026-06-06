@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = tdieresis.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = t.smcp;
 },
 {
-pos = (602,241);
+pos = (537,71);
 ref = dieresiscomb;
 }
 );
-width = 1201;
+width = 1072;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = t.smcp;
 },
 {
-pos = (668,241);
+pos = (580,71);
 ref = dieresiscomb;
 }
 );
-width = 1335;
+width = 1099;
 }
 );
 }

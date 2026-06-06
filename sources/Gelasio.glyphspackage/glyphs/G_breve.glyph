@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Gbreve;
 kernLeft = O;
 kernRight = G;

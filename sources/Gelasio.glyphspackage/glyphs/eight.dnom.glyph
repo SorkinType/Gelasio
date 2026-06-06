@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = eight.dnom;
 kernLeft = eight.dnom;
 kernRight = eight.dnom;

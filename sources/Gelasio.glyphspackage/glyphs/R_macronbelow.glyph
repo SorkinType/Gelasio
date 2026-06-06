@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Rmacronbelow;
 kernLeft = H;
 kernRight = R;

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = aogonek.smcp;
 kernLeft = a;
 kernRight = n;

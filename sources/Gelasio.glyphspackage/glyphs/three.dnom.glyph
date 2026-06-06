@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = three.dnom;
 kernLeft = three.dnom;
 kernRight = three.dnom;

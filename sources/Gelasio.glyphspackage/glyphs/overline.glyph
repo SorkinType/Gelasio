@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = overline;
 layers = (
 {
@@ -37,7 +38,7 @@ nodes = (
 );
 }
 );
-width = 854;
+width = 1317;
 },
 {
 anchors = (
@@ -75,7 +76,7 @@ nodes = (
 );
 }
 );
-width = 854;
+width = 1440;
 }
 );
 unicode = 8254;

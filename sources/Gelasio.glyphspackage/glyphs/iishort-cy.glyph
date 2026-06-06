@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "iishort-cy";
 layers = (
 {
@@ -129,7 +130,7 @@ pos = (680,104);
 ref = brevecomb;
 }
 );
-width = 1359;
+width = 1254;
 },
 {
 background = {
@@ -260,7 +261,7 @@ pos = (719,0);
 ref = brevecomb;
 }
 );
-width = 1438;
+width = 1469;
 }
 );
 unicode = 1081;

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Wacute;
 kernLeft = W;
 kernRight = W;

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Gcaron;
 kernLeft = O;
 kernRight = G;

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = manat;
 kernLeft = uni20BC;
 kernRight = uni20BC;

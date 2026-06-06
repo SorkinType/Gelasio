@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = sacute.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = s.smcp;
 },
 {
-pos = (149,241);
+pos = (94,71);
 ref = acutecomb;
 }
 );
-width = 1098;
+width = 992;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = s.smcp;
 },
 {
-pos = (276,241);
+pos = (176,71);
 ref = acutecomb;
 }
 );
-width = 1278;
+width = 1082;
 }
 );
 }

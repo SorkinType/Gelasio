@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 4;
 glyphname = omega;
 kernLeft = GRK_omicron;
 kernRight = GRK_omicron;
@@ -154,7 +155,7 @@ nodes = (
 );
 }
 );
-width = 1716;
+width = 1664;
 },
 {
 anchors = (
@@ -306,7 +307,7 @@ nodes = (
 );
 }
 );
-width = 1634;
+width = 1464;
 }
 );
 script = greek;

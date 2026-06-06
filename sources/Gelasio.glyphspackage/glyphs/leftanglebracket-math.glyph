@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "leftanglebracket-math";
 kernLeft = uni27E8;
 kernRight = uni27E8;

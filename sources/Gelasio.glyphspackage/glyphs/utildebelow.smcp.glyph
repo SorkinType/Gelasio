@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = utildebelow.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (318,0);
+pos = (231,0);
 ref = tildebelowcomb;
 }
 );
-width = 1463;
+width = 1304;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (353,0);
+pos = (194,0);
 ref = tildebelowcomb;
 }
 );
-width = 1621;
+width = 1331;
 }
 );
 }

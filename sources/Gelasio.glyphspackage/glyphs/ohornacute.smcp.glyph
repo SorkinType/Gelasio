@@ -1,31 +1,32 @@
 {
+color = 5;
 glyphname = ohornacute.smcp;
 layers = (
 {
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
-ref = ohorn;
+ref = ohorn.smcp;
 },
 {
-pos = (138,30);
+pos = (239,71);
 ref = acutecomb;
 }
 );
-width = 1104;
+width = 1284;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
-ref = ohorn;
+ref = ohorn.smcp;
 },
 {
-pos = (254,30);
+pos = (324,71);
 ref = acutecomb;
 }
 );
-width = 1303;
+width = 1310;
 }
 );
 }

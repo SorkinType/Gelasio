@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = emacronacute.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = e.smcp;
 },
 {
-pos = (656,242);
+pos = (583,71);
 ref = macroncomb_acutecomb;
 }
 );
-width = 1267;
+width = 1131;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = e.smcp;
 },
 {
-pos = (736,242);
+pos = (650,71);
 ref = macroncomb_acutecomb;
 }
 );
-width = 1406;
+width = 1157;
 }
 );
 }

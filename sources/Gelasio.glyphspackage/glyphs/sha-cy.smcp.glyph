@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "sha-cy.smcp";
 layers = (
 {
@@ -142,7 +143,7 @@ height = 79.88;
 width = 90;
 };
 };
-width = 2030;
+width = 1841;
 },
 {
 anchors = (
@@ -285,7 +286,7 @@ RMXScaler = {
 height = 79.88;
 };
 };
-width = 2491;
+width = 2249;
 }
 );
 userData = {

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = acircumflex.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (126,260);
+pos = (70,71);
 ref = circumflexcomb;
 }
 );
-width = 1305;
+width = 1171;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (242,260);
+pos = (96,71);
 ref = circumflexcomb;
 }
 );
-width = 1484;
+width = 1239;
 }
 );
 }

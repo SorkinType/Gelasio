@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = "ka-cy.smcp";
 layers = (
 {
@@ -162,7 +163,7 @@ height = 73;
 width = 90;
 };
 };
-width = 1335;
+width = 1200;
 },
 {
 anchors = (
@@ -319,7 +320,7 @@ height = 73;
 width = 90;
 };
 };
-width = 1506;
+width = 1413;
 }
 );
 userData = {

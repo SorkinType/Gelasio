@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Etilde;
 kernLeft = H;
 kernRight = E;

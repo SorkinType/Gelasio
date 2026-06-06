@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = acutecomb.case;
 kernLeft = acutecomb;
 kernRight = acutecomb;

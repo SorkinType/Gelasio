@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = one.osf;
 kernLeft = one.op;
 kernRight = one.op;

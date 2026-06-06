@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = bullet;
 kernLeft = bullet;
 kernRight = bullet;

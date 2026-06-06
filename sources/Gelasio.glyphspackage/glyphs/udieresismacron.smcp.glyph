@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = udieresismacron.smcp;
 layers = (
 {
@@ -8,15 +9,15 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (762,241);
+pos = (683,71);
 ref = dieresiscomb;
 },
 {
-pos = (762,616);
+pos = (683,446);
 ref = macroncomb;
 }
 );
-width = 1463;
+width = 1304;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -25,15 +26,15 @@ shapes = (
 ref = u.smcp;
 },
 {
-pos = (864,241);
+pos = (720,71);
 ref = dieresiscomb;
 },
 {
-pos = (864,699);
+pos = (720,529);
 ref = macroncomb;
 }
 );
-width = 1621;
+width = 1331;
 }
 );
 }

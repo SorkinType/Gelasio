@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = circumflexcomb_gravecomb.case;
 kernLeft = circumflexcomb;
 kernRight = circumflexcomb;

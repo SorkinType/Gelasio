@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Zacute;
 kernLeft = Z;
 kernRight = Z;

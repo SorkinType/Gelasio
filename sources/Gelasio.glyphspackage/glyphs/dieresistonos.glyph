@@ -1,5 +1,6 @@
 {
 category = Mark;
+color = 4;
 glyphname = dieresistonos;
 kernLeft = GRK_Epsilon;
 kernRight = GRK_Beta;
@@ -113,7 +114,7 @@ nodes = (
 );
 }
 );
-width = 1473;
+width = 1024;
 },
 {
 anchors = (
@@ -224,7 +225,7 @@ nodes = (
 );
 }
 );
-width = 1372;
+width = 1024;
 }
 );
 script = greek;

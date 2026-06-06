@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = gmacron.smcp;
 kernLeft = o;
 kernRight = g;
@@ -10,11 +11,11 @@ shapes = (
 ref = g.smcp;
 },
 {
-pos = (746,242);
+pos = (672,71);
 ref = macroncomb;
 }
 );
-width = 1405;
+width = 1257;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -23,11 +24,11 @@ shapes = (
 ref = g.smcp;
 },
 {
-pos = (856,242);
+pos = (713,71);
 ref = macroncomb;
 }
 );
-width = 1573;
+width = 1301;
 }
 );
 }

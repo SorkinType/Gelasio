@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = iota;
 layers = (
 {
@@ -83,10 +84,11 @@ nodes = (
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
+alignment = -1;
 ref = "iota-latin";
 }
 );
-width = 724;
+width = 701;
 }
 );
 unicode = 953;

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = euro;
 kernLeft = euro;
 kernRight = euro;

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = seven.lnum;
 kernLeft = seven.lf;
 kernRight = seven.lf;
@@ -49,7 +50,7 @@ nodes = (
 );
 }
 );
-width = 1029;
+width = 1106;
 },
 {
 background = {
@@ -98,7 +99,7 @@ name = hr00;
 );
 }
 );
-width = 1135;
+width = 1249;
 }
 );
 }

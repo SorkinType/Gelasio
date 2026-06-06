@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = cedi;
 kernLeft = O;
 kernRight = C;

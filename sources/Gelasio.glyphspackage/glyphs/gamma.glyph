@@ -1,5 +1,6 @@
 {
 category = Letter;
+color = 8;
 glyphname = gamma;
 kernLeft = GRK_gamma;
 kernRight = GRK_gamma;
@@ -82,7 +83,7 @@ nodes = (
 ref = nu;
 }
 );
-width = 1180;
+width = 1169;
 },
 {
 background = {
@@ -162,7 +163,7 @@ nodes = (
 ref = nu;
 }
 );
-width = 1079;
+width = 1052;
 }
 );
 script = greek;

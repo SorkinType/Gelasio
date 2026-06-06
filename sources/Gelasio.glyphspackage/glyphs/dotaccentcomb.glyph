@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = dotaccentcomb;
 kernLeft = dotaccentcomb;
 kernRight = dotaccentcomb;
@@ -47,29 +48,6 @@ name = top;
 pos = (0,1473);
 }
 );
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(114,1180,o),
-(188,1263,o),
-(188,1363,cs),
-(188,1464,o),
-(114,1547,o),
-(0,1547,cs),
-(-115,1547,o),
-(-188,1464,o),
-(-188,1363,cs),
-(-188,1263,o),
-(-115,1180,o),
-(0,1180,cs,{
-name = hr00;
-})
-);
-}
-);
-};
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {

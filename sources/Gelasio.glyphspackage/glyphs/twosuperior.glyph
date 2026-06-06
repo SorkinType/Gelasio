@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = twosuperior;
 kernLeft = twosuperior;
 kernRight = twosuperior;

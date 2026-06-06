@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = greater;
 kernLeft = greater;
 kernRight = greater;

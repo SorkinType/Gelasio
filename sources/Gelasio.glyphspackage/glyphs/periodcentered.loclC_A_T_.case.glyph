@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = periodcentered.loclCAT.case;
 kernLeft = periodcentered.loclCAT;
 kernRight = periodcentered.loclCAT;

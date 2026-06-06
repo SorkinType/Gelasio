@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = tenge;
 layers = (
 {
@@ -209,7 +210,7 @@ nodes = (
 );
 }
 );
-width = 1401;
+width = 1300;
 }
 );
 unicode = 8376;

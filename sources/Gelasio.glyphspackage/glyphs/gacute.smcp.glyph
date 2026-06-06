@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = gacute.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = g.smcp;
 },
 {
-pos = (332,242);
+pos = (258,71);
 ref = acutecomb;
 }
 );
-width = 1405;
+width = 1257;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = g.smcp;
 },
 {
-pos = (474,242);
+pos = (331,71);
 ref = acutecomb;
 }
 );
-width = 1573;
+width = 1301;
 }
 );
 }

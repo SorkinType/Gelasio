@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = figuredash;
 kernLeft = figuredash;
 kernRight = figuredash;

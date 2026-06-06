@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = gravecomb.case;
 kernLeft = gravecomb;
 kernRight = gravecomb;

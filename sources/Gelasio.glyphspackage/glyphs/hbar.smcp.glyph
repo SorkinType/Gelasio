@@ -1,4 +1,5 @@
 {
+color = 8;
 glyphname = hbar.smcp;
 kernLeft = h;
 kernRight = n;
@@ -97,7 +98,7 @@ pos = (-51,0);
 ref = h;
 }
 );
-width = 1192;
+width = 1366;
 },
 {
 background = {
@@ -193,7 +194,7 @@ pos = (-67,0);
 ref = h;
 }
 );
-width = 1392;
+width = 1575;
 }
 );
 }

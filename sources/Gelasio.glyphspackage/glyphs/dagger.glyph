@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = dagger;
 kernLeft = dagger;
 kernRight = dagger;

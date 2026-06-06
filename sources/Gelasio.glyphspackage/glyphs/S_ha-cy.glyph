@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 4;
 glyphname = "Sha-cy";
 kernLeft = B;
 kernRight = H;
@@ -194,7 +194,7 @@ nodes = (
 );
 }
 );
-width = 2491;
+width = 2639;
 },
 {
 anchors = (
@@ -386,7 +386,7 @@ nodes = (
 );
 }
 );
-width = 2210;
+width = 2249;
 },
 {
 anchors = (

@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Abrevedotbelow;
 kernLeft = A;
 kernRight = A;

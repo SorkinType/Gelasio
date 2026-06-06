@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = perthousand;
 kernLeft = percent;
 kernRight = percent;
@@ -238,17 +239,6 @@ width = 2469;
 {
 background = {
 shapes = (
-{
-closed = 1;
-nodes = (
-(531,0,l),
-(1410,1419,l,{
-name = hr02;
-}),
-(1263,1419,l),
-(386,0,l)
-);
-},
 {
 closed = 1;
 nodes = (

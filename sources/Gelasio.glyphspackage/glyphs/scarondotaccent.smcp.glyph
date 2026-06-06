@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = scarondotaccent.smcp;
 layers = (
 {
@@ -8,15 +9,15 @@ shapes = (
 ref = s.smcp;
 },
 {
-pos = (36,241);
+pos = (-19,71);
 ref = caroncomb;
 },
 {
-pos = (563,667);
+pos = (508,497);
 ref = dotaccentcomb;
 }
 );
-width = 1098;
+width = 992;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -25,15 +26,15 @@ shapes = (
 ref = s.smcp;
 },
 {
-pos = (146,241);
+pos = (46,71);
 ref = caroncomb;
 },
 {
-pos = (658,689);
+pos = (558,519);
 ref = dotaccentcomb;
 }
 );
-width = 1278;
+width = 1082;
 }
 );
 }

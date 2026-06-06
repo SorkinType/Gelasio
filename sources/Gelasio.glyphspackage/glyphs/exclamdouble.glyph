@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = exclamdouble;
 kernLeft = exclam;
 kernRight = exclam;
@@ -55,7 +56,7 @@ pos = (577,0);
 ref = exclam;
 }
 );
-width = 1362;
+width = 1361;
 }
 );
 unicode = 8252;

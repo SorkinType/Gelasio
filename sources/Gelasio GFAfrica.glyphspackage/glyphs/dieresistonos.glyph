@@ -1,0 +1,33 @@
+{
+color = 0;
+glyphname = dieresistonos;
+layers = (
+{
+layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
+shapes = (
+{
+ref = dieresiscomb;
+},
+{
+pos = (-414,375);
+ref = tonos;
+}
+);
+width = 0;
+},
+{
+layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
+shapes = (
+{
+ref = dieresiscomb;
+},
+{
+pos = (-382,458);
+ref = tonos;
+}
+);
+width = 600;
+}
+);
+unicode = 901;
+}

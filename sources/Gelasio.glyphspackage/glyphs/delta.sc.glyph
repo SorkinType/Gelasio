@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = delta.sc;
 kernLeft = GRK_Alpha.sc;
 kernRight = GRK_Alpha.sc;

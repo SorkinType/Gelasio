@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = Ecircumflexhookabove;
 kernLeft = H;
 kernRight = E;

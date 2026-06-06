@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = commaturnedabovecomb.case;
 kernLeft = commaturnedabovecomb;
 kernRight = commaturnedabovecomb;

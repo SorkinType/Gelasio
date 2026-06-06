@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 4;
 glyphname = "dzhe-cy";
 kernLeft = n;
 kernRight = u;
@@ -162,7 +162,7 @@ nodes = (
 );
 }
 );
-width = 1405;
+width = 1432;
 },
 {
 anchors = (
@@ -319,7 +319,7 @@ nodes = (
 );
 }
 );
-width = 1318;
+width = 1235;
 },
 {
 anchors = (

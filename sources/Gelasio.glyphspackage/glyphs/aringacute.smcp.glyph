@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = aringacute.smcp;
 layers = (
 {
@@ -83,15 +84,15 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (651,260);
+pos = (595,71);
 ref = ringcomb;
 },
 {
-pos = (521,591);
+pos = (465,402);
 ref = acutecomb;
 }
 );
-width = 1305;
+width = 1171;
 },
 {
 background = {
@@ -174,15 +175,15 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (740,260);
+pos = (594,71);
 ref = ringcomb;
 },
 {
-pos = (617,615);
+pos = (471,426);
 ref = acutecomb;
 }
 );
-width = 1484;
+width = 1239;
 }
 );
 }

@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = dieresiscomb.case;
 kernLeft = dieresis.cap;
 kernRight = dieresis.cap;

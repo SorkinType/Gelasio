@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = ij.smcp;
 kernLeft = idotless;
 kernRight = dotlessj;
@@ -26,14 +27,14 @@ ref = j.smcp;
 layerId = "DD6F9F34-BC40-4E8F-B1D3-DF3B42A9710F";
 shapes = (
 {
-ref = i;
+ref = i.smcp;
 },
 {
-pos = (600,0);
-ref = j;
+pos = (692,0);
+ref = j.smcp;
 }
 );
-width = 1198;
+width = 1622;
 },
 {
 anchors = (
@@ -58,14 +59,14 @@ ref = j.smcp;
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
 shapes = (
 {
-ref = i;
+ref = i.smcp;
 },
 {
-pos = (724,0);
-ref = j;
+pos = (788,0);
+ref = j.smcp;
 }
 );
-width = 1433;
+width = 1837;
 }
 );
 }

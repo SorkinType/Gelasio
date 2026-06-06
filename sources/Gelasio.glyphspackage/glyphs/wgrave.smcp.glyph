@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = wgrave.smcp;
 layers = (
 {
@@ -21,11 +22,11 @@ shapes = (
 ref = w.smcp;
 },
 {
-pos = (367,241);
+pos = (279,71);
 ref = gravecomb;
 }
 );
-width = 1895;
+width = 1689;
 },
 {
 background = {
@@ -47,11 +48,11 @@ shapes = (
 ref = w.smcp;
 },
 {
-pos = (593,242);
+pos = (418,71);
 ref = gravecomb;
 }
 );
-width = 2204;
+width = 1842;
 }
 );
 }

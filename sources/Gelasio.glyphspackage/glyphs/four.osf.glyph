@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = four.osf;
 kernLeft = four.op;
 kernRight = four.op;

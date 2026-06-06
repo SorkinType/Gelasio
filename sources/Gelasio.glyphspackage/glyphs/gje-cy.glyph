@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = "gje-cy";
 layers = (
 {
@@ -25,7 +26,7 @@ pos = (78,104);
 ref = acutecomb;
 }
 );
-width = 975;
+width = 901;
 },
 {
 background = {
@@ -51,7 +52,7 @@ pos = (153,104);
 ref = acutecomb;
 }
 );
-width = 1057;
+width = 1019;
 }
 );
 unicode = 1107;

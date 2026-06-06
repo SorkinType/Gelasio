@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = alphatonos;
 layers = (
 {
@@ -25,7 +26,7 @@ pos = (420,0);
 ref = tonos;
 }
 );
-width = 1309;
+width = 1224;
 },
 {
 background = {
@@ -51,7 +52,7 @@ pos = (368,0);
 ref = tonos;
 }
 );
-width = 1419;
+width = 1391;
 }
 );
 unicode = 940;

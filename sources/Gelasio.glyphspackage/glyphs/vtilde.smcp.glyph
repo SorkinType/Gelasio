@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = vtilde.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = v.smcp;
 },
 {
-pos = (718,241);
+pos = (586,71);
 ref = tildecomb;
 }
 );
-width = 1299;
+width = 1169;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = v.smcp;
 },
 {
-pos = (835,232);
+pos = (614,61);
 ref = tildecomb;
 }
 );
-width = 1495;
+width = 1257;
 }
 );
 }

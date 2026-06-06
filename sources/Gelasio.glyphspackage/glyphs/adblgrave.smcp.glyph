@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = adblgrave.smcp;
 layers = (
 {
@@ -8,11 +9,11 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (625,260);
+pos = (569,71);
 ref = dblgravecomb;
 }
 );
-width = 1305;
+width = 1171;
 },
 {
 layerId = "62CA62AF-CD91-478A-AB8B-28A62CC47DA0";
@@ -21,11 +22,11 @@ shapes = (
 ref = a.smcp;
 },
 {
-pos = (702,260);
+pos = (556,71);
 ref = dblgravecomb;
 }
 );
-width = 1484;
+width = 1239;
 }
 );
 }

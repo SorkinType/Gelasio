@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 4;
 glyphname = "em-cy";
 kernLeft = n;
 kernRight = u;
@@ -142,7 +142,7 @@ nodes = (
 );
 }
 );
-width = 1735;
+width = 1644;
 },
 {
 anchors = (
@@ -282,7 +282,7 @@ nodes = (
 );
 }
 );
-width = 1638;
+width = 1465;
 },
 {
 anchors = (
